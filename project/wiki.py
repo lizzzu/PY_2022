@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 start_time = time.time()
 
 def get_info(country, link):
+    country = ' '.join([c for _, c in reversed(list(enumerate(country.replace(',_', ',').split(','))))]).replace('_', ' ')
     m, s = divmod(int(time.time() - start_time), 60)
     print(f'[{m:02d}:{s:02d}] {country}')
     info = {
