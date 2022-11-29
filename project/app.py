@@ -7,13 +7,17 @@ app.config['JSON_SORT_KEYS'] = False
 app.config['JSONIFY_PRETTYPRINT_REGULAR'] = True
 
 def bad_request_page():
-    return '<header><title>400 Bad Request</title></header>\
+    return '<head><title>400 Bad Request</title></head>\
         <body><h1 style="margin-top: 1.5rem">Bad Request</h1><p>Wrong key</p></body>'
 
 @app.route('/')
 @app.route('/countries/')
 @app.route('/countries/all/')
 def all_countries():
+    """
+    Returns an array of JSON objects, each one corresponding to
+    a specific country and containing all the data found about it.
+    """
     db = DB.getDb('db.json').getAll()
     for j in db:
         for key in j.keys():
@@ -22,6 +26,12 @@ def all_countries():
 
 @app.route('/countries/by/<string:key>/')
 def countries_by_key(key):
+    """
+    Returns an array of JSON objects that contain only the name
+    and the value corresponding to the given key for each country.
+    If the given key is `name`, the JSON objects contain only
+    the name of the countries.
+    """
     db = DB.getDb('db.json').getAll()
     key = key.lower().replace('-', ' ')
     if key not in db[0].keys():
@@ -35,6 +45,13 @@ def countries_by_key(key):
 @app.route('/countries/by/<string:key>/top/')
 @app.route('/countries/by/<string:key>/top/<int:k>/')
 def top_by_key(key, k=207):
+    """
+    If the given key is `area`, `population` or `density`, the API
+    endpoint returns an array of JSON objects containing the name
+    and the value corresponding to the given key for each country
+    sorted descending by this value. If `k` is specified, only
+    the first `k` objects will be returned.
+    """
     if key not in ['area', 'population', 'density']:
         return Response(bad_request_page(), status=400)
     db = [{'name': j['name'], key: j[key]} for j in DB.getDb('db.json').getAll()]
@@ -42,8 +59,12 @@ def top_by_key(key, k=207):
 
 @app.route('/countries/by/<string:key>/<string:value>/')
 def countries_by_key_value(key, value):
+    """
+    Returns an array of JSON objects containing the name and the pair
+    `(key, value)` for each country that matches the given pair.
+    """
     db = DB.getDb('db.json').getAll()
-    key = key.replace('-', ' ')
+    key = key.replace('+', ' ').replace('-', ' ')
     if key in ['name', 'capital', 'largest city', 'languages', 'religion', 'government']:
         value = value.lower().replace('+', ' ')
         if key == 'name':

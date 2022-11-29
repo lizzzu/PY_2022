@@ -7,6 +7,10 @@ from bs4 import BeautifulSoup
 start_time = time.time()
 
 def get_info(country, link):
+    """
+    Builds and returns a dictionary for each country
+    by crawling the wikipedia page at the received url.
+    """
     country = ' '.join([c for _, c in reversed(list(enumerate(country.replace(',_', ',').split(','))))]).replace('_', ' ')
     m, s = divmod(int(time.time() - start_time), 60)
     print(f'[{m:02d}:{s:02d}] {country}')
@@ -69,8 +73,12 @@ def get_info(country, link):
     return info
 
 def init_db():
+    """
+    Initializes the JSON database, iterating through
+    all the countries and adding the corresponding info.
+    """
     root = 'https://en.wikipedia.org'
-    html = BeautifulSoup(requests.get(f'{root}/wiki/List_of_sovereign_states').content, 'html.parser')    
+    html = BeautifulSoup(requests.get(f'{root}/wiki/List_of_sovereign_states').content, 'html.parser')
     db = DB.getDb('db.json')
     for row in html.find('table', attrs={'class': 'sortable'}).find_all('tr'):
         cid = row.find('span')
@@ -78,9 +86,7 @@ def init_db():
             link = row.find('a')
             if link:
                 db.add(get_info(cid.get('id'), f'{root}{link.get("href")}'))
-    return db
 
 init_db()
-
 m, s = divmod(int(time.time() - start_time), 60)
 print(f'TIME {m:02d}:{s:02d}')
