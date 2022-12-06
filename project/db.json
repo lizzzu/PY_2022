@@ -5,9 +5,15 @@
          "link": "https://en.wikipedia.org/wiki/Afghanistan",
          "capital": "Kabul",
          "largest city": "Kabul",
-         "languages": "Pashto;Dari",
-         "religion": "Islam;Others",
-         "government": "Unitary provisional theocratic Islamic emirate",
+         "languages": [
+            "Pashto",
+            "Dari"
+         ],
+         "religions": [
+            "Islam",
+            "Others"
+         ],
+         "government": "Unitary totalitarian provisional theocratic Islamic emirate",
          "area": 652867.0,
          "population": 38346720,
          "density": 58.7,
@@ -15,15 +21,21 @@
          "currency": "AFN",
          "time zone": "UTC+4",
          "calling code": "+93",
-         "id": 205995297548545788
+         "id": 255677567288767040
       },
       {
          "name": "Albania",
          "link": "https://en.wikipedia.org/wiki/Albania",
          "capital": "Tirana",
          "largest city": "Tirana",
-         "languages": "Albanian",
-         "religion": "Islam;Christianity;No religion",
+         "languages": [
+            "Albanian"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "No religion"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 28748.0,
          "population": 2793592,
@@ -32,15 +44,22 @@
          "currency": "ALL",
          "time zone": "UTC+1",
          "calling code": "+355",
-         "id": 323231079878391200
+         "id": 136075159413192307
       },
       {
          "name": "Algeria",
          "link": "https://en.wikipedia.org/wiki/Algeria",
          "capital": "Algiers",
          "largest city": "Algiers",
-         "languages": "Arabic;Tamazight",
-         "religion": "Sunni Islam;Christians;Jews",
+         "languages": [
+            "Arabic",
+            "Tamazight"
+         ],
+         "religions": [
+            "Sunni Islam",
+            "Christians",
+            "Jews"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 2381741.0,
          "population": 44700000,
@@ -49,15 +68,20 @@
          "currency": "DZD",
          "time zone": "UTC+1",
          "calling code": "+213",
-         "id": 133777883906152794
+         "id": 181193325196681929
       },
       {
          "name": "Andorra",
          "link": "https://en.wikipedia.org/wiki/Andorra",
          "capital": "Andorra la Vella",
          "largest city": "Andorra la Vella",
-         "languages": "Catalan",
-         "religion": "Christianity;Catholicism",
+         "languages": [
+            "Catalan"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism"
+         ],
          "government": "Unitary parliamentary constitutional elective diarchy",
          "area": 467.63,
          "population": 77543,
@@ -66,15 +90,30 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+376",
-         "id": 679945415807743743
+         "id": 222186794747979246
       },
       {
          "name": "Angola",
          "link": "https://en.wikipedia.org/wiki/Angola",
          "capital": "Luanda",
          "largest city": "Luanda",
-         "languages": "Portuguese;Kimbundu;Umbundu;Chokwe;Kikongo",
-         "religion": "Christianity;Roman Catholic;Protestant;Christian;Traditional faiths;Islam;Other;None",
+         "languages": [
+            "Portuguese",
+            "Kimbundu",
+            "Umbundu",
+            "Chokwe",
+            "Kikongo"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Protestant",
+            "Christian",
+            "Traditional faiths",
+            "Islam",
+            "Other",
+            "None"
+         ],
          "government": "Unitary dominant-party presidential republic",
          "area": 1246700.0,
          "population": 34795287,
@@ -83,15 +122,24 @@
          "currency": "AOA",
          "time zone": "UTC+1",
          "calling code": "+244",
-         "id": 275145768100091870
+         "id": 255222333015852010
       },
       {
          "name": "Antigua and Barbuda",
          "link": "https://en.wikipedia.org/wiki/Antigua_and_Barbuda",
          "capital": "St. John's",
          "largest city": "St. John's",
-         "languages": "English",
-         "religion": "Christianity;Protestantism;Christian;Rastafari;No religion;Baha'i faith",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Christian",
+            "Rastafari",
+            "No religion",
+            "Baha'i faith"
+         ],
          "government": "Unitary dominant-party parliamentary constitutional monarchy",
          "area": 440.0,
          "population": 100772,
@@ -100,15 +148,22 @@
          "currency": "XCD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 119435050317548279
+         "id": 165884094310444038
       },
       {
          "name": "Argentina",
          "link": "https://en.wikipedia.org/wiki/Argentina",
          "capital": "Buenos Aires",
          "largest city": "Buenos Aires",
-         "languages": "Spanish",
-         "religion": "Christianity;Catholicism;Christian;No religion",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Christian",
+            "No religion"
+         ],
          "government": "Federal Presidential Republic",
          "area": 2780400.0,
          "population": 47327407,
@@ -117,15 +172,20 @@
          "currency": "ARS",
          "time zone": "UTC-3",
          "calling code": "+54",
-         "id": 237924191407052273
+         "id": 276668366860449360
       },
       {
          "name": "Armenia",
          "link": "https://en.wikipedia.org/wiki/Armenia",
          "capital": "Yerevan",
          "largest city": "Yerevan",
-         "languages": "Armenian",
-         "religion": "Christianity;Armenian Apostolic Church",
+         "languages": [
+            "Armenian"
+         ],
+         "religions": [
+            "Christianity",
+            "Armenian Apostolic Church"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 29743.0,
          "population": 3000756,
@@ -134,32 +194,51 @@
          "currency": "AMD",
          "time zone": "UTC+4",
          "calling code": "+374",
-         "id": 668625878787659985
+         "id": 169590872222562251
       },
       {
          "name": "Australia",
          "link": "https://en.wikipedia.org/wiki/Australia",
          "capital": "Canberra",
          "largest city": "Sydney",
-         "languages": "English",
-         "religion": "Christianity;No religion;Islam;Hinduism;Buddhism;Others",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion",
+            "Islam",
+            "Hinduism",
+            "Buddhism",
+            "Others"
+         ],
          "government": "Federal parliamentary constitutional monarchy",
          "area": 7692024.0,
-         "population": 26006500,
+         "population": 26010900,
          "density": 3.4,
          "driving side": "left",
          "currency": "AUD",
          "time zone": "UTC+8",
          "calling code": "+61",
-         "id": 266878658514754967
+         "id": 212726710630505618
       },
       {
          "name": "Austria",
          "link": "https://en.wikipedia.org/wiki/Austria",
          "capital": "Vienna",
          "largest city": "Vienna",
-         "languages": "German",
-         "religion": "Christianity;Catholicism;Orthodoxy;Christian;No religion;Islam;Others",
+         "languages": [
+            "German"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Orthodoxy",
+            "Christian",
+            "No religion",
+            "Islam",
+            "Others"
+         ],
          "government": "Federal parliamentary republic",
          "area": 83871.0,
          "population": 9027999,
@@ -168,15 +247,23 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+43",
-         "id": 113446470851312984
+         "id": 135490864949575359
       },
       {
          "name": "Azerbaijan",
          "link": "https://en.wikipedia.org/wiki/Azerbaijan",
          "capital": "Baku",
          "largest city": "Baku",
-         "languages": "Azerbaijani",
-         "religion": "Islam;Shia Islam;Sunni Islam;Christianity;No religion",
+         "languages": [
+            "Azerbaijani"
+         ],
+         "religions": [
+            "Islam",
+            "Shia Islam",
+            "Sunni Islam",
+            "Christianity",
+            "No religion"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 86600.0,
          "population": 10353296,
@@ -185,15 +272,23 @@
          "currency": "AZN",
          "time zone": "UTC+4",
          "calling code": "+994",
-         "id": 312503560337264222
+         "id": 122167517837763654
       },
       {
          "name": "Bahamas",
          "link": "https://en.wikipedia.org/wiki/The_Bahamas",
          "capital": "Nassau",
          "largest city": "Nassau",
-         "languages": "English",
-         "religion": "Christianity;Protestantism;Christian;No religion;Folk religions",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Christian",
+            "No religion",
+            "Folk religions"
+         ],
          "government": "Unitary parliamentary constitutional monarchy",
          "area": 13878.0,
          "population": 400516,
@@ -202,15 +297,25 @@
          "currency": "BSD",
          "time zone": "UTC-5",
          "calling code": "+1",
-         "id": 962231539367501716
+         "id": 134903153246535579
       },
       {
          "name": "Bahrain",
          "link": "https://en.wikipedia.org/wiki/Bahrain",
          "capital": "Manama",
          "largest city": "Manama",
-         "languages": "Arabic",
-         "religion": "Islam;Shia Islam;Sunni Islam;Christianity;Hinduism;No religion;Others",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [
+            "Islam",
+            "Shia Islam",
+            "Sunni Islam",
+            "Christianity",
+            "Hinduism",
+            "No religion",
+            "Others"
+         ],
          "government": "Unitary Islamic parliamentary semi-constitutional monarchy",
          "area": 786.5,
          "population": 1463265,
@@ -219,15 +324,23 @@
          "currency": "BHD",
          "time zone": "UTC+3",
          "calling code": "+973",
-         "id": 345211052114470330
+         "id": 169439456538457386
       },
       {
          "name": "Bangladesh",
          "link": "https://en.wikipedia.org/wiki/Bangladesh",
          "capital": "Dhaka",
          "largest city": "Dhaka",
-         "languages": "Bengali",
-         "religion": "Islam;Hinduism;Buddhism;Christianity;Others",
+         "languages": [
+            "Bengali"
+         ],
+         "religions": [
+            "Islam",
+            "Hinduism",
+            "Buddhism",
+            "Christianity",
+            "Others"
+         ],
          "government": "Unitary dominant-party parliamentary republic",
          "area": 130170.0,
          "population": 165158616,
@@ -236,15 +349,21 @@
          "currency": "BDT",
          "time zone": "UTC+6",
          "calling code": "+880",
-         "id": 302091593838958480
+         "id": 257458859972845517
       },
       {
          "name": "Barbados",
          "link": "https://en.wikipedia.org/wiki/Barbados",
          "capital": "Bridgetown",
          "largest city": "Bridgetown",
-         "languages": "English",
-         "religion": "Christianity;No religion;Others",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion",
+            "Others"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 439.0,
          "population": 287025,
@@ -253,15 +372,23 @@
          "currency": "BBD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 184524610845198440
+         "id": 258804217010075885
       },
       {
          "name": "Belarus",
          "link": "https://en.wikipedia.org/wiki/Belarus",
          "capital": "Minsk",
          "largest city": "Minsk",
-         "languages": "Belarusian;Russian",
-         "religion": "Christianity;Eastern Orthodoxy;Christian;No religion",
+         "languages": [
+            "Belarusian",
+            "Russian"
+         ],
+         "religions": [
+            "Christianity",
+            "Eastern Orthodoxy",
+            "Christian",
+            "No religion"
+         ],
          "government": "Unitary presidential republic under an authoritarian dictatorship",
          "area": 207595.0,
          "population": 9413505,
@@ -270,15 +397,25 @@
          "currency": "BYN",
          "time zone": "UTC+3",
          "calling code": "+375",
-         "id": 295197579644602272
+         "id": 324849451852526701
       },
       {
          "name": "Belgium",
          "link": "https://en.wikipedia.org/wiki/Belgium",
          "capital": "Brussels",
          "largest city": "Brussels",
-         "languages": "Dutch;French;German",
-         "religion": "Christianity;Roman Catholic;Christian;No religion;Islam",
+         "languages": [
+            "Dutch",
+            "French",
+            "German"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Christian",
+            "No religion",
+            "Islam"
+         ],
          "government": "Federal parliamentaryconstitutional monarchy",
          "area": 30528.0,
          "population": 11584008,
@@ -287,15 +424,22 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+32",
-         "id": 117272571214411279
+         "id": 541751943863487316
       },
       {
          "name": "Belize",
          "link": "https://en.wikipedia.org/wiki/Belize",
          "capital": "Belmopan",
          "largest city": "Belize City",
-         "languages": "English",
-         "religion": "Christianity;No religion;Folk religions;Other",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion",
+            "Folk religions",
+            "Other"
+         ],
          "government": "Unitary parliamentary constitutional monarchy",
          "area": 22966.0,
          "population": 412387,
@@ -304,15 +448,60 @@
          "currency": "BZD",
          "time zone": "UTC-6",
          "calling code": "+501",
-         "id": 328910472983731761
+         "id": 271035409137534553
       },
       {
          "name": "Benin",
          "link": "https://en.wikipedia.org/wiki/Benin",
          "capital": "Porto-Novo",
          "largest city": "Cotonou",
-         "languages": "French;French;Arabic;English;Aguna;Aja;Alada;Fon;Gbe;Gen;Gun;Pherá;Phla;Tofin;Tɔli;Waci;Berba;Kabye;Lama;Lukpa;Mbelime;Mossi;Nateni;Ngangam;Tammari;Tem;Waama;Yom;Kwa;Chakosi;Foodo;Ede;Ifè;Mokole;Yoruba;Yoruboid;Bariba;Dendi;Fula;Hausa",
-         "religion": "Christianity;Islam;No religion",
+         "languages": [
+            "French",
+            "French",
+            "Arabic",
+            "English",
+            "Aguna",
+            "Aja",
+            "Alada",
+            "Fon",
+            "Gbe",
+            "Gen",
+            "Gun",
+            "Pherá",
+            "Phla",
+            "Tofin",
+            "Tɔli",
+            "Waci",
+            "Berba",
+            "Kabye",
+            "Lama",
+            "Lukpa",
+            "Mbelime",
+            "Mossi",
+            "Nateni",
+            "Ngangam",
+            "Tammari",
+            "Tem",
+            "Waama",
+            "Yom",
+            "Kwa",
+            "Chakosi",
+            "Foodo",
+            "Ede",
+            "Ifè",
+            "Mokole",
+            "Yoruba",
+            "Yoruboid",
+            "Bariba",
+            "Dendi",
+            "Fula",
+            "Hausa"
+         ],
+         "religions": [
+            "Christianity",
+            "Islam",
+            "No religion"
+         ],
          "government": "Unitary presidential republic",
          "area": 114763.0,
          "population": 13754688,
@@ -321,15 +510,23 @@
          "currency": "XOF",
          "time zone": "UTC+1",
          "calling code": "+229",
-         "id": 127003764046351600
+         "id": 197400332246195603
       },
       {
          "name": "Bhutan",
          "link": "https://en.wikipedia.org/wiki/Bhutan",
          "capital": "Thimphu",
          "largest city": "Thimphu",
-         "languages": "Dzongkha",
-         "religion": "Buddhism;Hinduism;Bon;Christianity;Other",
+         "languages": [
+            "Dzongkha"
+         ],
+         "religions": [
+            "Buddhism",
+            "Hinduism",
+            "Bon",
+            "Christianity",
+            "Other"
+         ],
          "government": "Unitary parliamentary semi-constitutional monarchy",
          "area": 38394.0,
          "population": 777486,
@@ -338,15 +535,27 @@
          "currency": "BTN",
          "time zone": "UTC+6",
          "calling code": "+975",
-         "id": 272320953616488143
+         "id": 647294452616813645
       },
       {
          "name": "Bolivia",
          "link": "https://en.wikipedia.org/wiki/Bolivia",
          "capital": "La Paz",
          "largest city": "Santa Cruz de la Sierra",
-         "languages": "Spanish;Quechua;Aymara;Other Indigenous languages",
-         "religion": "Christianity;Catholicism;Protestantism;Christian;No religion;Other",
+         "languages": [
+            "Spanish",
+            "Quechua",
+            "Aymara",
+            "Other Indigenous languages"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Protestantism",
+            "Christian",
+            "No religion",
+            "Other"
+         ],
          "government": "Unitary presidential republic",
          "area": 1098581.0,
          "population": 12054379,
@@ -355,15 +564,26 @@
          "currency": "BOB",
          "time zone": "UTC-4",
          "calling code": "+591",
-         "id": 142209162831284639
+         "id": 293474726890330728
       },
       {
          "name": "Bosnia and Herzegovina",
          "link": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
          "capital": "Sarajevo",
          "largest city": "Sarajevo",
-         "languages": "Bosnian;Serbian;Croatian",
-         "religion": "Islam;Christianity;Serbian Orthodox Church;Roman Catholicism;No Religion;Others",
+         "languages": [
+            "Bosnian",
+            "Serbian",
+            "Croatian"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Serbian Orthodox Church",
+            "Roman Catholicism",
+            "No Religion",
+            "Others"
+         ],
          "government": "Federal parliamentary directorial republic",
          "area": 51129.0,
          "population": 3475000,
@@ -372,15 +592,24 @@
          "currency": "BAM",
          "time zone": "UTC+1",
          "calling code": "+387",
-         "id": 248238429842478192
+         "id": 879765422780131791
       },
       {
          "name": "Botswana",
          "link": "https://en.wikipedia.org/wiki/Botswana",
          "capital": "Gaborone",
          "largest city": "Gaborone",
-         "languages": "English;Setswana",
-         "religion": "Christianity;Protestantism;Christian;No religion;Badimo",
+         "languages": [
+            "English",
+            "Setswana"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Christian",
+            "No religion",
+            "Badimo"
+         ],
          "government": "Unitary dominant-party parliamentary republic with an executive presidency",
          "area": 581730.0,
          "population": 2384246,
@@ -389,15 +618,24 @@
          "currency": "BWP",
          "time zone": "UTC+2",
          "calling code": "+267",
-         "id": 616779500655301672
+         "id": 155756338497309607
       },
       {
          "name": "Brazil",
          "link": "https://en.wikipedia.org/wiki/Brazil",
          "capital": "Brasília",
          "largest city": "São Paulo",
-         "languages": "Portuguese",
-         "religion": "Christianity;Catholicism;Protestantism;Christian;No religion;Spiritism",
+         "languages": [
+            "Portuguese"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Protestantism",
+            "Christian",
+            "No religion",
+            "Spiritism"
+         ],
          "government": "Federal presidential constitutional republic",
          "area": 8515767.0,
          "population": 217240060,
@@ -406,15 +644,21 @@
          "currency": "BRL",
          "time zone": "UTC-2",
          "calling code": "+55",
-         "id": 336617634736218212
+         "id": 145474281949515714
       },
       {
          "name": "Brunei",
          "link": "https://en.wikipedia.org/wiki/Brunei",
          "capital": "Bandar Seri Begawan",
          "largest city": "Bandar Seri Begawan",
-         "languages": "Malay;Malay alphabet;Jawi alphabet",
-         "religion": "Sunni Islam",
+         "languages": [
+            "Malay",
+            "Malay alphabet",
+            "Jawi alphabet"
+         ],
+         "religions": [
+            "Sunni Islam"
+         ],
          "government": "Unitary Islamic absolute monarchy",
          "area": 5765.0,
          "population": 460345,
@@ -423,15 +667,25 @@
          "currency": "BND",
          "time zone": "UTC+8",
          "calling code": "+673",
-         "id": 119120652249520184
+         "id": 576562150925330274
       },
       {
          "name": "Bulgaria",
          "link": "https://en.wikipedia.org/wiki/Bulgaria",
          "capital": "Sofia",
          "largest city": "Sofia",
-         "languages": "Bulgarian;Cyrillic",
-         "religion": "Christianity;Bulgarian Orthodoxy;Christian;No religion;Islam;Others",
+         "languages": [
+            "Bulgarian",
+            "Cyrillic"
+         ],
+         "religions": [
+            "Christianity",
+            "Bulgarian Orthodoxy",
+            "Christians",
+            "Unaffiliated",
+            "Islam",
+            "Others"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 110993.6,
          "population": 6520314,
@@ -440,15 +694,23 @@
          "currency": "BGN",
          "time zone": "UTC+2",
          "calling code": "+359",
-         "id": 500232566511459880
+         "id": 103695939073167693
       },
       {
          "name": "Burkina Faso",
          "link": "https://en.wikipedia.org/wiki/Burkina_Faso",
          "capital": "Ouagadougou",
          "largest city": "Ouagadougou",
-         "languages": "French",
-         "religion": "Islam;Christianity;Traditional faiths;Others;None",
+         "languages": [
+            "French"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Traditional faiths",
+            "Others",
+            "None"
+         ],
          "government": "Unitary state under a military junta",
          "area": 274200.0,
          "population": 21935389,
@@ -457,15 +719,28 @@
          "currency": "XOF",
          "time zone": "UTC",
          "calling code": "+226",
-         "id": 295604881752231633
+         "id": 169870897604140117
       },
       {
          "name": "Burundi",
          "link": "https://en.wikipedia.org/wiki/Burundi",
          "capital": "Gitega",
          "largest city": "Bujumbura",
-         "languages": "Kirundi;French;English",
-         "religion": "Christianity;Roman Catholic;Protestant;Christian;Traditional faiths;Islam;Others;None",
+         "languages": [
+            "Kirundi",
+            "French",
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Protestant",
+            "Christian",
+            "Traditional faiths",
+            "Islam",
+            "Others",
+            "None"
+         ],
          "government": "Unitary dominant-party presidential republic",
          "area": 27834.0,
          "population": 11865821,
@@ -474,15 +749,23 @@
          "currency": "FB",
          "time zone": "UTC+2",
          "calling code": "+257",
-         "id": 197831119259600312
+         "id": 651354864945257276
       },
       {
          "name": "Cambodia",
          "link": "https://en.wikipedia.org/wiki/Cambodia",
          "capital": "Phnom Penh",
          "largest city": "Phnom Penh",
-         "languages": "Khmer;Khmer",
-         "religion": "Buddhism;Islam;Christianity;Others",
+         "languages": [
+            "Khmer",
+            "Khmer"
+         ],
+         "religions": [
+            "Buddhism",
+            "Islam",
+            "Christianity",
+            "Others"
+         ],
          "government": "Unitary dominant-party parliamentary elective constitutional monarchy",
          "area": 181035.0,
          "population": 16713015,
@@ -491,16 +774,24 @@
          "currency": "KHR",
          "time zone": "UTC+7",
          "calling code": "+855",
-         "id": 239846043633489785
+         "id": 169878827134763163
       },
       {
          "name": "Cameroon",
          "link": "https://en.wikipedia.org/wiki/Cameroon",
          "capital": "Yaoundé",
          "largest city": "Douala",
-         "languages": "French;English",
-         "religion": "Christianity;Islam;Traditional faiths;No religion",
-         "government": "Unitary dominant-party presidential republicverification needed",
+         "languages": [
+            "French",
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Islam",
+            "Traditional faiths",
+            "No religion"
+         ],
+         "government": "Unitary dominant-party presidential republic",
          "area": 475442.0,
          "population": 29321637,
          "density": 61.7,
@@ -508,15 +799,18 @@
          "currency": "XAF",
          "time zone": "UTC+1",
          "calling code": "+237",
-         "id": 235392241127451415
+         "id": 167182245889555349
       },
       {
          "name": "Canada",
          "link": "https://en.wikipedia.org/wiki/Canada",
          "capital": "Ottawa",
          "largest city": "Toronto",
-         "languages": "English;French",
-         "religion": "",
+         "languages": [
+            "English",
+            "French"
+         ],
+         "religions": [],
          "government": "Federal parliamentaryconstitutional monarchy",
          "area": 9093507.0,
          "population": 38929902,
@@ -525,15 +819,22 @@
          "currency": "CAD",
          "time zone": "UTC-3",
          "calling code": "+1",
-         "id": 595583920470936155
+         "id": 116182536718472010
       },
       {
          "name": "Cape Verde",
          "link": "https://en.wikipedia.org/wiki/Cape_Verde",
          "capital": "Praia",
          "largest city": "Praia",
-         "languages": "Portuguese",
-         "religion": "Christianity;Catholicism;Christian;No religion",
+         "languages": [
+            "Portuguese"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Christian",
+            "No religion"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 4033.0,
          "population": 561901,
@@ -542,15 +843,26 @@
          "currency": "CVE",
          "time zone": "UTC-1",
          "calling code": "+238",
-         "id": 309413676379791572
+         "id": 183693355326552044
       },
       {
          "name": "Central African Republic",
          "link": "https://en.wikipedia.org/wiki/Central_African_Republic",
          "capital": "Bangui",
          "largest city": "Bangui",
-         "languages": "French;Sango",
-         "religion": "Christianity;Protestantism;Catholicism;Islam;Traditional faiths;Others;None",
+         "languages": [
+            "French",
+            "Sango"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Catholicism",
+            "Islam",
+            "Traditional faiths",
+            "Others",
+            "None"
+         ],
          "government": "Unitary presidential republic",
          "area": 622984.0,
          "population": 5454533,
@@ -559,15 +871,23 @@
          "currency": "XAF",
          "time zone": "UTC+1",
          "calling code": "+236",
-         "id": 174938820960668606
+         "id": 144515927660837150
       },
       {
          "name": "Chad",
          "link": "https://en.wikipedia.org/wiki/Chad",
          "capital": "N'Djamena",
          "largest city": "N'Djamena",
-         "languages": "Arabic;French",
-         "religion": "Islam;Christianity;No religion;Animism",
+         "languages": [
+            "Arabic",
+            "French"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "No religion",
+            "Animism"
+         ],
          "government": "Unitary republic under a military junta",
          "area": 1284000.0,
          "population": 17963211,
@@ -576,15 +896,22 @@
          "currency": "XAF",
          "time zone": "UTC+1",
          "calling code": "+235",
-         "id": 177258675127363012
+         "id": 150679892252714129
       },
       {
          "name": "Chile",
          "link": "https://en.wikipedia.org/wiki/Chile",
          "capital": "Santiago",
          "largest city": "Santiago",
-         "languages": "Spanish",
-         "religion": "Christianity;Catholicism;Christian;No religion",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Christian",
+            "No religion"
+         ],
          "government": " September ",
          "area": 756096.3,
          "population": 18430408,
@@ -593,15 +920,25 @@
          "currency": "CLP",
          "time zone": "UTC-4",
          "calling code": "+56",
-         "id": 280000414468230191
+         "id": 204122447048251100
       },
       {
          "name": "China",
          "link": "https://en.wikipedia.org/wiki/China",
          "capital": "Beijing",
          "largest city": "Shanghai",
-         "languages": "Standard Chinese;Simplified Chinese",
-         "religion": "No religion;Folk;Buddhism;Christianity;Islam;Others",
+         "languages": [
+            "Standard Chinese",
+            "Simplified Chinese"
+         ],
+         "religions": [
+            "No religion",
+            "Folk",
+            "Buddhism",
+            "Christianity",
+            "Islam",
+            "Others"
+         ],
          "government": "Unitary Marxist-Leninist one-party socialist republic",
          "area": 9596961.0,
          "population": 1410539758,
@@ -610,15 +947,22 @@
          "currency": "CNY",
          "time zone": "UTC+8",
          "calling code": "+86",
-         "id": 334199006549483733
+         "id": 102873299450244525
       },
       {
          "name": "Colombia",
          "link": "https://en.wikipedia.org/wiki/Colombia",
          "capital": "Bogotá",
          "largest city": "Bogotá",
-         "languages": "Spanish",
-         "religion": "Christianity;Roman Catholic;Christian;No religion",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Christian",
+            "No religion"
+         ],
          "government": "Unitary presidential republic",
          "area": 1141748.0,
          "population": 52156254,
@@ -627,15 +971,21 @@
          "currency": "COP",
          "time zone": "UTC-5",
          "calling code": "+57",
-         "id": 348327493877465428
+         "id": 312251307717666069
       },
       {
          "name": "Comoros",
          "link": "https://en.wikipedia.org/wiki/Comoros",
          "capital": "Moroni",
          "largest city": "Moroni",
-         "languages": "French;Arabic",
-         "religion": "Islam;Christianity",
+         "languages": [
+            "French",
+            "Arabic"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity"
+         ],
          "government": "Federal Islamic presidential republic",
          "area": 1861.0,
          "population": 850886,
@@ -644,15 +994,25 @@
          "currency": "KMF",
          "time zone": "UTC+3",
          "calling code": "+269",
-         "id": 830277963309053083
+         "id": 214851638039224745
       },
       {
          "name": "Democratic Republic of the Congo",
          "link": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
          "capital": "Kinshasa",
          "largest city": "Kinshasa",
-         "languages": "French",
-         "religion": "Christianity;Catholicism;Christian;Traditional faiths;Islam;Others;None",
+         "languages": [
+            "French"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Christian",
+            "Traditional faiths",
+            "Islam",
+            "Others",
+            "None"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 2345409.0,
          "population": 108407721,
@@ -661,15 +1021,22 @@
          "currency": "CDF",
          "time zone": "UTC+1",
          "calling code": "+243",
-         "id": 102219331530685308
+         "id": 283275876786159315
       },
       {
          "name": "Republic of the Congo",
          "link": "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
          "capital": "Brazzaville",
          "largest city": "Brazzaville",
-         "languages": "French",
-         "religion": "Christianity;No religion;Traditional faiths;Islam",
+         "languages": [
+            "French"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion",
+            "Traditional faiths",
+            "Islam"
+         ],
          "government": "Unitary dominant-party semi-presidential republic",
          "area": 342000.0,
          "population": 5546307,
@@ -678,15 +1045,23 @@
          "currency": "XAF",
          "time zone": "UTC+1",
          "calling code": "+242",
-         "id": 190546996584012658
+         "id": 244792660589644221
       },
       {
          "name": "Costa Rica",
          "link": "https://en.wikipedia.org/wiki/Costa_Rica",
          "capital": "San José",
          "largest city": "San José",
-         "languages": "Spanish",
-         "religion": "Christianity;Roman Catholic;Protestant;Christian;No religion",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Protestant",
+            "Christian",
+            "No religion"
+         ],
          "government": "Unitary presidential republic",
          "area": 51100.0,
          "population": 5204411,
@@ -695,15 +1070,24 @@
          "currency": "CRC",
          "time zone": "UTC-6",
          "calling code": "+506",
-         "id": 247796605886145825
+         "id": 183536571296155392
       },
       {
          "name": "Croatia",
          "link": "https://en.wikipedia.org/wiki/Croatia",
          "capital": "Zagreb",
          "largest city": "Zagreb",
-         "languages": "Croatian",
-         "religion": "Christianity;Catholicism;Orthodoxy;Christian;No religion;Others",
+         "languages": [
+            "Croatian"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Orthodoxy",
+            "Christian",
+            "No religion",
+            "Others"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 56594.0,
          "population": 3871833,
@@ -712,15 +1096,21 @@
          "currency": "HRK",
          "time zone": "UTC+1",
          "calling code": "+385",
-         "id": 552207404391674405
+         "id": 183203492045384986
       },
       {
          "name": "Cuba",
          "link": "https://en.wikipedia.org/wiki/Cuba",
          "capital": "Havana",
          "largest city": "Havana",
-         "languages": "Spanish",
-         "religion": "Christianity;No religion;Folk religions",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion",
+            "Folk religions"
+         ],
          "government": "Unitary Marxist-Leninist one-party socialist republic",
          "area": 109884.0,
          "population": 11008112,
@@ -729,15 +1119,22 @@
          "currency": "CUP",
          "time zone": "UTC-5",
          "calling code": "+53",
-         "id": 158243557285805856
+         "id": 287451126105199182
       },
       {
          "name": "Cyprus",
          "link": "https://en.wikipedia.org/wiki/Cyprus",
          "capital": "Nicosia",
          "largest city": "Nicosia",
-         "languages": "Greek;Turkish",
-         "religion": "Christianity;Islam;No religion",
+         "languages": [
+            "Greek",
+            "Turkish"
+         ],
+         "religions": [
+            "Christianity",
+            "Islam",
+            "No religion"
+         ],
          "government": "Unitary presidential republic",
          "area": 9251.0,
          "population": 1244188,
@@ -746,15 +1143,35 @@
          "currency": "EUR",
          "time zone": "UTC+2",
          "calling code": "+357",
-         "id": 204845768233745684
+         "id": 303829177079413160
       },
       {
          "name": "Czech Republic",
          "link": "https://en.wikipedia.org/wiki/Czech_Republic",
          "capital": "Prague",
          "largest city": "Prague",
-         "languages": "Czech;Belarusian;German;Greek;Hungarian;Polish;Romani;Russian;Rusyn;Serbian;Slovak;Ukrainian;Vietnamese",
-         "religion": "No religion;Christianity;Catholicism;Christian;Others",
+         "languages": [
+            "Czech",
+            "Belarusian",
+            "German",
+            "Greek",
+            "Hungarian",
+            "Polish",
+            "Romani",
+            "Russian",
+            "Rusyn",
+            "Serbian",
+            "Slovak",
+            "Ukrainian",
+            "Vietnamese"
+         ],
+         "religions": [
+            "No religion",
+            "Christianity",
+            "Catholicism",
+            "Christian",
+            "Others"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 78871.0,
          "population": 10516707,
@@ -763,15 +1180,24 @@
          "currency": "CZK",
          "time zone": "UTC+1",
          "calling code": "+420",
-         "id": 101537446585028626
+         "id": 335375361743394456
       },
       {
          "name": "Denmark",
          "link": "https://en.wikipedia.org/wiki/Denmark",
          "capital": "Copenhagen",
          "largest city": "Copenhagen",
-         "languages": "Danish",
-         "religion": "Christianity;Church of Denmark;Christian;No religion;Islam;Others",
+         "languages": [
+            "Danish"
+         ],
+         "religions": [
+            "Christianity",
+            "Church of Denmark",
+            "Christian",
+            "No religion",
+            "Islam",
+            "Others"
+         ],
          "government": "Unitary parliamentary constitutional monarchy",
          "area": 42943.0,
          "population": 5928364,
@@ -780,15 +1206,23 @@
          "currency": "DKK",
          "time zone": "UTC+1",
          "calling code": "+45",
-         "id": 158988317210376489
+         "id": 250145203708347544
       },
       {
          "name": "Djibouti",
          "link": "https://en.wikipedia.org/wiki/Djibouti",
          "capital": "Djibouti",
          "largest city": "Djibouti",
-         "languages": "Arabic;French;Somali;Afar",
-         "religion": "Islam;Christianity",
+         "languages": [
+            "Arabic",
+            "French",
+            "Somali",
+            "Afar"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity"
+         ],
          "government": "Unitary presidential republic under a hereditary dictatorship",
          "area": 23200.0,
          "population": 957273,
@@ -797,15 +1231,22 @@
          "currency": "DJF",
          "time zone": "UTC+3",
          "calling code": "+253",
-         "id": 332102854038610169
+         "id": 988259885712514206
       },
       {
          "name": "Dominica",
          "link": "https://en.wikipedia.org/wiki/Dominica",
          "capital": "Roseau",
          "largest city": "Roseau",
-         "languages": "English",
-         "religion": "Christianity;Folk religions;Other;None",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Folk religions",
+            "Other",
+            "None"
+         ],
          "government": "Unitary dominant-party parliamentary republic",
          "area": 750.0,
          "population": 72412,
@@ -814,15 +1255,24 @@
          "currency": "XCD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 564538072517978604
+         "id": 273037508194504697
       },
       {
          "name": "Dominican Republic",
          "link": "https://en.wikipedia.org/wiki/Dominican_Republic",
          "capital": "Santo Domingo",
          "largest city": "Santo Domingo",
-         "languages": "Spanish",
-         "religion": "Christianity;Roman Catholic;Protestant;Christian;No religion;Other",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Protestant",
+            "Christian",
+            "No religion",
+            "Other"
+         ],
          "government": "Unitary presidential republic",
          "area": 48671.0,
          "population": 10694700,
@@ -831,15 +1281,40 @@
          "currency": "DOP",
          "time zone": "UTC",
          "calling code": "+1",
-         "id": 162650964919327412
+         "id": 196457301092100469
       },
       {
          "name": "East Timor",
          "link": "https://en.wikipedia.org/wiki/East_Timor",
          "capital": "Dili",
          "largest city": "Dili",
-         "languages": "Portuguese;Tetum;Atauru;Baikeno;Bekais;Bunak;Fataluku;Galoli;Habun;Idalaka;Kawaimina;Kemak;Makalero;Makasae;Makuva;Mambai;Tokodede;English;Indonesian",
-         "religion": "Christianity;Catholicism;Protestantism;Islam",
+         "languages": [
+            "Portuguese",
+            "Tetum",
+            "Atauru",
+            "Baikeno",
+            "Bekais",
+            "Bunak",
+            "Fataluku",
+            "Galoli",
+            "Habun",
+            "Idalaka",
+            "Kawaimina",
+            "Kemak",
+            "Makalero",
+            "Makasae",
+            "Makuva",
+            "Mambai",
+            "Tokodede",
+            "English",
+            "Indonesian"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Protestantism",
+            "Islam"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 14874.0,
          "population": 1340513,
@@ -848,15 +1323,23 @@
          "currency": "USD",
          "time zone": "UTC+9",
          "calling code": "+670",
-         "id": 809575252719045900
+         "id": 145695321028249282
       },
       {
          "name": "Ecuador",
          "link": "https://en.wikipedia.org/wiki/Ecuador",
          "capital": "Quito",
          "largest city": "Quito",
-         "languages": "Spanish",
-         "religion": "Christianity;Roman Catholic;Protestant;Christian;No religion",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Protestant",
+            "Christian",
+            "No religion"
+         ],
          "government": "Unitary presidential republic",
          "area": 256370.0,
          "population": 17289554,
@@ -865,15 +1348,20 @@
          "currency": "USD",
          "time zone": "UTC-5",
          "calling code": "+593",
-         "id": 171967258264660097
+         "id": 183925775977637709
       },
       {
          "name": "Egypt",
          "link": "https://en.wikipedia.org/wiki/Egypt",
          "capital": "Cairo",
          "largest city": "Cairo",
-         "languages": "Arabic;Egyptian Arabic",
-         "religion": "Religion in Egypt",
+         "languages": [
+            "Arabic",
+            "Egyptian Arabic"
+         ],
+         "religions": [
+            "Religion in Egypt"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 1010408.0,
          "population": 107770524,
@@ -882,15 +1370,24 @@
          "currency": "LE",
          "time zone": "UTC+2",
          "calling code": "+20",
-         "id": 234393969086897489
+         "id": 258440800524785948
       },
       {
          "name": "El Salvador",
          "link": "https://en.wikipedia.org/wiki/El_Salvador",
          "capital": "San Salvador",
          "largest city": "San Salvador",
-         "languages": "Spanish",
-         "religion": "Christianity;Roman Catholic;Protestant;Christian;No religion;Other",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Protestant",
+            "Christian",
+            "No religion",
+            "Other"
+         ],
          "government": "Unitary presidential republic",
          "area": 21041.0,
          "population": 6568745,
@@ -899,16 +1396,25 @@
          "currency": "USD",
          "time zone": "UTC-6",
          "calling code": "+503",
-         "id": 242410448330235497
+         "id": 290211928515240691
       },
       {
          "name": "Equatorial Guinea",
          "link": "https://en.wikipedia.org/wiki/Equatorial_Guinea",
          "capital": "Malabo",
          "largest city": "Bata",
-         "languages": "Spanish;French;Portuguese",
-         "religion": "Christianity;No religion;Islam;Traditional faiths",
-         "government": "Unitary presidential republic under a dictatorship",
+         "languages": [
+            "Spanish",
+            "French",
+            "Portuguese"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion",
+            "Islam",
+            "Traditional faiths"
+         ],
+         "government": "Unitary dominant-party presidential republic under a dictatorship",
          "area": 28050.0,
          "population": 1679172,
          "density": 59.9,
@@ -916,15 +1422,24 @@
          "currency": "XAF",
          "time zone": "UTC+1",
          "calling code": "+240",
-         "id": 251162792046631416
+         "id": 172201996324937792
       },
       {
          "name": "Eritrea",
          "link": "https://en.wikipedia.org/wiki/Eritrea",
          "capital": "Asmara",
          "largest city": "Asmara",
-         "languages": "Tigrinya;Arabic;English",
-         "religion": "Christianity;Islam;Others;None",
+         "languages": [
+            "Tigrinya",
+            "Arabic",
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Islam",
+            "Others",
+            "None"
+         ],
          "government": "Unitary one-party presidential republic under a totalitarian dictatorship",
          "area": 117600.0,
          "population": 6209262,
@@ -933,15 +1448,24 @@
          "currency": "ERN",
          "time zone": "UTC+3",
          "calling code": "+291",
-         "id": 206823658294480304
+         "id": 975509283313744437
       },
       {
          "name": "Estonia",
          "link": "https://en.wikipedia.org/wiki/Estonia",
          "capital": "Tallinn",
          "largest city": "Tallinn",
-         "languages": "Estonian",
-         "religion": "No religion;Christianity;Orthodoxy;Lutheranism;Christian;Others",
+         "languages": [
+            "Estonian"
+         ],
+         "religions": [
+            "No religion",
+            "Christianity",
+            "Orthodoxy",
+            "Lutheranism",
+            "Christian",
+            "Others"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 45339.0,
          "population": 1331796,
@@ -950,15 +1474,24 @@
          "currency": "EUR",
          "time zone": "UTC+2",
          "calling code": "+372",
-         "id": 787618941955348744
+         "id": 619482537782608854
       },
       {
          "name": "Eswatini",
          "link": "https://en.wikipedia.org/wiki/Eswatini",
          "capital": "Mbabane",
          "largest city": "Manzini",
-         "languages": "Swazi;English",
-         "religion": "Christianity;Protestantism;Christian;No religion;Traditional faiths",
+         "languages": [
+            "Swazi",
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Christian",
+            "No religion",
+            "Traditional faiths"
+         ],
          "government": "Unitary absolute monarchy",
          "area": 17364.0,
          "population": 1160164,
@@ -967,15 +1500,30 @@
          "currency": "SZL",
          "time zone": "UTC+2",
          "calling code": "+268",
-         "id": 793480039346525859
+         "id": 157785783748542909
       },
       {
          "name": "Ethiopia",
          "link": "https://en.wikipedia.org/wiki/Ethiopia",
          "capital": "Addis Ababa",
          "largest city": "Addis Ababa",
-         "languages": "Afar;Amharic;Oromo;Somali;Tigrinya",
-         "religion": "Christianity;Ethiopian Orthodoxy;P'ent'ay;Christian;Islam;Traditional faiths;Others;None",
+         "languages": [
+            "Afar",
+            "Amharic",
+            "Oromo",
+            "Somali",
+            "Tigrinya"
+         ],
+         "religions": [
+            "Christianity",
+            "Ethiopian Orthodoxy",
+            "P'ent'ay",
+            "Christian",
+            "Islam",
+            "Traditional faiths",
+            "Others",
+            "None"
+         ],
          "government": "Federal parliamentary republic",
          "area": 1104300.0,
          "population": 113656596,
@@ -984,15 +1532,27 @@
          "currency": "ETB",
          "time zone": "UTC+3",
          "calling code": "+251",
-         "id": 935434763309238842
+         "id": 336873262196729321
       },
       {
          "name": "Fiji",
          "link": "https://en.wikipedia.org/wiki/Fiji",
          "capital": "Suva",
          "largest city": "Suva",
-         "languages": "Fijian;English;Fiji Hindi",
-         "religion": "Christianity;Methodism;Christian;Hinduism;Islam;Others;None",
+         "languages": [
+            "Fijian",
+            "English",
+            "Fiji Hindi"
+         ],
+         "religions": [
+            "Christianity",
+            "Methodism",
+            "Christian",
+            "Hinduism",
+            "Islam",
+            "Others",
+            "None"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 18274.0,
          "population": 926276,
@@ -1001,15 +1561,25 @@
          "currency": "FJD",
          "time zone": "UTC+12",
          "calling code": "+679",
-         "id": 359204922041647545
+         "id": 707713649240990747
       },
       {
          "name": "Finland",
          "link": "https://en.wikipedia.org/wiki/Finland",
          "capital": "Helsinki",
          "largest city": "Helsinki",
-         "languages": "Finnish;Swedish",
-         "religion": "Christianity;Lutheranism;Orthodoxy;Christian;No religion;Others",
+         "languages": [
+            "Finnish",
+            "Swedish"
+         ],
+         "religions": [
+            "Christianity",
+            "Lutheranism",
+            "Orthodoxy",
+            "Christian",
+            "No religion",
+            "Others"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 338455.0,
          "population": 5553000,
@@ -1018,15 +1588,22 @@
          "currency": "EUR",
          "time zone": "UTC+2",
          "calling code": "+358",
-         "id": 186924870286308949
+         "id": 217180368002844975
       },
       {
          "name": "France",
          "link": "https://en.wikipedia.org/wiki/France",
          "capital": "Paris",
          "largest city": "Paris",
-         "languages": "French",
-         "religion": "Christianity;No religion;Islam;Judaism",
+         "languages": [
+            "French"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion",
+            "Islam",
+            "Judaism"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 643801.0,
          "population": 67897000,
@@ -1035,15 +1612,22 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+33",
-         "id": 294051081546440873
+         "id": 320612755735622291
       },
       {
          "name": "Gabon",
          "link": "https://en.wikipedia.org/wiki/Gabon",
          "capital": "Libreville",
          "largest city": "Libreville",
-         "languages": "French",
-         "religion": "Christianity;Islam;No religion;Traditional faiths",
+         "languages": [
+            "French"
+         ],
+         "religions": [
+            "Christianity",
+            "Islam",
+            "No religion",
+            "Traditional faiths"
+         ],
          "government": "Unitary dominant-party presidential republic",
          "area": 267667.0,
          "population": 2340613,
@@ -1052,15 +1636,41 @@
          "currency": "XAF",
          "time zone": "UTC+1",
          "calling code": "+241",
-         "id": 703403863377265655
+         "id": 145456121145826917
       },
       {
          "name": "Gambia",
          "link": "https://en.wikipedia.org/wiki/The_Gambia",
          "capital": "Banjul",
          "largest city": "",
-         "languages": "English;Mandinka;Pulaar;Wolof;Serer;Jola;English;Arabic;Balanta;Hassaniya Arabic;Jola-Fonyi;Mandjak;Mankanya;Noon;Cangin;Dyula;Fula;Karon;Kassonke;Soninke;Gambian Sign Language;French",
-         "religion": "Islam;Christianity",
+         "languages": [
+            "English",
+            "Mandinka",
+            "Pulaar",
+            "Wolof",
+            "Serer",
+            "Jola",
+            "English",
+            "Arabic",
+            "Balanta",
+            "Hassaniya Arabic",
+            "Jola-Fonyi",
+            "Mandjak",
+            "Mankanya",
+            "Noon",
+            "Cangin",
+            "Dyula",
+            "Fula",
+            "Karon",
+            "Kassonke",
+            "Soninke",
+            "Gambian Sign Language",
+            "French"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity"
+         ],
          "government": "Unitary presidential republic",
          "area": 10689.0,
          "population": 2413403,
@@ -1069,15 +1679,24 @@
          "currency": "GMD",
          "time zone": "UTC",
          "calling code": "+220",
-         "id": 338313890099751691
+         "id": 726831243067547624
       },
       {
          "name": "Georgia",
          "link": "https://en.wikipedia.org/wiki/Georgia_(country)",
          "capital": "Tbilisi",
          "largest city": "Tbilisi",
-         "languages": "Georgian",
-         "religion": "Christianity;Georgian Orthodoxy;Christian;Islam;Others;None",
+         "languages": [
+            "Georgian"
+         ],
+         "religions": [
+            "Christianity",
+            "Georgian Orthodoxy",
+            "Christian",
+            "Islam",
+            "Others",
+            "None"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 69700.0,
          "population": 3688647,
@@ -1086,15 +1705,17 @@
          "currency": "GEL",
          "time zone": "UTC+4",
          "calling code": "+995",
-         "id": 124593805512654411
+         "id": 103106200189406428
       },
       {
          "name": "Germany",
          "link": "https://en.wikipedia.org/wiki/Germany",
          "capital": "Berlin",
          "largest city": "Berlin",
-         "languages": "German",
-         "religion": "",
+         "languages": [
+            "German"
+         ],
+         "religions": [],
          "government": "Federal parliamentary republic",
          "area": 357022.0,
          "population": 83695430,
@@ -1103,15 +1724,25 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+49",
-         "id": 517892375441923072
+         "id": 160523667100756772
       },
       {
          "name": "Ghana",
          "link": "https://en.wikipedia.org/wiki/Ghana",
          "capital": "Accra",
          "largest city": "Accra",
-         "languages": "English",
-         "religion": "Christianity;Protestantism;Christian;Islam;Traditional faiths;No religion;Other",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Christian",
+            "Islam",
+            "Traditional faiths",
+            "No religion",
+            "Other"
+         ],
          "government": "Unitary presidential republic",
          "area": 238535.0,
          "population": 32103042,
@@ -1120,15 +1751,23 @@
          "currency": "GHS",
          "time zone": "UTC",
          "calling code": "+233",
-         "id": 948853885448575456
+         "id": 224195619250345635
       },
       {
          "name": "Greece",
          "link": "https://en.wikipedia.org/wiki/Greece",
          "capital": "Athens",
          "largest city": "Athens",
-         "languages": "Greek",
-         "religion": "Christianity;Greek Orthodoxy;Christian;No religion;Islam",
+         "languages": [
+            "Greek"
+         ],
+         "religions": [
+            "Christianity",
+            "Greek Orthodoxy",
+            "Christian",
+            "No religion",
+            "Islam"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 131957.0,
          "population": 10432481,
@@ -1137,15 +1776,25 @@
          "currency": "EUR",
          "time zone": "UTC+2",
          "calling code": "+30",
-         "id": 762026065394278585
+         "id": 190271626790477556
       },
       {
          "name": "Grenada",
          "link": "https://en.wikipedia.org/wiki/Grenada",
          "capital": "St. George's",
          "largest city": "St. George's",
-         "languages": "English",
-         "religion": "Christianity;Roman Catholic;Protestant;Christian;Rastafari;No religion;Hinduism",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Protestant",
+            "Christian",
+            "Rastafari",
+            "No religion",
+            "Hinduism"
+         ],
          "government": "Unitary parliamentary constitutional monarchy",
          "area": 348.5,
          "population": 124610,
@@ -1154,15 +1803,23 @@
          "currency": "XCD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 322746454358066545
+         "id": 246056271057080019
       },
       {
          "name": "Guatemala",
          "link": "https://en.wikipedia.org/wiki/Guatemala",
          "capital": "Guatemala City",
          "largest city": "Guatemala City",
-         "languages": "Spanish",
-         "religion": "Christianity;Roman Catholic;Protestant;Christian;No religion",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Protestant",
+            "Christian",
+            "No religion"
+         ],
          "government": "Unitary presidential republic",
          "area": 108889.0,
          "population": 17703190,
@@ -1171,15 +1828,21 @@
          "currency": "GTQ",
          "time zone": "UTC-6",
          "calling code": "+502",
-         "id": 270454781970009836
+         "id": 207629962058873955
       },
       {
          "name": "Guinea",
          "link": "https://en.wikipedia.org/wiki/Guinea",
          "capital": "Conakry",
          "largest city": "",
-         "languages": "French",
-         "religion": "Islam;Christianity;Folk religions",
+         "languages": [
+            "French"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Folk religions"
+         ],
          "government": "Unitary republic under a military junta",
          "area": 245857.0,
          "population": 13237832,
@@ -1188,15 +1851,23 @@
          "currency": "GNF",
          "time zone": "UTC",
          "calling code": "+224",
-         "id": 267386958577496144
+         "id": 622129915764681457
       },
       {
          "name": "Guinea-Bissau",
          "link": "https://en.wikipedia.org/wiki/Guinea-Bissau",
          "capital": "Bissau",
          "largest city": "Bissau",
-         "languages": "Portuguese",
-         "religion": "Islam;Traditional faiths;Christianity;Others;None",
+         "languages": [
+            "Portuguese"
+         ],
+         "religions": [
+            "Islam",
+            "Traditional faiths",
+            "Christianity",
+            "Others",
+            "None"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 36125.0,
          "population": 2026778,
@@ -1205,15 +1876,23 @@
          "currency": "XOF",
          "time zone": "UTC",
          "calling code": "+245",
-         "id": 997325329602157494
+         "id": 192334947723449231
       },
       {
          "name": "Guyana",
          "link": "https://en.wikipedia.org/wiki/Guyana",
          "capital": "Georgetown",
          "largest city": "Georgetown",
-         "languages": "English",
-         "religion": "Christianity;Hinduism;Islam;No religion;Others",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Hinduism",
+            "Islam",
+            "No religion",
+            "Others"
+         ],
          "government": "Unitary assembly-independent republic",
          "area": 214970.0,
          "population": 795408,
@@ -1222,15 +1901,22 @@
          "currency": "GYD",
          "time zone": "UTC-4",
          "calling code": "+592",
-         "id": 199840721270228291
+         "id": 176372305638295698
       },
       {
          "name": "Haiti",
          "link": "https://en.wikipedia.org/wiki/Haiti",
          "capital": "Port-au-Prince",
          "largest city": "Port-au-Prince",
-         "languages": "French;Haitian Creole",
-         "religion": "Christianity;No religion;Folk religions",
+         "languages": [
+            "Haitian Creole",
+            "French"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion",
+            "Folk religions"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 27800.0,
          "population": 11334637,
@@ -1239,15 +1925,22 @@
          "currency": "HTG",
          "time zone": "UTC-5",
          "calling code": "+509",
-         "id": 169138762420357816
+         "id": 794921332835853082
       },
       {
          "name": "Honduras",
          "link": "https://en.wikipedia.org/wiki/Honduras",
          "capital": "Tegucigalpa",
          "largest city": "Tegucigalpa",
-         "languages": "Spanish",
-         "religion": "Christianity;Catholicism;Protestantism;No religion",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Protestantism",
+            "No religion"
+         ],
          "government": "Unitary presidential republic",
          "area": 112492.0,
          "population": 9459440,
@@ -1256,32 +1949,49 @@
          "currency": "HNL",
          "time zone": "UTC-6",
          "calling code": "+504",
-         "id": 331845673030842786
+         "id": 125232745057063918
       },
       {
          "name": "Hungary",
          "link": "https://en.wikipedia.org/wiki/Hungary",
          "capital": "Budapest",
          "largest city": "Budapest",
-         "languages": "Hungarian",
-         "religion": "Christianity;Catholicism;Protestantism;Christian;No religion;Others",
-         "government": "Unitary parliamentary republic",
+         "languages": [
+            "Hungarian"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Protestantism",
+            "Christian",
+            "No religion",
+            "Others"
+         ],
+         "government": "Authoritarian unitary parliamentary republic",
          "area": 93030.0,
-         "population": 9749763,
-         "density": 104.8,
+         "population": 9689000,
+         "density": 104.1,
          "driving side": "right",
          "currency": "HUF",
          "time zone": "UTC+1",
          "calling code": "+36",
-         "id": 235726888405886347
+         "id": 983853383807567976
       },
       {
          "name": "Iceland",
          "link": "https://en.wikipedia.org/wiki/Iceland",
          "capital": "Reykjavík",
          "largest city": "Reykjavík",
-         "languages": "Icelandic",
-         "religion": "Christianity;Church of Iceland;Christian;No religion;Ásatrú;heathenry",
+         "languages": [
+            "Icelandic"
+         ],
+         "religions": [
+            "Christianity",
+            "Church of Iceland",
+            "Christian",
+            "No religion",
+            "Ásatrúarfélagið"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 102775.0,
          "population": 376248,
@@ -1290,15 +2000,27 @@
          "currency": "ISK",
          "time zone": "UTC",
          "calling code": "+354",
-         "id": 116653352912131310
+         "id": 880658723426007895
       },
       {
          "name": "India",
          "link": "https://en.wikipedia.org/wiki/India",
          "capital": "New Delhi",
          "largest city": "Mumbai",
-         "languages": "Hindi;English",
-         "religion": "Hinduism;Islam;Christianity;Sikhism;Buddhism;Jainism;Unaffiliated;Others",
+         "languages": [
+            "Hindi",
+            "English"
+         ],
+         "religions": [
+            "Hinduism",
+            "Islam",
+            "Christianity",
+            "Sikhism",
+            "Buddhism",
+            "Jainism",
+            "Unaffiliated",
+            "Others"
+         ],
          "government": "Federal parliamentary constitutional republic",
          "area": 3287263.0,
          "population": 1375586000,
@@ -1307,15 +2029,25 @@
          "currency": "INR",
          "time zone": "UTC+5",
          "calling code": "+91",
-         "id": 282168779580124290
+         "id": 166125745983079801
       },
       {
          "name": "Indonesia",
          "link": "https://en.wikipedia.org/wiki/Indonesia",
          "capital": "Jakarta",
          "largest city": "Jakarta",
-         "languages": "Indonesian",
-         "religion": "Islam;Christianity;Hinduism;Buddhism;Folk;Confucianism;Others",
+         "languages": [
+            "Indonesian"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Hinduism",
+            "Buddhism",
+            "Folk",
+            "Confucianism",
+            "Others"
+         ],
          "government": "Unitary presidential republic",
          "area": 1904569.0,
          "population": 275773800,
@@ -1324,15 +2056,19 @@
          "currency": "IDR",
          "time zone": "UTC+7",
          "calling code": "+62",
-         "id": 243383214027130328
+         "id": 145970241511809850
       },
       {
          "name": "Iran",
          "link": "https://en.wikipedia.org/wiki/Iran",
          "capital": "Tehran",
          "largest city": "Tehran",
-         "languages": "Persian",
-         "religion": "Shia Islam",
+         "languages": [
+            "Persian"
+         ],
+         "religions": [
+            "Shia Islam"
+         ],
          "government": "Unitary theocratic Islamic republic",
          "area": 1648195.0,
          "population": 86758304,
@@ -1341,15 +2077,28 @@
          "currency": "IRR",
          "time zone": "UTC+3",
          "calling code": "+98",
-         "id": 177948205581646283
+         "id": 147963681082061251
       },
       {
          "name": "Iraq",
          "link": "https://en.wikipedia.org/wiki/Iraq",
          "capital": "Baghdad",
          "largest city": "Baghdad",
-         "languages": "Arabic;Kurdish",
-         "religion": "Islam;Christianity;Mandaeism;Judaism;Yarsanism;Zoroastrianism;Irreligion",
+         "languages": [
+            "Arabic",
+            "Kurdish"
+         ],
+         "religions": [
+            "Islam",
+            "Shia",
+            "Sunni",
+            "Christianity",
+            "Mandaeism",
+            "Judaism",
+            "Yarsanism",
+            "Zoroastrianism",
+            "Irreligion"
+         ],
          "government": "Federal parliamentary republic",
          "area": 438317.0,
          "population": 40462701,
@@ -1358,15 +2107,25 @@
          "currency": "IQD",
          "time zone": "UTC+3",
          "calling code": "+964",
-         "id": 119824343677675650
+         "id": 279023581664216424
       },
       {
          "name": "Ireland",
          "link": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
          "capital": "Dublin",
          "largest city": "Dublin",
-         "languages": "Irish;English",
-         "religion": "Christianity;Roman Catholic;Church of Ireland;Christian;No religion;Other",
+         "languages": [
+            "Irish",
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Church of Ireland",
+            "Christian",
+            "No religion",
+            "Other"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 70273.0,
          "population": 5123536,
@@ -1375,32 +2134,47 @@
          "currency": "EUR",
          "time zone": "UTC",
          "calling code": "+353",
-         "id": 906292459905428602
+         "id": 107474271715258734
       },
       {
          "name": "Israel",
          "link": "https://en.wikipedia.org/wiki/Israel",
          "capital": "Jerusalem",
          "largest city": "Jerusalem",
-         "languages": "Hebrew",
-         "religion": "Judaism;Islam;Christianity;Druze;others",
+         "languages": [
+            "Hebrew"
+         ],
+         "religions": [
+            "Judaism",
+            "Islam",
+            "Christianity",
+            "Druze",
+            "others"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 20770.0,
-         "population": 9611420,
-         "density": 462.8,
+         "population": 9614780,
+         "density": 462.9,
          "driving side": "right",
          "currency": "ILS",
          "time zone": "UTC+2",
          "calling code": "+972",
-         "id": 302260057631308575
+         "id": 573923810742190157
       },
       {
          "name": "Italy",
          "link": "https://en.wikipedia.org/wiki/Italy",
          "capital": "Rome",
          "largest city": "Rome",
-         "languages": "Italian",
-         "religion": "Christianity;No religion;Islam;Others",
+         "languages": [
+            "Italian"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion",
+            "Islam",
+            "Others"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 301230.0,
          "population": 61095551,
@@ -1409,32 +2183,48 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+39",
-         "id": 515559682831654603
+         "id": 280790272761793758
       },
       {
          "name": "Ivory Coast",
          "link": "https://en.wikipedia.org/wiki/Ivory_Coast",
          "capital": "Yamoussoukro",
          "largest city": "Abidjan",
-         "languages": "French",
-         "religion": "Islam;Christianity;No religion;Traditional faiths",
+         "languages": [
+            "French"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "No religion",
+            "Traditional faiths"
+         ],
          "government": "Unitary presidential republic",
          "area": 322463.0,
          "population": 29389150,
          "density": 91.1,
          "driving side": "right",
          "currency": "XOF",
-         "time zone": "UTC±0",
+         "time zone": "UTC",
          "calling code": "+225",
-         "id": 117952174094749523
+         "id": 131782557184648905
       },
       {
          "name": "Jamaica",
          "link": "https://en.wikipedia.org/wiki/Jamaica",
          "capital": "Kingston",
          "largest city": "Kingston",
-         "languages": "English",
-         "religion": "Christianity;Protestantism;Christian;No religion;Rastafarianism;Others",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Christian",
+            "No religion",
+            "Rastafarianism",
+            "Others"
+         ],
          "government": "Unitary parliamentary constitutional monarchy",
          "area": 10991.0,
          "population": 2818596,
@@ -1443,15 +2233,17 @@
          "currency": "JMD",
          "time zone": "UTC-5",
          "calling code": "+1",
-         "id": 258033012616793416
+         "id": 190319394740944878
       },
       {
          "name": "Japan",
          "link": "https://en.wikipedia.org/wiki/Japan",
          "capital": "Tokyo",
          "largest city": "Tokyo",
-         "languages": "Japanese",
-         "religion": "",
+         "languages": [
+            "Japanese"
+         ],
+         "religions": [],
          "government": "Unitary parliamentary constitutional monarchy",
          "area": 377975.0,
          "population": 124214766,
@@ -1460,16 +2252,23 @@
          "currency": "¥",
          "time zone": "UTC+9",
          "calling code": "+81",
-         "id": 256057576992555679
+         "id": 257381884423478246
       },
       {
          "name": "Jordan",
          "link": "https://en.wikipedia.org/wiki/Jordan",
          "capital": "Amman",
          "largest city": "Amman",
-         "languages": "Arabic",
-         "religion": "Islam;Christianity;Druze;Baháʼí",
-         "government": "Unitary Islamic parliamentary semi-constitutional monarchy",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Druze",
+            "Baháʼí"
+         ],
+         "government": "Unitary Islamic parliamentary constitutional monarchy",
          "area": 89342.0,
          "population": 11042719,
          "density": 123.6,
@@ -1477,15 +2276,23 @@
          "currency": "JOD",
          "time zone": "UTC+3",
          "calling code": "+962",
-         "id": 138141361055297916
+         "id": 194435174675266950
       },
       {
          "name": "Kazakhstan",
          "link": "https://en.wikipedia.org/wiki/Kazakhstan",
          "capital": "Astana",
          "largest city": "Almaty",
-         "languages": "Kazakh;Russian",
-         "religion": "Islam;Christianity;Others;Irreligion / No Response",
+         "languages": [
+            "Kazakh",
+            "Russian"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Others",
+            "Irreligion / No Response"
+         ],
          "government": "Unitary dominant-party presidential republic",
          "area": 2724900.0,
          "population": 19398331,
@@ -1494,15 +2301,27 @@
          "currency": "KZT",
          "time zone": "UTC+5",
          "calling code": "+7",
-         "id": 696535650252993634
+         "id": 294594361903956805
       },
       {
          "name": "Kenya",
          "link": "https://en.wikipedia.org/wiki/Kenya",
          "capital": "Nairobi",
          "largest city": "Nairobi",
-         "languages": "Swahili;English;Swahili",
-         "religion": "Christianity;Protestantism;Catholicism;Christian;Islam;No religion;Traditional faiths",
+         "languages": [
+            "Swahili",
+            "English",
+            "Swahili"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Catholicism",
+            "Christian",
+            "Islam",
+            "No religion",
+            "Traditional faiths"
+         ],
          "government": "Unitary presidential republic",
          "area": 580367.0,
          "population": 55864655,
@@ -1511,15 +2330,24 @@
          "currency": "KES",
          "time zone": "UTC+3",
          "calling code": "+254",
-         "id": 149578842551367749
+         "id": 270894911209717634
       },
       {
          "name": "Kiribati",
          "link": "https://en.wikipedia.org/wiki/Kiribati",
          "capital": "South Tarawa",
          "largest city": "South Tarawa",
-         "languages": "Gilbertese",
-         "religion": "Christianity;Roman Catholic;Christian;Baháʼí Faith;Other;None",
+         "languages": [
+            "Gilbertese"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Christian",
+            "Baháʼí Faith",
+            "Other",
+            "None"
+         ],
          "government": "Unitary parliamentary republic with an executive presidency",
          "area": 811.0,
          "population": 121388,
@@ -1528,15 +2356,25 @@
          "currency": "AUD",
          "time zone": "UTC+12",
          "calling code": "+686",
-         "id": 272276431079310491
+         "id": 246450565610520283
       },
       {
          "name": "Korea North",
          "link": "https://en.wikipedia.org/wiki/North_Korea",
          "capital": "Pyongyang",
          "largest city": "Pyongyang",
-         "languages": "Korean;Munhwaŏ;Chosŏn'gŭl",
-         "religion": "No religion;Folk;Chondoism;Buddhism;Christianity",
+         "languages": [
+            "Korean",
+            "Munhwaŏ",
+            "Chosŏn'gŭl"
+         ],
+         "religions": [
+            "No religion",
+            "Folk",
+            "Chondoism",
+            "Buddhism",
+            "Christianity"
+         ],
          "government": "Unitary one-party socialist republic under a totalitarian hereditary dictatorship",
          "area": 120540.0,
          "population": 25955138,
@@ -1545,15 +2383,24 @@
          "currency": "KPW",
          "time zone": "UTC+9",
          "calling code": "+850",
-         "id": 244393066373791134
+         "id": 132610612612158229
       },
       {
          "name": "Korea South",
          "link": "https://en.wikipedia.org/wiki/South_Korea",
          "capital": "Seoul",
          "largest city": "Seoul",
-         "languages": "Korean;Pyojuneo;Korean Sign Language;Hangul",
-         "religion": "No religion;Christianity;Korean Buddhism",
+         "languages": [
+            "Korean",
+            "Pyojuneo",
+            "Korean Sign Language",
+            "Hangul"
+         ],
+         "religions": [
+            "No religion",
+            "Christianity",
+            "Korean Buddhism"
+         ],
          "government": " April ",
          "area": 100363.0,
          "population": 51844834,
@@ -1562,15 +2409,21 @@
          "currency": "KRW",
          "time zone": "UTC+9",
          "calling code": "+82",
-         "id": 277837970570225562
+         "id": 986424474972469751
       },
       {
          "name": "Kuwait",
          "link": "https://en.wikipedia.org/wiki/Kuwait",
          "capital": "Kuwait City",
          "largest city": "Kuwait City",
-         "languages": "Arabic",
-         "religion": "Islam;Christianity;Others",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Others"
+         ],
          "government": "Unitary parliamentary semi-constitutional monarchy",
          "area": 17818.0,
          "population": 4460000,
@@ -1579,15 +2432,22 @@
          "currency": "Kuwaiti dinar",
          "time zone": "UTC+3",
          "calling code": "+965",
-         "id": 111523638781395453
+         "id": 280343872187964599
       },
       {
          "name": "Kyrgyzstan",
          "link": "https://en.wikipedia.org/wiki/Kyrgyzstan",
          "capital": "Bishkek",
          "largest city": "Bishkek",
-         "languages": "Kyrgyz;Russian",
-         "religion": "Islam;Christianity;Others",
+         "languages": [
+            "Kyrgyz",
+            "Russian"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Others"
+         ],
          "government": "Unitary presidential republic",
          "area": 199951.0,
          "population": 7000000,
@@ -1596,15 +2456,23 @@
          "currency": "KGS",
          "time zone": "UTC+6",
          "calling code": "+996",
-         "id": 224714819577353428
+         "id": 183409755924972793
       },
       {
          "name": "Laos",
          "link": "https://en.wikipedia.org/wiki/Laos",
          "capital": "Vientiane",
          "largest city": "Vientiane",
-         "languages": "Lao",
-         "religion": "Buddhism;Tai folk religion;Christianity;Others;None",
+         "languages": [
+            "Lao"
+         ],
+         "religions": [
+            "Buddhism",
+            "Tai folk religion",
+            "Christianity",
+            "Others",
+            "None"
+         ],
          "government": "Unitary Marxist-Leninist one-party socialist republic",
          "area": 236800.0,
          "population": 7749595,
@@ -1613,15 +2481,25 @@
          "currency": "LAK",
          "time zone": "UTC+7",
          "calling code": "+856",
-         "id": 310013243677934979
+         "id": 446690338476140199
       },
       {
          "name": "Latvia",
          "link": "https://en.wikipedia.org/wiki/Latvia",
          "capital": "Riga",
          "largest city": "Riga",
-         "languages": "Latvian",
-         "religion": "Christianity;Lutheranism;Catholicism;Orthodoxy;Christian;No religion;Others",
+         "languages": [
+            "Latvian"
+         ],
+         "religions": [
+            "Christianity",
+            "Lutheranism",
+            "Catholicism",
+            "Orthodoxy",
+            "Christian",
+            "No religion",
+            "Others"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 64589.0,
          "population": 1842226,
@@ -1630,15 +2508,34 @@
          "currency": "EUR",
          "time zone": "UTC+2",
          "calling code": "+371",
-         "id": 146397558630237043
+         "id": 323024414700153614
       },
       {
          "name": "Lebanon",
          "link": "https://en.wikipedia.org/wiki/Lebanon",
          "capital": "Beirut",
          "largest city": "Beirut",
-         "languages": "Arabic",
-         "religion": "Islam;Sunni;Shi'a;Alawite;Ismaili;Christianity;Maronite Catholic;Greek Orthodox;Melkite Catholic;Armenian;Orthodox;Catholic;Minorities;Evangelical;Druzism;Druze",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [
+            "Islam",
+            "Sunni",
+            "Shi'a",
+            "Alawite",
+            "Ismaili",
+            "Christianity",
+            "Maronite Catholic",
+            "Greek Orthodox",
+            "Melkite Catholic",
+            "Armenian",
+            "Orthodox",
+            "Catholic",
+            "Minorities",
+            "Evangelical",
+            "Druzism",
+            "Druze"
+         ],
          "government": "Unitary confessionalist parliamentary republic",
          "area": 10452.0,
          "population": 5296814,
@@ -1647,15 +2544,23 @@
          "currency": "LBP",
          "time zone": "UTC+2",
          "calling code": "+961",
-         "id": 293974767624647946
+         "id": 303608480741165385
       },
       {
          "name": "Lesotho",
          "link": "https://en.wikipedia.org/wiki/Lesotho",
          "capital": "Maseru",
          "largest city": "Maseru",
-         "languages": "Sesotho",
-         "religion": "Christianity;Roman Catholic;Protestant;Christian;Traditional faiths",
+         "languages": [
+            "Sesotho"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Protestant",
+            "Christian",
+            "Traditional faiths"
+         ],
          "government": "Unitary parliamentary constitutional monarchy",
          "area": 30355.0,
          "population": 2281454,
@@ -1664,15 +2569,21 @@
          "currency": "LSL",
          "time zone": "UTC+2",
          "calling code": "+266",
-         "id": 190770164882556604
+         "id": 330026707295363194
       },
       {
          "name": "Liberia",
          "link": "https://en.wikipedia.org/wiki/Liberia",
          "capital": "Monrovia",
          "largest city": "Monrovia",
-         "languages": "English",
-         "religion": "Christianity;Islam;No religion",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Islam",
+            "No religion"
+         ],
          "government": "Unitary presidential constitutional republic",
          "area": 43000.0,
          "population": 5358483,
@@ -1681,15 +2592,19 @@
          "currency": "LRD",
          "time zone": "UTC",
          "calling code": "+231",
-         "id": 964733804743091049
+         "id": 332638964345560285
       },
       {
          "name": "Libya",
          "link": "https://en.wikipedia.org/wiki/Libya",
          "capital": "Tripoli",
          "largest city": "Tripoli",
-         "languages": "Arabic",
-         "religion": "Islam",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [
+            "Islam"
+         ],
          "government": "Unitary provisional unity government",
          "area": 1759541.0,
          "population": 7054493,
@@ -1698,15 +2613,24 @@
          "currency": "LYD",
          "time zone": "UTC+2",
          "calling code": "+218",
-         "id": 225035134939587579
+         "id": 156080158112671849
       },
       {
          "name": "Liechtenstein",
          "link": "https://en.wikipedia.org/wiki/Liechtenstein",
          "capital": "Vaduz",
          "largest city": "",
-         "languages": "German",
-         "religion": "Christianity;Catholicism;Christian;No religion;Islam;Others",
+         "languages": [
+            "German"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Christian",
+            "No religion",
+            "Islam",
+            "Others"
+         ],
          "government": "Unitary parliamentary semi-constitutional monarchy under a semi-direct democracy",
          "area": 160.0,
          "population": 38387,
@@ -1715,15 +2639,23 @@
          "currency": "CHF",
          "time zone": "UTC+1",
          "calling code": "+423",
-         "id": 135999930133429629
+         "id": 658082984740477430
       },
       {
          "name": "Lithuania",
          "link": "https://en.wikipedia.org/wiki/Lithuania",
          "capital": "Vilnius",
          "largest city": "Vilnius",
-         "languages": "Lithuanian",
-         "religion": "Christianity;Catholicism;Christian;No religion;Others",
+         "languages": [
+            "Lithuanian"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Christian",
+            "No religion",
+            "Others"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 65300.0,
          "population": 2835988,
@@ -1732,15 +2664,25 @@
          "currency": "EUR",
          "time zone": "UTC+2",
          "calling code": "+370",
-         "id": 683915365595399167
+         "id": 123528788606268070
       },
       {
          "name": "Luxembourg",
          "link": "https://en.wikipedia.org/wiki/Luxembourg",
          "capital": "Luxembourg",
          "largest city": "Luxembourg",
-         "languages": "Luxembourgish;Luxembourgish;French;German",
-         "religion": "Christianity;Roman Catholic;Christian;No religion",
+         "languages": [
+            "Luxembourgish",
+            "Luxembourgish",
+            "French",
+            "German"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Christian",
+            "No religion"
+         ],
          "government": "Unitary parliamentary constitutional monarchy",
          "area": 2586.4,
          "population": 645397,
@@ -1749,15 +2691,27 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+352",
-         "id": 183966556216156457
+         "id": 175641221269193431
       },
       {
          "name": "Madagascar",
          "link": "https://en.wikipedia.org/wiki/Madagascar",
          "capital": "Antananarivo",
          "largest city": "Antananarivo",
-         "languages": "Malagasy;French",
-         "religion": "Christianity;Protestantism;Catholicism;Christian;No religion;Traditional faiths;Islam;Others",
+         "languages": [
+            "Malagasy",
+            "French"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Catholicism",
+            "Christian",
+            "No religion",
+            "Traditional faiths",
+            "Islam",
+            "Others"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 587041.0,
          "population": 28172462,
@@ -1766,15 +2720,26 @@
          "currency": "MGA",
          "time zone": "UTC+3",
          "calling code": "+261",
-         "id": 266635995560841585
+         "id": 284009549322182542
       },
       {
          "name": "Malawi",
          "link": "https://en.wikipedia.org/wiki/Malawi",
          "capital": "Lilongwe",
          "largest city": "Lilongwe",
-         "languages": "English;Chewa",
-         "religion": "Christianity;Protestantism;Catholicism;Christian;Islam;None;Traditional faiths",
+         "languages": [
+            "English",
+            "Chewa"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Catholicism",
+            "Christian",
+            "Islam",
+            "None",
+            "Traditional faiths"
+         ],
          "government": "Unitary presidential republic",
          "area": 118484.0,
          "population": 20091635,
@@ -1783,15 +2748,17 @@
          "currency": "MWK",
          "time zone": "UTC+2",
          "calling code": "+265",
-         "id": 443063486298814049
+         "id": 116614917565100075
       },
       {
          "name": "Malaysia",
          "link": "https://en.wikipedia.org/wiki/Malaysia",
          "capital": "Putrajaya",
          "largest city": "Kuala Lumpur",
-         "languages": "Malay",
-         "religion": "",
+         "languages": [
+            "Malay"
+         ],
+         "religions": [],
          "government": "Federal parliamentary constitutional elective monarchy",
          "area": 330803.0,
          "population": 33871431,
@@ -1800,15 +2767,19 @@
          "currency": "RM",
          "time zone": "UTC+8",
          "calling code": "+60",
-         "id": 213272403496626843
+         "id": 113751675844927136
       },
       {
          "name": "Maldives",
          "link": "https://en.wikipedia.org/wiki/Maldives",
          "capital": "Malé",
          "largest city": "Malé",
-         "languages": "Dhivehi",
-         "religion": "Sunni Islam",
+         "languages": [
+            "Dhivehi"
+         ],
+         "religions": [
+            "Sunni Islam"
+         ],
          "government": "Unitary presidential constitutional republic",
          "area": 300.0,
          "population": 579330,
@@ -1817,15 +2788,20 @@
          "currency": "MVR",
          "time zone": "UTC+5",
          "calling code": "+960",
-         "id": 329118590037061462
+         "id": 153170489844270860
       },
       {
          "name": "Mali",
          "link": "https://en.wikipedia.org/wiki/Mali",
          "capital": "Bamako",
          "largest city": "Bamako",
-         "languages": "French",
-         "religion": "Islam;Others",
+         "languages": [
+            "French"
+         ],
+         "religions": [
+            "Islam",
+            "Others"
+         ],
          "government": "Unitary semi-presidential republic under a military junta",
          "area": 1240192.0,
          "population": 21473764,
@@ -1834,15 +2810,24 @@
          "currency": "XOF",
          "time zone": "UTC",
          "calling code": "+223",
-         "id": 123642789115975345
+         "id": 260388600767135950
       },
       {
          "name": "Malta",
          "link": "https://en.wikipedia.org/wiki/Malta",
          "capital": "Valletta",
          "largest city": "",
-         "languages": "Maltese;English",
-         "religion": "Christianity;Roman Catholic;Christian;No religion;Islam",
+         "languages": [
+            "Maltese",
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Christian",
+            "No religion",
+            "Islam"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 316.0,
          "population": 519562,
@@ -1851,15 +2836,24 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+356",
-         "id": 767032548176144494
+         "id": 471125589375621665
       },
       {
          "name": "Marshall Islands",
          "link": "https://en.wikipedia.org/wiki/Marshall_Islands",
          "capital": "Delap-Uliga-Djarrit",
          "largest city": "Delap-Uliga-Djarrit",
-         "languages": "Marshallese;English",
-         "religion": "Christianity;Protestantism;Catholicism;Christian;No religion",
+         "languages": [
+            "Marshallese",
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Catholicism",
+            "Christian",
+            "No religion"
+         ],
          "government": "Unitary parliamentary republic with an executive presidency",
          "area": 181.43,
          "population": 61988,
@@ -1868,15 +2862,19 @@
          "currency": "USD",
          "time zone": "UTC+12",
          "calling code": "+692",
-         "id": 545530659976794820
+         "id": 146624169879256165
       },
       {
          "name": "Mauritania",
          "link": "https://en.wikipedia.org/wiki/Mauritania",
          "capital": "Nouakchott",
          "largest city": "Nouakchott",
-         "languages": "Arabic;French",
-         "religion": "Sunni Islam",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [
+            "Sunni Islam"
+         ],
          "government": "Unitary semi-presidential  Islamic republic",
          "area": 1030000.0,
          "population": 4614974,
@@ -1885,15 +2883,24 @@
          "currency": "MRU",
          "time zone": "UTC",
          "calling code": "+222",
-         "id": 331438446354378134
+         "id": 889966371101208772
       },
       {
          "name": "Mauritius",
          "link": "https://en.wikipedia.org/wiki/Mauritius",
          "capital": "Port Louis",
          "largest city": "Port Louis",
-         "languages": "English;French",
-         "religion": "Hinduism;Christianity;Islam;Others;None",
+         "languages": [
+            "English",
+            "French"
+         ],
+         "religions": [
+            "Hinduism",
+            "Christianity",
+            "Islam",
+            "Others",
+            "None"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 2040.0,
          "population": 1265475,
@@ -1902,15 +2909,22 @@
          "currency": "MUR",
          "time zone": "UTC+4",
          "calling code": "+230",
-         "id": 153588300930029153
+         "id": 363860395007792962
       },
       {
          "name": "Mexico",
          "link": "https://en.wikipedia.org/wiki/Mexico",
          "capital": "Mexico City",
          "largest city": "Mexico City",
-         "languages": "Spanish",
-         "religion": "Christianity;Catholicism;Protestantism;No religion",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Protestantism",
+            "No religion"
+         ],
          "government": "Federal presidentialrepublic",
          "area": 1972550.0,
          "population": 129150971,
@@ -1919,15 +2933,24 @@
          "currency": "MXN",
          "time zone": "UTC-8",
          "calling code": "+52",
-         "id": 134797550064179332
+         "id": 538908237310065849
       },
       {
          "name": "Micronesia",
          "link": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
          "capital": "Palikir",
          "largest city": "",
-         "languages": "English",
-         "religion": "Christianity;Roman Catholic;Protestant;Christian;Folk religions;None",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Protestant",
+            "Christian",
+            "Folk religions",
+            "None"
+         ],
          "government": "Federal assembly-independent republic under a non-partisan democracy",
          "area": 702.0,
          "population": 104468,
@@ -1936,15 +2959,23 @@
          "currency": "USD",
          "time zone": "UTC+10",
          "calling code": "+691",
-         "id": 318730939479129453
+         "id": 156558910707400444
       },
       {
          "name": "Moldova",
          "link": "https://en.wikipedia.org/wiki/Moldova",
          "capital": "Chișinău",
          "largest city": "Chișinău",
-         "languages": "Romanian",
-         "religion": "Christianity;Eastern Orthodoxy;Christian;No religion;Other",
+         "languages": [
+            "Romanian"
+         ],
+         "religions": [
+            "Christianity",
+            "Eastern Orthodoxy",
+            "Christian",
+            "Other religions",
+            "No religion"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 33851.0,
          "population": 2603813,
@@ -1953,15 +2984,23 @@
          "currency": "MDL",
          "time zone": "UTC+2",
          "calling code": "+373",
-         "id": 156206719925416500
+         "id": 628275188634847919
       },
       {
          "name": "Monaco",
          "link": "https://en.wikipedia.org/wiki/Monaco",
          "capital": "Monaco",
          "largest city": "",
-         "languages": "French",
-         "religion": "Christianity;Roman Catholic;Christian;No religion;Judaism",
+         "languages": [
+            "French"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Christian",
+            "No religion",
+            "Judaism"
+         ],
          "government": "Unitary parliamentary semi-constitutional monarchy",
          "area": 2.02,
          "population": 38300,
@@ -1970,15 +3009,26 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+377",
-         "id": 311804652865584425
+         "id": 545869999135632284
       },
       {
          "name": "Mongolia",
          "link": "https://en.wikipedia.org/wiki/Mongolia",
          "capital": "Ulaanbaatar",
          "largest city": "Ulaanbaatar",
-         "languages": "Mongolian;Mongolian;Cyrillic",
-         "religion": "Buddhism;No religion;Islam;Shamanism;Christianity;Others",
+         "languages": [
+            "Mongolian",
+            "Mongolian",
+            "Cyrillic"
+         ],
+         "religions": [
+            "Buddhism",
+            "No religion",
+            "Islam",
+            "Shamanism",
+            "Christianity",
+            "Others"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 1564116.0,
          "population": 3227863,
@@ -1987,15 +3037,24 @@
          "currency": "MNT",
          "time zone": "UTC+7",
          "calling code": "+976",
-         "id": 262793120313075485
+         "id": 132585640918972333
       },
       {
          "name": "Montenegro",
          "link": "https://en.wikipedia.org/wiki/Montenegro",
          "capital": "Podgorica",
          "largest city": "Podgorica",
-         "languages": "Montenegrin",
-         "religion": "Christianity;Eastern Orthodoxy;Christian;Islam;No religion;Others",
+         "languages": [
+            "Montenegrin"
+         ],
+         "religions": [
+            "Christianity",
+            "Eastern Orthodoxy",
+            "Christian",
+            "Islam",
+            "No religion",
+            "Others"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 13812.0,
          "population": 620739,
@@ -2004,15 +3063,27 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+382",
-         "id": 166334589309330454
+         "id": 104731954803184623
       },
       {
          "name": "Morocco",
          "link": "https://en.wikipedia.org/wiki/Morocco",
          "capital": "Rabat",
          "largest city": "Casablanca",
-         "languages": "Arabic;Amazigh",
-         "religion": "Islam;Sunni;Shia;Others;Agnostics;Baháʼís;Christians;Jews",
+         "languages": [
+            "Arabic",
+            "Amazigh"
+         ],
+         "religions": [
+            "Islam",
+            "Sunni",
+            "Shia",
+            "Others",
+            "Agnostics",
+            "Baháʼís",
+            "Christians",
+            "Jews"
+         ],
          "government": "Unitary parliamentary semi-constitutional monarchy",
          "area": 446300.0,
          "population": 36767655,
@@ -2021,15 +3092,22 @@
          "currency": "MAD",
          "time zone": "UTC+1",
          "calling code": "+212",
-         "id": 525861866693283533
+         "id": 268561224390907876
       },
       {
          "name": "Mozambique",
          "link": "https://en.wikipedia.org/wiki/Mozambique",
          "capital": "Maputo",
          "largest city": "Maputo",
-         "languages": "Portuguese",
-         "religion": "Christianity;Islam;No religion;Traditional faiths",
+         "languages": [
+            "Portuguese"
+         ],
+         "religions": [
+            "Christianity",
+            "Islam",
+            "No religion",
+            "Traditional faiths"
+         ],
          "government": "Unitary dominant-party semi-presidential republic",
          "area": 801590.0,
          "population": 31693239,
@@ -2038,15 +3116,22 @@
          "currency": "MZN",
          "time zone": "UTC+2",
          "calling code": "+258",
-         "id": 167135536640452249
+         "id": 163781216147753152
       },
       {
          "name": "Myanmar",
          "link": "https://en.wikipedia.org/wiki/Myanmar",
          "capital": "Naypyidaw",
          "largest city": "Yangon",
-         "languages": "Burmese",
-         "religion": "Buddhism;Christianity;Islam;Others",
+         "languages": [
+            "Burmese"
+         ],
+         "religions": [
+            "Buddhism",
+            "Christianity",
+            "Islam",
+            "Others"
+         ],
          "government": "Unitary assembly-independent republic under a military junta",
          "area": 261227.0,
          "population": 57526449,
@@ -2055,15 +3140,25 @@
          "currency": "MMK",
          "time zone": "UTC+6",
          "calling code": "+95",
-         "id": 545786666157254948
+         "id": 322689366397035611
       },
       {
          "name": "Namibia",
          "link": "https://en.wikipedia.org/wiki/Namibia",
          "capital": "Windhoek",
          "largest city": "Windhoek",
-         "languages": "English",
-         "religion": "Christianity;Lutheranism;Catholicism;Anglicanism;Christian;Traditional faiths;No religion",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Lutheranism",
+            "Catholicism",
+            "Anglicanism",
+            "Christian",
+            "Traditional faiths",
+            "No religion"
+         ],
          "government": "Unitary dominant-party semi-presidential republic",
          "area": 825615.0,
          "population": 2550226,
@@ -2072,15 +3167,18 @@
          "currency": "NAD",
          "time zone": "UTC+2",
          "calling code": "+264",
-         "id": 646220746036084295
+         "id": 834670495601977257
       },
       {
          "name": "Nauru",
          "link": "https://en.wikipedia.org/wiki/Nauru",
          "capital": "Yaren",
          "largest city": "Denigomodu",
-         "languages": "Nauruan;English",
-         "religion": "",
+         "languages": [
+            "Nauruan",
+            "English"
+         ],
+         "religions": [],
          "government": "Parliamentary republic with an executive presidency under a non-partisan democracy",
          "area": 21.0,
          "population": 10834,
@@ -2089,15 +3187,24 @@
          "currency": "AUD",
          "time zone": "UTC+12",
          "calling code": "+674",
-         "id": 277310238833730129
+         "id": 267771853125559011
       },
       {
          "name": "Nepal",
          "link": "https://en.wikipedia.org/wiki/Nepal",
          "capital": "Kathmandu",
          "largest city": "Kathmandu",
-         "languages": "Nepali",
-         "religion": "Hinduism;Buddhism;Islam;Kirant;Christianity;Prakriti",
+         "languages": [
+            "Nepali"
+         ],
+         "religions": [
+            "Hinduism",
+            "Buddhism",
+            "Islam",
+            "Kirant",
+            "Christianity",
+            "Prakriti"
+         ],
          "government": "Federal parliamentary republic",
          "area": 147516.0,
          "population": 30666598,
@@ -2106,15 +3213,20 @@
          "currency": "NPR",
          "time zone": "UTC+5",
          "calling code": "+977",
-         "id": 290267255609115363
+         "id": 134393577297944350
       },
       {
          "name": "Netherlands",
          "link": "https://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands",
          "capital": "Amsterdam",
          "largest city": "Amsterdam",
-         "languages": "Dutch;English;Papiamento;West Frisian",
-         "religion": "",
+         "languages": [
+            "Dutch",
+            "English",
+            "Papiamento",
+            "West Frisian"
+         ],
+         "religions": [],
          "government": "Devolved unitary parliamentary constitutional monarchy",
          "area": 42531.0,
          "population": 17749262,
@@ -2123,32 +3235,51 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+31",
-         "id": 547221660110130981
+         "id": 858343404778013038
       },
       {
          "name": "New Zealand",
          "link": "https://en.wikipedia.org/wiki/New_Zealand",
          "capital": "Wellington",
          "largest city": "Auckland",
-         "languages": "English;Māori;NZ Sign Language",
-         "religion": "No religion;Christianity;Hinduism;Islam;Buddhism;Others",
+         "languages": [
+            "English",
+            "Māori",
+            "NZ Sign Language"
+         ],
+         "religions": [
+            "No religion",
+            "Christianity",
+            "Hinduism",
+            "Islam",
+            "Buddhism",
+            "Others"
+         ],
          "government": "Unitary parliamentary constitutional monarchy",
          "area": 268021.0,
-         "population": 5133280,
+         "population": 5134310,
          "density": 19.2,
          "driving side": "left",
          "currency": "NZD",
          "time zone": "UTC+12",
          "calling code": "+64",
-         "id": 169801153746707745
+         "id": 136548892120323242
       },
       {
          "name": "Nicaragua",
          "link": "https://en.wikipedia.org/wiki/Nicaragua",
          "capital": "Managua",
          "largest city": "Managua",
-         "languages": "Spanish",
-         "religion": "Christianity;Roman Catholic;Protestant;Christian;No religion",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Protestant",
+            "Christian",
+            "No religion"
+         ],
          "government": "Unitary dominant-party presidential republic",
          "area": 130375.0,
          "population": 6301880,
@@ -2157,15 +3288,33 @@
          "currency": "NIO",
          "time zone": "UTC-6",
          "calling code": "+505",
-         "id": 265745822908566304
+         "id": 269830190936638788
       },
       {
          "name": "Niger",
          "link": "https://en.wikipedia.org/wiki/Niger",
          "capital": "Niamey",
          "largest city": "Niamey",
-         "languages": "French;Arabic;Buduma;Fulfulde;Gourmanchéma;Hausa;Kanuri;Zarma;Songhai;Tamasheq;Tassawaq;Tebu",
-         "religion": "Islam;Christianity;Animism;Irreligion",
+         "languages": [
+            "French",
+            "Arabic",
+            "Buduma",
+            "Fulfulde",
+            "Gourmanchéma",
+            "Hausa",
+            "Kanuri",
+            "Zarma",
+            "Songhai",
+            "Tamasheq",
+            "Tassawaq",
+            "Tebu"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Animism",
+            "Irreligion"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 1267000.0,
          "population": 24484587,
@@ -2174,15 +3323,20 @@
          "currency": "XOF",
          "time zone": "UTC+1",
          "calling code": "+227",
-         "id": 242039540910973866
+         "id": 236995351145771631
       },
       {
          "name": "Nigeria",
          "link": "https://en.wikipedia.org/wiki/Nigeria",
          "capital": "Abuja",
          "largest city": "Lagos",
-         "languages": "English;Hausa;Yoruba;Igbo",
-         "religion": "",
+         "languages": [
+            "English",
+            "Hausa",
+            "Yoruba",
+            "Igbo"
+         ],
+         "religions": [],
          "government": "Federal presidential republic",
          "area": 923769.0,
          "population": 225082083,
@@ -2191,15 +3345,30 @@
          "currency": "NGN",
          "time zone": "UTC+1",
          "calling code": "+234",
-         "id": 321605576007714155
+         "id": 205248628762534516
       },
       {
          "name": "North Macedonia",
          "link": "https://en.wikipedia.org/wiki/North_Macedonia",
          "capital": "Skopje",
          "largest city": "Skopje",
-         "languages": "Macedonian;Albanian;Turkish;Romani;Serbian;Bosnian;Aromanian",
-         "religion": "Christianity;Eastern Orthodoxy;Christian;Islam;No religion;Other",
+         "languages": [
+            "Macedonian",
+            "Albanian",
+            "Turkish",
+            "Romani",
+            "Serbian",
+            "Bosnian",
+            "Aromanian"
+         ],
+         "religions": [
+            "Christianity",
+            "Eastern Orthodoxy",
+            "Christian",
+            "Islam",
+            "No religion",
+            "Other"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 25713.0,
          "population": 1836713,
@@ -2208,15 +3377,26 @@
          "currency": "MKD",
          "time zone": "UTC+1",
          "calling code": "+389",
-         "id": 196861604410620967
+         "id": 519932170087890015
       },
       {
          "name": "Norway",
          "link": "https://en.wikipedia.org/wiki/Norway",
          "capital": "Oslo",
          "largest city": "Oslo",
-         "languages": "Norwegian;Sámi",
-         "religion": "Christianity;Church of Norway;Christian;No religion;Islam;Buddhism;Others",
+         "languages": [
+            "Norwegian",
+            "Sámi"
+         ],
+         "religions": [
+            "Christianity",
+            "Church of Norway",
+            "Christian",
+            "No religion",
+            "Islam",
+            "Buddhism",
+            "Others"
+         ],
          "government": "Unitary parliamentary constitutional monarchy",
          "area": 385207.0,
          "population": 5425270,
@@ -2225,15 +3405,25 @@
          "currency": "NOK",
          "time zone": "UTC+1",
          "calling code": "+47",
-         "id": 167249679677899150
+         "id": 150684256602805509
       },
       {
          "name": "Oman",
          "link": "https://en.wikipedia.org/wiki/Oman",
-         "capital": "Muscat",
-         "largest city": "Muscat",
-         "languages": "Arabic",
-         "religion": "Islam;Ibadism;Sunni Islam;Shia Islam;Hinduism;Christianity;Others",
+         "capital": "Abdali, ",
+         "largest city": "Abdali, ",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [
+            "Islam",
+            "Ibadism",
+            "Sunni Islam",
+            "Shia Islam",
+            "Hinduism",
+            "Christianity",
+            "Others"
+         ],
          "government": "Unitary Islamic absolute monarchy",
          "area": 309500.0,
          "population": 4520471,
@@ -2242,15 +3432,23 @@
          "currency": "OMR",
          "time zone": "UTC+4",
          "calling code": "+968",
-         "id": 150269603513965119
+         "id": 387405317221829731
       },
       {
          "name": "Pakistan",
          "link": "https://en.wikipedia.org/wiki/Pakistan",
          "capital": "Islamabad",
          "largest city": "Karachi",
-         "languages": "Urdu;English",
-         "religion": "Islam;Hinduism;Christianity;Others",
+         "languages": [
+            "Urdu",
+            "English"
+         ],
+         "religions": [
+            "Islam",
+            "Hinduism",
+            "Christianity",
+            "Others"
+         ],
          "government": "Federal Islamic parliamentary republic",
          "area": 881913.0,
          "population": 242923845,
@@ -2259,15 +3457,23 @@
          "currency": "PKR",
          "time zone": "UTC+5",
          "calling code": "+92",
-         "id": 221901124175468282
+         "id": 323282185280370510
       },
       {
          "name": "Palau",
          "link": "https://en.wikipedia.org/wiki/Palau",
          "capital": "Ngerulmud",
          "largest city": "Koror",
-         "languages": "Palauan;English;Filipino;Japanese;Sonsorolese;Tobian",
-         "religion": "Christianity;Modekngei;Islam;None",
+         "languages": [
+            "Palauan",
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Modekngei",
+            "Islam",
+            "None"
+         ],
          "government": "Unitary presidential republic under a non-partisan democracy",
          "area": 459.0,
          "population": 18024,
@@ -2276,15 +3482,17 @@
          "currency": "USD",
          "time zone": "UTC+9",
          "calling code": "+680",
-         "id": 295945309893441211
+         "id": 317745551736054446
       },
       {
          "name": "Palestine",
          "link": "https://en.wikipedia.org/wiki/State_of_Palestine",
          "capital": "Jerusalem",
          "largest city": "Gaza City",
-         "languages": "Arabic",
-         "religion": "",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [],
          "government": "Unitary semi-presidential republic",
          "area": 6020.0,
          "population": 5159076,
@@ -2293,15 +3501,23 @@
          "currency": "EGP",
          "time zone": "UTC+2",
          "calling code": "+970",
-         "id": 312172657207715311
+         "id": 532662967512837796
       },
       {
          "name": "Panama",
          "link": "https://en.wikipedia.org/wiki/Panama",
          "capital": "Panama City",
          "largest city": "Panama City",
-         "languages": "Spanish",
-         "religion": "Christianity;Roman Catholic;Protestant;Christian;No religion",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Protestant",
+            "Christian",
+            "No religion"
+         ],
          "government": "Unitary presidential constitutional republic",
          "area": 75417.0,
          "population": 4337768,
@@ -2310,32 +3526,53 @@
          "currency": "PAB",
          "time zone": "UTC-5",
          "calling code": "+507",
-         "id": 934001690263074217
+         "id": 337020325361653564
       },
       {
          "name": "Papua New Guinea",
          "link": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
          "capital": "Port Moresby",
          "largest city": "Port Moresby",
-         "languages": "English;Hiri Motu;PNG Sign Language;Tok Pisin",
-         "religion": "Christianity;Protestantism;Catholicism;Christian;Others;None",
+         "languages": [
+            "English",
+            "Hiri Motu",
+            "PNG Sign Language",
+            "Tok Pisin"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Catholicism",
+            "Christian",
+            "Others",
+            "None"
+         ],
          "government": "Unitary parliamentaryconstitutional monarchy",
          "area": 462840.0,
-         "population": 8935000,
-         "density": 19.3,
+         "population": 17000000,
+         "density": 36.7,
          "driving side": "left",
          "currency": "PGK",
          "time zone": "UTC+10",
          "calling code": "+675",
-         "id": 313168597504643146
+         "id": 240184650460832489
       },
       {
          "name": "Paraguay",
          "link": "https://en.wikipedia.org/wiki/Paraguay",
          "capital": "Asunción",
          "largest city": "Asunción",
-         "languages": "Spanish;Guarani",
-         "religion": "Christianity;Roman Catholic;Christian;No religion;Other",
+         "languages": [
+            "Spanish",
+            "Guarani"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Christian",
+            "No religion",
+            "Other"
+         ],
          "government": "Unitary presidential republic",
          "area": 406796.0,
          "population": 7356409,
@@ -2344,15 +3581,25 @@
          "currency": "PYG",
          "time zone": "UTC-4",
          "calling code": "+595",
-         "id": 271637288309605984
+         "id": 195620057987779554
       },
       {
          "name": "Peru",
          "link": "https://en.wikipedia.org/wiki/Peru",
          "capital": "Lima",
          "largest city": "Lima",
-         "languages": "Spanish;Quechua;Aymara;Other Indigenous languages",
-         "religion": "Christianity;Catholicism;Christian;No religion",
+         "languages": [
+            "Spanish",
+            "Quechua",
+            "Aymara",
+            "Other Indigenous languages"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Christian",
+            "No religion"
+         ],
          "government": "Unitary presidential republic",
          "area": 1285216.0,
          "population": 32275736,
@@ -2361,15 +3608,25 @@
          "currency": "PEN",
          "time zone": "UTC-5",
          "calling code": "+51",
-         "id": 182628602862231494
+         "id": 245017381581246372
       },
       {
          "name": "Philippines",
          "link": "https://en.wikipedia.org/wiki/Philippines",
          "capital": "Manila",
          "largest city": "Quezon City",
-         "languages": "Filipino;English",
-         "religion": "Christianity;Catholicism;Christian;Islam;Other;None",
+         "languages": [
+            "Filipino",
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Christian",
+            "Islam",
+            "Other",
+            "None"
+         ],
          "government": "Unitary presidential republic",
          "area": 298170.0,
          "population": 109035343,
@@ -2378,15 +3635,23 @@
          "currency": "PHP",
          "time zone": "UTC+8",
          "calling code": "+63",
-         "id": 189433775757518830
+         "id": 137276403117854521
       },
       {
          "name": "Poland",
          "link": "https://en.wikipedia.org/wiki/Poland",
          "capital": "Warsaw",
          "largest city": "Warsaw",
-         "languages": "Polish",
-         "religion": "Christianity ;Catholicism;Christian;No religion;Others",
+         "languages": [
+            "Polish"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Christian",
+            "No religion",
+            "Other"
+         ],
          "government": " September ",
          "area": 312696.0,
          "population": 38036118,
@@ -2395,15 +3660,23 @@
          "currency": "PLN",
          "time zone": "UTC+1",
          "calling code": "+48",
-         "id": 258804909364381952
+         "id": 317181787342161501
       },
       {
          "name": "Portugal",
          "link": "https://en.wikipedia.org/wiki/Portugal",
          "capital": "Lisbon",
          "largest city": "Lisbon",
-         "languages": "Portuguese",
-         "religion": "Christianity;Catholicism;Christian;No religion;Others",
+         "languages": [
+            "Portuguese"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Christian",
+            "No religion",
+            "Others"
+         ],
          "government": "Unitary semi-presidential constitutional republic",
          "area": 92212.0,
          "population": 10352042,
@@ -2412,16 +3685,24 @@
          "currency": "EUR",
          "time zone": "UTC",
          "calling code": "+351",
-         "id": 296830250254324096
+         "id": 144664983038150033
       },
       {
          "name": "Qatar",
          "link": "https://en.wikipedia.org/wiki/Qatar",
          "capital": "Doha",
          "largest city": "Doha",
-         "languages": "Arabic",
-         "religion": "Islam;Hinduism;Christianity;Buddhism;Others",
-         "government": "Unitary authoritarian parliamentary semi-constitutional monarchy",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [
+            "Islam",
+            "Hinduism",
+            "Christianity",
+            "Buddhism",
+            "Others"
+         ],
+         "government": "Unitary Islamic  authoritarian parliamentary semi-constitutional monarchy",
          "area": 11581.0,
          "population": 2795484,
          "density": 241.4,
@@ -2429,15 +3710,24 @@
          "currency": "QAR",
          "time zone": "UTC+3",
          "calling code": "+974",
-         "id": 212165186355104132
+         "id": 802566524454590613
       },
       {
          "name": "Romania",
          "link": "https://en.wikipedia.org/wiki/Romania",
          "capital": "Bucharest",
          "largest city": "Bucharest",
-         "languages": "Romanian",
-         "religion": "Christianity;Romanian Orthodoxy;Protestantism;Catholicism;Others;None",
+         "languages": [
+            "Romanian"
+         ],
+         "religions": [
+            "Christianity",
+            "Romanian Orthodoxy",
+            "Protestantism",
+            "Catholicism",
+            "Others",
+            "None"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 238397.0,
          "population": 19038098,
@@ -2446,15 +3736,24 @@
          "currency": "RON",
          "time zone": "UTC+2",
          "calling code": "+40",
-         "id": 105149958877219703
+         "id": 230916342900042651
       },
       {
          "name": "Russia",
          "link": "https://en.wikipedia.org/wiki/Russia",
          "capital": "Moscow",
          "largest city": "Moscow",
-         "languages": "Russian",
-         "religion": "Christianity;Russian Orthodoxy;Christian;No religion;Islam;Others",
+         "languages": [
+            "Russian"
+         ],
+         "religions": [
+            "Christianity",
+            "Russian Orthodoxy",
+            "Christian",
+            "No religion",
+            "Islam",
+            "Others"
+         ],
          "government": "Federal semi-presidential republic under an authoritarian dictatorship",
          "area": 17098246.0,
          "population": 147182123,
@@ -2463,15 +3762,24 @@
          "currency": "RUB",
          "time zone": "UTC+2",
          "calling code": "+7",
-         "id": 246414362747976623
+         "id": 225773814746405228
       },
       {
          "name": "Rwanda",
          "link": "https://en.wikipedia.org/wiki/Rwanda",
          "capital": "Kigali",
          "largest city": "Kigali",
-         "languages": "Kinyarwanda;French;English;Swahili",
-         "religion": "Christianity;No religion;Islam",
+         "languages": [
+            "Kinyarwanda",
+            "French",
+            "English",
+            "Swahili"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion",
+            "Islam"
+         ],
          "government": "Unitary presidential republic under an authoritarian government",
          "area": 26338.0,
          "population": 12955736,
@@ -2480,15 +3788,23 @@
          "currency": "RWF",
          "time zone": "UTC+2",
          "calling code": "+250",
-         "id": 276160988081789796
+         "id": 176307743877476409
       },
       {
          "name": "Saint Kitts and Nevis",
          "link": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
          "capital": "Basseterre",
          "largest city": "Basseterre",
-         "languages": "English",
-         "religion": "Christianity;Protestantism;Christian;No religion;Hinduism",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Christian",
+            "No religion",
+            "Hinduism"
+         ],
          "government": "Federal parliamentaryconstitutional monarchy",
          "area": 261.0,
          "population": 47606,
@@ -2497,15 +3813,21 @@
          "currency": "EC",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 241701889788230939
+         "id": 159371959396561856
       },
       {
          "name": "Saint Lucia",
          "link": "https://en.wikipedia.org/wiki/Saint_Lucia",
          "capital": "Castries",
          "largest city": "Castries",
-         "languages": "English",
-         "religion": "Christianity;No religion;Rastafari",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion",
+            "Rastafari"
+         ],
          "government": "Unitary parliamentary constitutional monarchy",
          "area": 617.0,
          "population": 184961,
@@ -2514,15 +3836,26 @@
          "currency": "XCD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 151899249881353330
+         "id": 162562195529332493
       },
       {
          "name": "Saint Vincent and the Grenadines",
          "link": "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines",
          "capital": "Kingstown",
          "largest city": "Kingstown",
-         "languages": "English",
-         "religion": "Christianity;Protestantism;Christian;Hinduism;No religion;Rastafari;Baha'i faith;Islam",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Christian",
+            "Hinduism",
+            "No religion",
+            "Rastafari",
+            "Baha'i faith",
+            "Islam"
+         ],
          "government": "Unitary parliamentary constitutional monarchy",
          "area": 389.0,
          "population": 104332,
@@ -2531,15 +3864,20 @@
          "currency": "XCD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 212700193221986700
+         "id": 112787724508914830
       },
       {
          "name": "Samoa",
          "link": "https://en.wikipedia.org/wiki/Samoa",
          "capital": "Apia",
          "largest city": "Apia",
-         "languages": "Samoan;English",
-         "religion": "Christianity",
+         "languages": [
+            "Samoan",
+            "English"
+         ],
+         "religions": [
+            "Christianity"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 2842.0,
          "population": 202506,
@@ -2548,15 +3886,20 @@
          "currency": "WS",
          "time zone": "UTC+13",
          "calling code": "+685",
-         "id": 111689992119090688
+         "id": 251441173274512552
       },
       {
          "name": "San Marino",
          "link": "https://en.wikipedia.org/wiki/San_Marino",
          "capital": "San Marino",
          "largest city": "",
-         "languages": "Italian",
-         "religion": "Christianity;Catholicism",
+         "languages": [
+            "Italian"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism"
+         ],
          "government": "Unitary assembly-independent diarchic directorial republic",
          "area": 61.2,
          "population": 33600,
@@ -2565,15 +3908,22 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+378",
-         "id": 251241536976031967
+         "id": 247517299303689845
       },
       {
          "name": "São Tomé and Príncipe",
          "link": "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
          "capital": "São Tomé",
          "largest city": "São Tomé",
-         "languages": "Portuguese",
-         "religion": "Christianity;Catholic Church;No religion;Folk religions",
+         "languages": [
+            "Portuguese"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholic Church",
+            "No religion",
+            "Folk religions"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 1001.0,
          "population": 223107,
@@ -2582,15 +3932,25 @@
          "currency": "STN",
          "time zone": "UTC",
          "calling code": "+239",
-         "id": 323125385540232869
+         "id": 249982492558161974
       },
       {
          "name": "Saudi Arabia",
          "link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
          "capital": "Riyadh",
          "largest city": "Riyadh",
-         "languages": "Arabic",
-         "religion": "Islam;Wahhabism;Sunni;Shia;Christianity;Hinduism;No religion;Other",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [
+            "Islam",
+            "Sunni",
+            "Shia",
+            "Christianity",
+            "Hinduism",
+            "Unaffiliated",
+            "Buddhism"
+         ],
          "government": "Unitary Islamic absolute monarchy",
          "area": 2149690.0,
          "population": 38401000,
@@ -2599,15 +3959,21 @@
          "currency": "SR",
          "time zone": "UTC+3",
          "calling code": "+966",
-         "id": 318953936058162718
+         "id": 495033158747433935
       },
       {
          "name": "Senegal",
          "link": "https://en.wikipedia.org/wiki/Senegal",
          "capital": "Dakar",
          "largest city": "Dakar",
-         "languages": "French;Languages of Senegal",
-         "religion": "Islam;Christianity",
+         "languages": [
+            "French",
+            "Languages of Senegal"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity"
+         ],
          "government": "Unitary presidential republic",
          "area": 196712.0,
          "population": 17196308,
@@ -2616,15 +3982,25 @@
          "currency": "XOF",
          "time zone": "UTC",
          "calling code": "+221",
-         "id": 132529865120609944
+         "id": 196483039563370152
       },
       {
          "name": "Serbia",
          "link": "https://en.wikipedia.org/wiki/Serbia",
          "capital": "Belgrade",
          "largest city": "Belgrade",
-         "languages": "Serbian",
-         "religion": "Christianity;Eastern Orthodoxy;Catholicism;Protestantism;Islam;No religion;Kosovo",
+         "languages": [
+            "Serbian"
+         ],
+         "religions": [
+            "Christianity",
+            "Eastern Orthodoxy",
+            "Catholicism",
+            "Protestantism",
+            "Islam",
+            "No religion",
+            "Kosovo"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 88499.0,
          "population": 6797105,
@@ -2633,15 +4009,27 @@
          "currency": "RSD",
          "time zone": "UTC+1",
          "calling code": "+381",
-         "id": 159953089162536854
+         "id": 175064803215185992
       },
       {
          "name": "Seychelles",
          "link": "https://en.wikipedia.org/wiki/Seychelles",
          "capital": "Victoria",
          "largest city": "Victoria",
-         "languages": "English;French;Seychellois",
-         "religion": "Christianity;Catholicism;Anglicanism;Christian;Hinduism;Islam;None",
+         "languages": [
+            "English",
+            "French",
+            "Seychellois"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Anglicanism",
+            "Christian",
+            "Hinduism",
+            "Islam",
+            "None"
+         ],
          "government": "Unitary presidential republic",
          "area": 459.0,
          "population": 100447,
@@ -2650,15 +4038,20 @@
          "currency": "SCR",
          "time zone": "UTC+4",
          "calling code": "+248",
-         "id": 122158665396963115
+         "id": 261896795053718088
       },
       {
          "name": "Sierra Leone",
          "link": "https://en.wikipedia.org/wiki/Sierra_Leone",
          "capital": "Freetown",
          "largest city": "Freetown",
-         "languages": "English",
-         "religion": "Islam;Christianity",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity"
+         ],
          "government": "Unitary presidential republic",
          "area": 71740.0,
          "population": 8692606,
@@ -2667,15 +4060,29 @@
          "currency": "SLL",
          "time zone": "UTC",
          "calling code": "+232",
-         "id": 114254989997068644
+         "id": 149609228265780743
       },
       {
          "name": "Singapore",
          "link": "https://en.wikipedia.org/wiki/Singapore",
          "capital": "city-state",
          "largest city": "",
-         "languages": "English;Malay;Mandarin;Tamil;Malay",
-         "religion": "Buddhism;No religion;Christianity;Islam;Taoism;Hinduism;Others",
+         "languages": [
+            "English",
+            "Mandarin",
+            "Malay",
+            "Tamil",
+            "Malay"
+         ],
+         "religions": [
+            "Buddhism",
+            "No religion",
+            "Christianity",
+            "Islam",
+            "Taoism",
+            "Hinduism",
+            "Others"
+         ],
          "government": "Unitary dominant-party parliamentary republic",
          "area": 733.1,
          "population": 5637000,
@@ -2684,15 +4091,23 @@
          "currency": "SGD",
          "time zone": "UTC+8",
          "calling code": "+65",
-         "id": 241785048382360339
+         "id": 299347814362980543
       },
       {
          "name": "Slovakia",
          "link": "https://en.wikipedia.org/wiki/Slovakia",
          "capital": "Bratislava",
          "largest city": "Bratislava",
-         "languages": "Slovak",
-         "religion": "Christianity;Catholicism;Protestantism;Christian;No religion",
+         "languages": [
+            "Slovak"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Protestantism",
+            "Christian",
+            "No religion"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 49035.0,
          "population": 5460185,
@@ -2701,15 +4116,24 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+421",
-         "id": 417512570664986246
+         "id": 927466913005605859
       },
       {
          "name": "Slovenia",
          "link": "https://en.wikipedia.org/wiki/Slovenia",
          "capital": "Ljubljana",
          "largest city": "Ljubljana",
-         "languages": "Slovene",
-         "religion": "Christianity;Catholicism;Orthodoxy;Christian;No religion;Others",
+         "languages": [
+            "Slovene"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Orthodoxy",
+            "Christian",
+            "No religion",
+            "Others"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 20271.0,
          "population": 2108708,
@@ -2718,15 +4142,25 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+386",
-         "id": 149269971208363941
+         "id": 191793192869776252
       },
       {
          "name": "Solomon Islands",
          "link": "https://en.wikipedia.org/wiki/Solomon_Islands",
          "capital": "Honiara",
          "largest city": "Honiara",
-         "languages": "English",
-         "religion": "Christianity;Protestantism;Catholicism;Christian;Folk religions;Others;None",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Catholicism",
+            "Christian",
+            "Folk religions",
+            "Others",
+            "None"
+         ],
          "government": "Unitary parliamentary constitutional monarchy",
          "area": 28400.0,
          "population": 707851,
@@ -2735,15 +4169,20 @@
          "currency": "SBD",
          "time zone": "UTC+11",
          "calling code": "+677",
-         "id": 279219381666061397
+         "id": 178383554056700054
       },
       {
          "name": "Somalia",
          "link": "https://en.wikipedia.org/wiki/Somalia",
          "capital": "Mogadishu",
          "largest city": "Mogadishu",
-         "languages": "Somali;Arabic",
-         "religion": "Sunni Islam",
+         "languages": [
+            "Somali",
+            "Arabic"
+         ],
+         "religions": [
+            "Sunni Islam"
+         ],
          "government": "Federal parliamentary republic",
          "area": 637657.0,
          "population": 17066000,
@@ -2752,15 +4191,50 @@
          "currency": "SOS",
          "time zone": "UTC+3",
          "calling code": "+252",
-         "id": 135344096326224379
+         "id": 230848758170563280
       },
       {
          "name": "South Africa",
          "link": "https://en.wikipedia.org/wiki/South_Africa",
          "capital": "Pretoria",
          "largest city": "Johannesburg",
-         "languages": "Khoi languages;Nama;San languages;South African Sign Language;German;Greek;Gujarati;Hindi;Portuguese;Telugu;Tamil;Urdu;Arabic;Hebrew;Sanskrit",
-         "religion": "Christianity;Protestantism;Christian;No religion;Traditional faiths;Islam;Hinduism",
+         "languages": [
+            "Zulu",
+            "Xhosa",
+            "Afrikaans",
+            "English",
+            "Sepedi",
+            "Swazi",
+            "Sesotho",
+            "Setswana",
+            "Xitsonga",
+            "Tshivenda",
+            "Ndebele",
+            "Khoi languages",
+            "Nama",
+            "San languages",
+            "South African Sign Language",
+            "German",
+            "Greek",
+            "Gujarati",
+            "Hindi",
+            "Portuguese",
+            "Telugu",
+            "Tamil",
+            "Urdu",
+            "Arabic",
+            "Hebrew",
+            "Sanskrit"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Christian",
+            "No religion",
+            "Traditional faiths",
+            "Islam",
+            "Hinduism"
+         ],
          "government": "Unitary dominant-party parliamentary republic with an executive presidency",
          "area": 1221037.0,
          "population": 60604992,
@@ -2769,15 +4243,23 @@
          "currency": "ZAR",
          "time zone": "UTC+2",
          "calling code": "+27",
-         "id": 923333218987093155
+         "id": 145534406982072384
       },
       {
          "name": "South Sudan",
          "link": "https://en.wikipedia.org/wiki/South_Sudan",
          "capital": "Juba",
          "largest city": "Juba",
-         "languages": "English",
-         "religion": "Christianity;Traditional faiths;Islam;Others;None",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Traditional faiths",
+            "Islam",
+            "Others",
+            "None"
+         ],
          "government": "Federal provisional unity government",
          "area": 644329.0,
          "population": 11544905,
@@ -2786,16 +4268,21 @@
          "currency": "SSP",
          "time zone": "UTC+2",
          "calling code": "+211",
-         "id": 308561079161447337
+         "id": 712273999942735750
       },
       {
          "name": "Spain",
          "link": "https://en.wikipedia.org/wiki/Spain",
          "capital": "Madrid",
          "largest city": "Madrid",
-         "languages": "Spanish",
-         "religion": "Christianity;No religion",
-         "government": "Unitary parliamentary constitutional monarchy",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion"
+         ],
+         "government": "Unitary parliamentary constitutional monarchy",
          "area": 505990.0,
          "population": 47163418,
          "density": 93.2,
@@ -2803,15 +4290,23 @@
          "currency": "EUR",
          "time zone": "UTC",
          "calling code": "+34",
-         "id": 509569382224443145
+         "id": 721662903906532938
       },
       {
          "name": "Sri Lanka",
          "link": "https://en.wikipedia.org/wiki/Sri_Lanka",
          "capital": "Sri Jayawardenepura Kotte",
          "largest city": "Colombo",
-         "languages": "Sinhala;Tamil",
-         "religion": "Buddhism;Hinduism;Islam;Christianity",
+         "languages": [
+            "Sinhala",
+            "Tamil"
+         ],
+         "religions": [
+            "Buddhism",
+            "Hinduism",
+            "Islam",
+            "Christianity"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 65610.0,
          "population": 22156000,
@@ -2820,15 +4315,23 @@
          "currency": "LKR",
          "time zone": "UTC+5",
          "calling code": "+94",
-         "id": 205403310140619618
+         "id": 410198688609896755
       },
       {
          "name": "Sudan",
          "link": "https://en.wikipedia.org/wiki/Sudan",
          "capital": "Khartoum",
          "largest city": "Omdurman",
-         "languages": "",
-         "religion": "Islam;Christianity;Traditional Faiths;Others",
+         "languages": [
+            "Arabic",
+            "English"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Traditional Faiths",
+            "Others"
+         ],
          "government": "Federal provisional government",
          "area": 1886068.0,
          "population": 47958856,
@@ -2837,15 +4340,24 @@
          "currency": "SDG",
          "time zone": "UTC+2",
          "calling code": "+249",
-         "id": 336409220279481909
+         "id": 166728193296569887
       },
       {
          "name": "Suriname",
          "link": "https://en.wikipedia.org/wiki/Suriname",
          "capital": "Paramaribo",
          "largest city": "Paramaribo",
-         "languages": "Dutch",
-         "religion": "Christianity;Hinduism;Islam;No religion;Folk religions;Others",
+         "languages": [
+            "Dutch"
+         ],
+         "religions": [
+            "Christianity",
+            "Hinduism",
+            "Islam",
+            "No religion",
+            "Folk religions",
+            "Others"
+         ],
          "government": "Unitary assembly-independent republic",
          "area": 163821.0,
          "population": 632638,
@@ -2854,15 +4366,24 @@
          "currency": "SRD",
          "time zone": "UTC-3",
          "calling code": "+597",
-         "id": 114969562079316729
+         "id": 273709861768826281
       },
       {
          "name": "Sweden",
          "link": "https://en.wikipedia.org/wiki/Sweden",
          "capital": "Stockholm",
          "largest city": "Stockholm",
-         "languages": "Swedish",
-         "religion": "Christianity;Church of Sweden;Christian;No religion;Islam;Others",
+         "languages": [
+            "Swedish"
+         ],
+         "religions": [
+            "Christianity",
+            "Church of Sweden",
+            "Christian",
+            "No religion",
+            "Islam",
+            "Others"
+         ],
          "government": "Unitary parliamentaryconstitutional monarchy",
          "area": 450295.0,
          "population": 10481937,
@@ -2871,15 +4392,29 @@
          "currency": "SEK",
          "time zone": "UTC+1",
          "calling code": "+46",
-         "id": 139639087947827838
+         "id": 165255199171297272
       },
       {
          "name": "Switzerland",
          "link": "https://en.wikipedia.org/wiki/Switzerland",
          "capital": "Bern",
          "largest city": "Zürich",
-         "languages": "Romansh",
-         "religion": "Christianity;Catholicism;Swiss Reformed;Christian;No religion;Islam;Hinduism;Others",
+         "languages": [
+            "German",
+            "French",
+            "Italian",
+            "Romansh"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Swiss Reformed",
+            "Christian",
+            "No religion",
+            "Islam",
+            "Hinduism",
+            "Others"
+         ],
          "government": "Federal assembly-independent directorial republic with elements of a semi-direct democracy",
          "area": 41285.0,
          "population": 8636896,
@@ -2888,32 +4423,46 @@
          "currency": "CHF",
          "time zone": "UTC+1",
          "calling code": "+41",
-         "id": 296238135011362448
+         "id": 217591918166837643
       },
       {
          "name": "Syria",
          "link": "https://en.wikipedia.org/wiki/Syria",
          "capital": "Damascus",
          "largest city": "Damascus",
-         "languages": "Arabic",
-         "religion": "Islam;Christianity;Druze",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Druze"
+         ],
          "government": "Unitary semi-presidential republic under a totalitarian hereditary dictatorship",
          "area": 185180.0,
-         "population": 21563800,
-         "density": 116.4,
+         "population": 18529787,
+         "density": 100.1,
          "driving side": "right",
          "currency": "SYP",
          "time zone": "UTC+3",
          "calling code": "+963",
-         "id": 206875247894394024
+         "id": 289307648928511320
       },
       {
          "name": "Tajikistan",
          "link": "https://en.wikipedia.org/wiki/Tajikistan",
          "capital": "Dushanbe",
          "largest city": "Dushanbe",
-         "languages": "Tajik;Russian",
-         "religion": "Islam;Irreligion;Christianity;Others",
+         "languages": [
+            "Tajik",
+            "Russian"
+         ],
+         "religions": [
+            "Islam",
+            "Irreligion",
+            "Christianity",
+            "Others"
+         ],
          "government": "Unitary presidential republic under a dictatorship",
          "area": 143100.0,
          "population": 9119347,
@@ -2922,15 +4471,25 @@
          "currency": "TJS",
          "time zone": "UTC+5",
          "calling code": "+992",
-         "id": 312786497377274940
+         "id": 248573051232989354
       },
       {
          "name": "Tanzania",
          "link": "https://en.wikipedia.org/wiki/Tanzania",
          "capital": "Dodoma",
          "largest city": "Dar es Salaam",
-         "languages": "Swahili;English;Arabic;Swahili",
-         "religion": "Christianity;Islam;No religion;Traditional faiths",
+         "languages": [
+            "Swahili",
+            "English",
+            "Arabic",
+            "Swahili"
+         ],
+         "religions": [
+            "Christianity",
+            "Islam",
+            "No religion",
+            "Traditional faiths"
+         ],
          "government": "Unitary dominant-party presidential republic",
          "area": 947303.0,
          "population": 61741120,
@@ -2939,15 +4498,23 @@
          "currency": "TZS",
          "time zone": "UTC+3",
          "calling code": "+255",
-         "id": 556189670892570132
+         "id": 295369623722442486
       },
       {
          "name": "Thailand",
          "link": "https://en.wikipedia.org/wiki/Thailand",
          "capital": "Bangkok",
          "largest city": "Bangkok",
-         "languages": "Thai",
-         "religion": "Buddhism;Islam;Christianity;Hinduism;No religion",
+         "languages": [
+            "Thai"
+         ],
+         "religions": [
+            "Buddhism",
+            "Islam",
+            "Christianity",
+            "Hinduism",
+            "No religion"
+         ],
          "government": "Unitary parliamentary semi-democratic constitutional monarchy",
          "area": 513120.0,
          "population": 69648117,
@@ -2956,15 +4523,24 @@
          "currency": "THB",
          "time zone": "UTC+7",
          "calling code": "+66",
-         "id": 801551460078990222
+         "id": 162828825793510544
       },
       {
          "name": "Togo",
          "link": "https://en.wikipedia.org/wiki/Togo",
          "capital": "Lomé",
          "largest city": "Lomé",
-         "languages": "French",
-         "religion": "Christianity;Traditional faiths;Islam;Baha'i faith;Others;None",
+         "languages": [
+            "French"
+         ],
+         "religions": [
+            "Christianity",
+            "Traditional faiths",
+            "Islam",
+            "Baha'i faith",
+            "Others",
+            "None"
+         ],
          "government": "Unitary dominant-party presidential republic",
          "area": 56785.0,
          "population": 8492333,
@@ -2973,15 +4549,26 @@
          "currency": "XOF",
          "time zone": "UTC",
          "calling code": "+228",
-         "id": 248953687980521462
+         "id": 299145125208940159
       },
       {
          "name": "Tonga",
          "link": "https://en.wikipedia.org/wiki/Tonga",
          "capital": "Nukuʻalofa",
          "largest city": "Nukuʻalofa",
-         "languages": "Tongan;English",
-         "religion": "Christianity;Methodism;Mormonism;Catholicism;Christian;Baha'i faith;No religion",
+         "languages": [
+            "Tongan",
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Methodism",
+            "Mormonism",
+            "Catholicism",
+            "Christian",
+            "Baha'i faith",
+            "No religion"
+         ],
          "government": "Unitary parliamentary semi-constitutional monarchy",
          "area": 748.0,
          "population": 100209,
@@ -2990,15 +4577,23 @@
          "currency": "TOP",
          "time zone": "UTC+13",
          "calling code": "+676",
-         "id": 104127480673963772
+         "id": 168977199920874347
       },
       {
          "name": "Trinidad and Tobago",
          "link": "https://en.wikipedia.org/wiki/Trinidad_and_Tobago",
          "capital": "Port of Spain",
          "largest city": "San Fernando",
-         "languages": "English",
-         "religion": "Christianity;Hinduism;Islam;No religion;Other",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Hinduism",
+            "Islam",
+            "No religion",
+            "Other"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 5131.0,
          "population": 1405646,
@@ -3007,15 +4602,24 @@
          "currency": "TTD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 335655744034755460
+         "id": 126593176203232585
       },
       {
          "name": "Tunisia",
          "link": "https://en.wikipedia.org/wiki/Tunisia",
          "capital": "Tunis",
          "largest city": "Tunis",
-         "languages": "Arabic",
-         "religion": "Islam;Others;Christians;Jews;Shia Islam;Baháʼís",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [
+            "Islam",
+            "Others",
+            "Christians",
+            "Jews",
+            "Shia Islam",
+            "Baháʼís"
+         ],
          "government": "Unitary presidential republic",
          "area": 163610.0,
          "population": 11708370,
@@ -3024,15 +4628,19 @@
          "currency": "TND",
          "time zone": "UTC+1",
          "calling code": "+216",
-         "id": 240937876764171492
+         "id": 179922878522346170
       },
       {
          "name": "Turkey",
          "link": "https://en.wikipedia.org/wiki/Turkey",
          "capital": "Ankara",
          "largest city": "Istanbul",
-         "languages": "Turkish",
-         "religion": "religion in Turkey",
+         "languages": [
+            "Turkish"
+         ],
+         "religions": [
+            "religion in Turkey"
+         ],
          "government": " April ",
          "area": 783356.0,
          "population": 84680273,
@@ -3041,16 +4649,22 @@
          "currency": "TRY",
          "time zone": "UTC+3",
          "calling code": "+90",
-         "id": 452869535460994569
+         "id": 219226033711127667
       },
       {
          "name": "Turkmenistan",
          "link": "https://en.wikipedia.org/wiki/Turkmenistan",
          "capital": "Ashgabat",
          "largest city": "Ashgabat",
-         "languages": "Turkmen",
-         "religion": "Islam;Christianity;Other",
-         "government": "Unitary presidential republic under a totalitarian hereditary dictatorship",
+         "languages": [
+            "Turkmen"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Other"
+         ],
+         "government": "Unitary presidential republic under a totalitarian hereditary dictatorship",
          "area": 491210.0,
          "population": 5636011,
          "density": 11.5,
@@ -3058,15 +4672,21 @@
          "currency": "TMT",
          "time zone": "UTC+5",
          "calling code": "+993",
-         "id": 126034659356168030
+         "id": 357221128867040678
       },
       {
          "name": "Tuvalu",
          "link": "https://en.wikipedia.org/wiki/Tuvalu",
          "capital": "Funafuti",
          "largest city": "Funafuti",
-         "languages": "Tuvaluan;English",
-         "religion": "Christianity;Church of Tuvalu",
+         "languages": [
+            "Tuvaluan",
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Church of Tuvalu"
+         ],
          "government": "Unitary non-partisan parliamentary constitutional monarchy",
          "area": 26.0,
          "population": 11900,
@@ -3075,15 +4695,26 @@
          "currency": "AUD",
          "time zone": "UTC+12",
          "calling code": "+688",
-         "id": 184991186140563295
+         "id": 249071341191708136
       },
       {
          "name": "Uganda",
          "link": "https://en.wikipedia.org/wiki/Uganda",
          "capital": "Kampala",
          "largest city": "Kampala",
-         "languages": "English;Luganda",
-         "religion": "Christianity;Catholicism;Anglicanism;Christian;Islam;Others;None",
+         "languages": [
+            "English",
+            "Luganda"
+         ],
+         "religions": [
+            "Christianity",
+            "Catholicism",
+            "Anglicanism",
+            "Christian",
+            "Islam",
+            "Others",
+            "None"
+         ],
          "government": "Unitary dominant-party presidential republic",
          "area": 241038.0,
          "population": 45853778,
@@ -3092,15 +4723,21 @@
          "currency": "UGX",
          "time zone": "UTC+3",
          "calling code": "+256",
-         "id": 288866617358955972
+         "id": 310622095321636529
       },
       {
          "name": "Ukraine",
          "link": "https://en.wikipedia.org/wiki/Ukraine",
          "capital": "Kyiv",
          "largest city": "Kyiv",
-         "languages": "Ukrainian",
-         "religion": "Christianity;No religion;Others",
+         "languages": [
+            "Ukrainian"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion",
+            "Others"
+         ],
          "government": "Unitary semi-presidential republic",
          "area": 603628.0,
          "population": 41167336,
@@ -3109,15 +4746,23 @@
          "currency": "UAH",
          "time zone": "UTC+2",
          "calling code": "+380",
-         "id": 369221642658753162
+         "id": 319086940115355787
       },
       {
          "name": "United Arab Emirates",
          "link": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
          "capital": "Abu Dhabi",
          "largest city": "Dubai",
-         "languages": "Arabic",
-         "religion": "Islam;Christianity;Hinduism;Buddhism;Others",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Hinduism",
+            "Buddhism",
+            "Others"
+         ],
          "government": "Federal Islamic parliamentary elective semi-constitutional monarchy",
          "area": 83600.0,
          "population": 9282410,
@@ -3126,15 +4771,23 @@
          "currency": "AED",
          "time zone": "UTC+4",
          "calling code": "+971",
-         "id": 132355038607352274
+         "id": 124570828652732196
       },
       {
          "name": "United Kingdom",
          "link": "https://en.wikipedia.org/wiki/United_Kingdom",
          "capital": "London",
          "largest city": "London",
-         "languages": "English",
-         "religion": "Christianity;No religion;Islam;Hinduism;Other",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "No religion",
+            "Islam",
+            "Hinduism",
+            "Other"
+         ],
          "government": "Unitarye parliamentaryconstitutional monarchy",
          "area": 242495.0,
          "population": 67791400,
@@ -3143,15 +4796,25 @@
          "currency": "GBP",
          "time zone": "UTC",
          "calling code": "+44",
-         "id": 201043422434531981
+         "id": 286161012059031833
       },
       {
          "name": "United States",
          "link": "https://en.wikipedia.org/wiki/United_States",
          "capital": "Washington, D.C.",
          "largest city": "New York City",
-         "languages": "None at the federal level;English",
-         "religion": "Christianity;Protestantism;Catholicism;Christian;No religion;Other",
+         "languages": [
+            "None at the federal level",
+            "English"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Catholicism",
+            "Christian",
+            "No religion",
+            "Other"
+         ],
          "government": "Federal presidential constitutional republic",
          "area": 3531905.0,
          "population": 331893745,
@@ -3160,15 +4823,23 @@
          "currency": "USD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 176972242795399014
+         "id": 165350546239682465
       },
       {
          "name": "Uruguay",
          "link": "https://en.wikipedia.org/wiki/Uruguay",
          "capital": "Montevideo",
          "largest city": "Montevideo",
-         "languages": "Spanish;Uruguayan Sign Language",
-         "religion": "Christianity;Roman Catholic;Christian;No religion",
+         "languages": [
+            "Spanish",
+            "Uruguayan Sign Language"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Christian",
+            "No religion"
+         ],
          "government": "Unitary presidential republic",
          "area": 181034.0,
          "population": 3407213,
@@ -3177,16 +4848,22 @@
          "currency": "UYU",
          "time zone": "UTC-3",
          "calling code": "+598",
-         "id": 198151166118335219
+         "id": 312277048469936121
       },
       {
          "name": "Uzbekistan",
          "link": "https://en.wikipedia.org/wiki/Uzbekistan",
          "capital": "Tashkent",
          "largest city": "Tashkent",
-         "languages": "Uzbek",
-         "religion": "Islam;Christianity;Others",
-         "government": "Unitary dominant-party presidential republic under an authoritarian dictatorship",
+         "languages": [
+            "Uzbek"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "Others"
+         ],
+         "government": "Unitary dominant-party presidential republic",
          "area": 448978.0,
          "population": 35955400,
          "density": 80.1,
@@ -3194,15 +4871,26 @@
          "currency": "UZS",
          "time zone": "UTC+5",
          "calling code": "+998",
-         "id": 126416905730777465
+         "id": 169646993127313268
       },
       {
          "name": "Vanuatu",
          "link": "https://en.wikipedia.org/wiki/Vanuatu",
          "capital": "Port Vila",
          "largest city": "Port Vila",
-         "languages": "Bislama;English;French",
-         "religion": "Christianity;Presbyterianism;Protestant;Catholicism;Folk religions;None",
+         "languages": [
+            "Bislama",
+            "English",
+            "French"
+         ],
+         "religions": [
+            "Christianity",
+            "Presbyterianism",
+            "Protestant",
+            "Catholicism",
+            "Folk religions",
+            "None"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 12189.0,
          "population": 307815,
@@ -3211,15 +4899,20 @@
          "currency": "VUV",
          "time zone": "UTC+11",
          "calling code": "+678",
-         "id": 609959684123590322
+         "id": 195295783624733091
       },
       {
          "name": "Vatican City",
          "link": "https://en.wikipedia.org/wiki/Vatican_City",
          "capital": "",
          "largest city": "",
-         "languages": "Italian",
-         "religion": "Roman Catholicism;State religion",
+         "languages": [
+            "Italian"
+         ],
+         "religions": [
+            "Roman Catholicism",
+            "State religion"
+         ],
          "government": "Unitary Catholic theocratic elective absolute monarchy",
          "area": 0.49,
          "population": 453,
@@ -3228,15 +4921,24 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+379",
-         "id": 133255788172939155
+         "id": 778853035427727651
       },
       {
          "name": "Venezuela",
          "link": "https://en.wikipedia.org/wiki/Venezuela",
          "capital": "Caracas",
          "largest city": "Caracas",
-         "languages": "Spanish",
-         "religion": "Christianity;Roman Catholic;Protestant;Christian;No religion;Spiritism",
+         "languages": [
+            "Spanish"
+         ],
+         "religions": [
+            "Christianity",
+            "Roman Catholic",
+            "Protestant",
+            "Christian",
+            "No religion",
+            "Spiritism"
+         ],
          "government": "Federal presidential republic",
          "area": 916445.0,
          "population": 29789730,
@@ -3245,15 +4947,25 @@
          "currency": "VED",
          "time zone": "UTC-4",
          "calling code": "+58",
-         "id": 247164054514061458
+         "id": 173592666605679224
       },
       {
          "name": "Vietnam",
          "link": "https://en.wikipedia.org/wiki/Vietnam",
          "capital": "Hanoi",
          "largest city": "Ho Chi Minh City",
-         "languages": "Vietnamese",
-         "religion": "Folk;No religion;Buddhism;Christianity;Hoahaoism;Caodaism;Others",
+         "languages": [
+            "Vietnamese"
+         ],
+         "religions": [
+            "Folk",
+            "No religion",
+            "Buddhism",
+            "Christianity",
+            "Hoahaoism",
+            "Caodaism",
+            "Others"
+         ],
          "government": "Unitary Marxist-Leninist one-party socialist republic",
          "area": 331699.0,
          "population": 103808319,
@@ -3262,15 +4974,22 @@
          "currency": "VND",
          "time zone": "UTC+7",
          "calling code": "+84",
-         "id": 122413381279584793
+         "id": 154896327031354974
       },
       {
          "name": "Yemen",
          "link": "https://en.wikipedia.org/wiki/Yemen",
          "capital": "Aden",
          "largest city": "Taizz",
-         "languages": "Arabic",
-         "religion": "Islam;Hindus;Christians;others",
+         "languages": [
+            "Arabic"
+         ],
+         "religions": [
+            "Islam",
+            "Hindus",
+            "Christians",
+            "others"
+         ],
          "government": "Unitary provisional republic",
          "area": 555000.0,
          "population": 30984689,
@@ -3279,15 +4998,19 @@
          "currency": "YER",
          "time zone": "UTC+3",
          "calling code": "+967",
-         "id": 108634363024004785
+         "id": 244494429706101598
       },
       {
          "name": "Zambia",
          "link": "https://en.wikipedia.org/wiki/Zambia",
          "capital": "Lusaka",
          "largest city": "Lusaka",
-         "languages": "",
-         "religion": "Christianity",
+         "languages": [
+            "English"
+         ],
+         "religions": [
+            "Christianity"
+         ],
          "government": "Unitary presidential republic",
          "area": 752617.0,
          "population": 19642123,
@@ -3296,15 +5019,38 @@
          "currency": "ZMW",
          "time zone": "UTC+2",
          "calling code": "+260",
-         "id": 242628995018933926
+         "id": 336573490335262886
       },
       {
          "name": "Zimbabwe",
          "link": "https://en.wikipedia.org/wiki/Zimbabwe",
          "capital": "Harare",
          "largest city": "Harare",
-         "languages": "Chewa;Chibarwe;English;Kalanga;Koisan;Tsoa;Nambya;Ndau;Ndebele;Shangani;Shona;Sotho;Tonga;Tswana;Venda;Xhosa",
-         "religion": "Christianity;Protestantism;Christian;No religion;Traditional faiths",
+         "languages": [
+            "Chewa",
+            "Chibarwe",
+            "English",
+            "Kalanga",
+            "Koisan",
+            "Tsoa",
+            "Nambya",
+            "Ndau",
+            "Ndebele",
+            "Shangani",
+            "Shona",
+            "Sotho",
+            "Tonga",
+            "Tswana",
+            "Venda",
+            "Xhosa"
+         ],
+         "religions": [
+            "Christianity",
+            "Protestantism",
+            "Christian",
+            "No religion",
+            "Traditional faiths"
+         ],
          "government": "Unitary dominant-party presidential republic",
          "area": 390757.0,
          "population": 15121004,
@@ -3313,15 +5059,18 @@
          "currency": "USD",
          "time zone": "UTC+2",
          "calling code": "+263",
-         "id": 835063369412047284
+         "id": 826803264989699517
       },
       {
          "name": "Abkhazia",
          "link": "https://en.wikipedia.org/wiki/Abkhazia",
          "capital": "Sukhumi",
          "largest city": "Sukhumi",
-         "languages": "Abkhaz;Russian",
-         "religion": "",
+         "languages": [
+            "Abkhaz",
+            "Russian"
+         ],
+         "religions": [],
          "government": "Unitary presidential republic",
          "area": 8665.0,
          "population": 244926,
@@ -3330,15 +5079,18 @@
          "currency": "RUB",
          "time zone": "UTC+3",
          "calling code": "+7",
-         "id": 258339090973439842
+         "id": 184846056750652258
       },
       {
          "name": "Artsakh",
          "link": "https://en.wikipedia.org/wiki/Republic_of_Artsakh",
          "capital": "Stepanakert",
          "largest city": "Stepanakert",
-         "languages": "Armenian;Russian",
-         "religion": "",
+         "languages": [
+            "Armenian",
+            "Russian"
+         ],
+         "religions": [],
          "government": "Unitary presidential republicc",
          "area": 3170.0,
          "population": 120000,
@@ -3347,15 +5099,19 @@
          "currency": "AMD",
          "time zone": "UTC+4",
          "calling code": "+374",
-         "id": 129949997273525694
+         "id": 183063153019144114
       },
       {
          "name": "Cook Islands",
          "link": "https://en.wikipedia.org/wiki/Cook_Islands",
          "capital": "Avarua",
          "largest city": "Avarua",
-         "languages": "English;Cook Islands Māori;Pukapukan",
-         "religion": "",
+         "languages": [
+            "English",
+            "Cook Islands Māori",
+            "Pukapukan"
+         ],
+         "religions": [],
          "government": "Unitary constitutional monarchy",
          "area": 236.7,
          "population": 17459,
@@ -3364,15 +5120,23 @@
          "currency": "NZD",
          "time zone": "UTC-10",
          "calling code": "+682",
-         "id": 175172560248930970
+         "id": 238204056838754606
       },
       {
          "name": "Kosovo",
          "link": "https://en.wikipedia.org/wiki/Kosovo",
          "capital": "Pristina",
          "largest city": "Pristina",
-         "languages": "Albanian;Serbian",
-         "religion": "Islam;Christianity;No religion;Others",
+         "languages": [
+            "Albanian",
+            "Serbian"
+         ],
+         "religions": [
+            "Islam",
+            "Christianity",
+            "No religion",
+            "Others"
+         ],
          "government": "Unitary parliamentary republic",
          "area": 10887.0,
          "population": 1806279,
@@ -3381,15 +5145,21 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+383",
-         "id": 257672157848281931
+         "id": 240120443233459198
       },
       {
          "name": "Niue",
          "link": "https://en.wikipedia.org/wiki/Niue",
          "capital": "Alofi",
          "largest city": "",
-         "languages": "English;Niuean",
-         "religion": "Christianity;None",
+         "languages": [
+            "English",
+            "Niuean"
+         ],
+         "religions": [
+            "Christianity",
+            "None"
+         ],
          "government": "Unitary non-partisan parliamentary constitutional monarchy",
          "area": 261.46,
          "population": 1937,
@@ -3398,15 +5168,17 @@
          "currency": "NZD",
          "time zone": "UTC-11",
          "calling code": "+683",
-         "id": 141703445687659270
+         "id": 301240954318880624
       },
       {
          "name": "Northern Cyprus",
          "link": "https://en.wikipedia.org/wiki/Northern_Cyprus",
          "capital": "North Nicosia",
          "largest city": "North Nicosia",
-         "languages": "Turkish",
-         "religion": "",
+         "languages": [
+            "Turkish"
+         ],
+         "religions": [],
          "government": "Unitary semi-presidential republic",
          "area": 3355.0,
          "population": 382836,
@@ -3415,15 +5187,21 @@
          "currency": "TRY",
          "time zone": "UTC+2",
          "calling code": "+90",
-         "id": 591207671810577122
+         "id": 199908841033472112
       },
       {
          "name": "SADR",
          "link": "https://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic",
          "capital": "Rabuni",
          "largest city": "",
-         "languages": "Arabic;Spanish",
-         "religion": "Islam;others",
+         "languages": [
+            "Arabic",
+            "Spanish"
+         ],
+         "religions": [
+            "Islam",
+            "others"
+         ],
          "government": "Unitary one-party semi-presidential republic",
          "area": 266000.0,
          "population": 612000,
@@ -3432,15 +5210,19 @@
          "currency": "Algerian dinar",
          "time zone": "UTC",
          "calling code": "",
-         "id": 196639980777723522
+         "id": 124324123213100165
       },
       {
          "name": "Somaliland",
          "link": "https://en.wikipedia.org/wiki/Somaliland",
          "capital": "Hargeisa",
          "largest city": "Hargeisa",
-         "languages": "Somali",
-         "religion": "",
+         "languages": [
+            "Somali"
+         ],
+         "religions": [
+            "Islam"
+         ],
          "government": "Unitary presidential republic",
          "area": 177000.0,
          "population": 5741086,
@@ -3449,15 +5231,18 @@
          "currency": "Somaliland shilling",
          "time zone": "UTC+3",
          "calling code": "+252",
-         "id": 103135059218342402
+         "id": 247013148678094441
       },
       {
          "name": "South Ossetia",
          "link": "https://en.wikipedia.org/wiki/South_Ossetia",
          "capital": "Tskhinvali",
          "largest city": "Tskhinvali",
-         "languages": "Ossetian;Russian",
-         "religion": "",
+         "languages": [
+            "Ossetian",
+            "Russian"
+         ],
+         "religions": [],
          "government": "Unitary semi-presidential republic",
          "area": 3900.0,
          "population": 56520,
@@ -3466,15 +5251,31 @@
          "currency": "RUB",
          "time zone": "UTC+3",
          "calling code": "+995",
-         "id": 893732723603625959
+         "id": 299031440497285989
       },
       {
          "name": "Taiwan",
          "link": "https://en.wikipedia.org/wiki/Taiwan",
          "capital": "Taipei",
          "largest city": "New Taipei City",
-         "languages": "Standard Chinese;Traditional Chinese;Mandarin;Hokkien;Hakka;Formosan;Matsu;Wuqiu;Taiwan Sign Language",
-         "religion": "Buddhism;Taoism;No religion;Christianity;Others",
+         "languages": [
+            "Standard Chinese",
+            "Traditional Chinese",
+            "Mandarin",
+            "Hokkien",
+            "Hakka",
+            "Formosan",
+            "Matsu",
+            "Wuqiu",
+            "Taiwan Sign Language"
+         ],
+         "religions": [
+            "Buddhism",
+            "Taoism",
+            "No religion",
+            "Christianity",
+            "Others"
+         ],
          "government": "Unitary parliamentary constitutional republic under a semi-presidential systemg",
          "area": 36197.0,
          "population": 23894394,
@@ -3483,15 +5284,19 @@
          "currency": "NT",
          "time zone": "UTC+8",
          "calling code": "+886",
-         "id": 948323829690756458
+         "id": 168700531936639769
       },
       {
          "name": "Transnistria",
          "link": "https://en.wikipedia.org/wiki/Transnistria",
          "capital": "Tiraspol",
          "largest city": "Tiraspol",
-         "languages": "Russian;Romanian;Ukrainian",
-         "religion": "",
+         "languages": [
+            "Russian",
+            "Romanian",
+            "Ukrainian"
+         ],
+         "religions": [],
          "government": "Unitary presidential republic",
          "area": 4163.0,
          "population": 347251,
@@ -3500,7 +5305,7 @@
          "currency": "PRB",
          "time zone": "UTC+2",
          "calling code": "+373",
-         "id": 508184218725152094
+         "id": 219538472196075179
       }
    ]
 }
