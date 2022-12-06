@@ -11,7 +11,6 @@ def get_info(country, link):
     Builds and returns a dictionary for each country by crawling 
     the wikipedia page at the received url.
     """
-    country = ' '.join([c for c in country.replace(',_', ',').split(',')[::-1]]).replace('_', ' ')
     m, s = divmod(int(time.time() - start_time), 60)
     print(f'[{m:02d}:{s:02d}] {country}')
     info = {
@@ -50,11 +49,11 @@ def get_info(country, link):
                         lang = [d.text for d in td.find_all('li')]
                         if lang == []: lang = [td.text]
                     info['languages'] += lang
-                if 'Religion' in title:
+                if title.startswith('Religion'):
                     data = [d.text for d in td.find_all('a')]
                     relg = [d for d in data if not search(r'[\d\[]', d) and d.lower() not in ['official', 'see below']]
                     info['religions'] += relg
-                if 'Government' in title:
+                if title.startswith('Government'):
                     data = td.text.replace('−', '-').replace('–', '-').replace(' ', ' ')
                     govt = [d for d in data if not d.isdigit() and d not in ['[', ']']]
                     info['government'] = ''.join(govt)
@@ -63,18 +62,18 @@ def get_info(country, link):
                 if any(s in title for s in ['estimate', 'census']) and info['population'] < 0:
                     info['population'] = int(search(r'(\d+[., ]?)+', td.text).group().replace(' ', '').replace(',', ''))
                     info['density'] = float('%.1f' % (info['population'] / info['area']))
-                if 'Driving' in title:
+                if title.startswith('Driving'):
                     info['driving side'] = match(r'\w+', td.text).group()
-                if 'Currency' in title:
+                if title.startswith('Currency'):
                     curr = search(r'\(([A-Z]{2,3}|¥)', td.text)
                     if curr: info['currency'] = curr.group()[1:]
                     else: info['currency'] = search(r'[A-Z][a-z]+( [a-z]+)', td.text).group()
-                if 'Time zone' in title:
+                if title.startswith('Time zone'):
                     tz = search(r'UTC([+-−]\d{1,2})?', td.text).group().replace('−', '-').replace('–', '-')
                     if len(tz) == 6 and tz[-2] == '0': tz = tz[:-2] + tz[-1]
                     if len(tz) == 5 and tz[-1] == '0': tz = tz[:-2]
                     info['time zone'] = tz
-                if 'Calling code' in title:
+                if title.startswith('Calling code'):
                     code = match(r'\+\d+', td.text)
                     if code: info['calling code'] = code.group()
                     else: info['calling code'] = td.find('li').find('a').text
@@ -92,8 +91,7 @@ def init_db():
         cid = row.find('span')
         if cid and cid.get('id'):
             link = row.find('a')
-            if link:
-                db.add(get_info(cid.get('id'), f'{root}{link.get("href")}'))
+            if link: db.add(get_info(link.get('title').replace(' (country)', ''), f'{root}{link.get("href")}'))
 
 init_db()
 m, s = divmod(int(time.time() - start_time), 60)

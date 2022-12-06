@@ -21,7 +21,7 @@
          "currency": "AFN",
          "time zone": "UTC+4",
          "calling code": "+93",
-         "id": 255677567288767040
+         "id": 309702939232979741
       },
       {
          "name": "Albania",
@@ -44,7 +44,7 @@
          "currency": "ALL",
          "time zone": "UTC+1",
          "calling code": "+355",
-         "id": 136075159413192307
+         "id": 309225789980973166
       },
       {
          "name": "Algeria",
@@ -68,7 +68,7 @@
          "currency": "DZD",
          "time zone": "UTC+1",
          "calling code": "+213",
-         "id": 181193325196681929
+         "id": 265762667472167698
       },
       {
          "name": "Andorra",
@@ -90,7 +90,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+376",
-         "id": 222186794747979246
+         "id": 221411912805864141
       },
       {
          "name": "Angola",
@@ -122,7 +122,7 @@
          "currency": "AOA",
          "time zone": "UTC+1",
          "calling code": "+244",
-         "id": 255222333015852010
+         "id": 312701047964722786
       },
       {
          "name": "Antigua and Barbuda",
@@ -148,7 +148,7 @@
          "currency": "XCD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 165884094310444038
+         "id": 329536179084213921
       },
       {
          "name": "Argentina",
@@ -172,7 +172,7 @@
          "currency": "ARS",
          "time zone": "UTC-3",
          "calling code": "+54",
-         "id": 276668366860449360
+         "id": 319670515659770644
       },
       {
          "name": "Armenia",
@@ -194,7 +194,7 @@
          "currency": "AMD",
          "time zone": "UTC+4",
          "calling code": "+374",
-         "id": 169590872222562251
+         "id": 254605356955917700
       },
       {
          "name": "Australia",
@@ -220,7 +220,7 @@
          "currency": "AUD",
          "time zone": "UTC+8",
          "calling code": "+61",
-         "id": 212726710630505618
+         "id": 282668920947056154
       },
       {
          "name": "Austria",
@@ -247,7 +247,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+43",
-         "id": 135490864949575359
+         "id": 171495738106155451
       },
       {
          "name": "Azerbaijan",
@@ -272,10 +272,10 @@
          "currency": "AZN",
          "time zone": "UTC+4",
          "calling code": "+994",
-         "id": 122167517837763654
+         "id": 178931152142314016
       },
       {
-         "name": "Bahamas",
+         "name": "The Bahamas",
          "link": "https://en.wikipedia.org/wiki/The_Bahamas",
          "capital": "Nassau",
          "largest city": "Nassau",
@@ -297,7 +297,7 @@
          "currency": "BSD",
          "time zone": "UTC-5",
          "calling code": "+1",
-         "id": 134903153246535579
+         "id": 789039071547983043
       },
       {
          "name": "Bahrain",
@@ -324,7 +324,7 @@
          "currency": "BHD",
          "time zone": "UTC+3",
          "calling code": "+973",
-         "id": 169439456538457386
+         "id": 720611578703605441
       },
       {
          "name": "Bangladesh",
@@ -349,7 +349,7 @@
          "currency": "BDT",
          "time zone": "UTC+6",
          "calling code": "+880",
-         "id": 257458859972845517
+         "id": 322135262425889151
       },
       {
          "name": "Barbados",
@@ -372,7 +372,7 @@
          "currency": "BBD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 258804217010075885
+         "id": 430595968951689430
       },
       {
          "name": "Belarus",
@@ -397,7 +397,7 @@
          "currency": "BYN",
          "time zone": "UTC+3",
          "calling code": "+375",
-         "id": 324849451852526701
+         "id": 321684163275096278
       },
       {
          "name": "Belgium",
@@ -424,7 +424,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+32",
-         "id": 541751943863487316
+         "id": 539632654962530509
       },
       {
          "name": "Belize",
@@ -448,7 +448,7 @@
          "currency": "BZD",
          "time zone": "UTC-6",
          "calling code": "+501",
-         "id": 271035409137534553
+         "id": 199584794119015631
       },
       {
          "name": "Benin",
@@ -510,7 +510,7 @@
          "currency": "XOF",
          "time zone": "UTC+1",
          "calling code": "+229",
-         "id": 197400332246195603
+         "id": 272911124233608003
       },
       {
          "name": "Bhutan",
@@ -535,7 +535,7 @@
          "currency": "BTN",
          "time zone": "UTC+6",
          "calling code": "+975",
-         "id": 647294452616813645
+         "id": 339523704927455744
       },
       {
          "name": "Bolivia",
@@ -564,7 +564,7 @@
          "currency": "BOB",
          "time zone": "UTC-4",
          "calling code": "+591",
-         "id": 293474726890330728
+         "id": 364408469533102351
       },
       {
          "name": "Bosnia and Herzegovina",
@@ -592,7 +592,7 @@
          "currency": "BAM",
          "time zone": "UTC+1",
          "calling code": "+387",
-         "id": 879765422780131791
+         "id": 967981657856678492
       },
       {
          "name": "Botswana",
@@ -618,7 +618,7 @@
          "currency": "BWP",
          "time zone": "UTC+2",
          "calling code": "+267",
-         "id": 155756338497309607
+         "id": 141871332946658198
       },
       {
          "name": "Brazil",
@@ -644,7 +644,7 @@
          "currency": "BRL",
          "time zone": "UTC-2",
          "calling code": "+55",
-         "id": 145474281949515714
+         "id": 951487945367793314
       },
       {
          "name": "Brunei",
@@ -667,7 +667,7 @@
          "currency": "BND",
          "time zone": "UTC+8",
          "calling code": "+673",
-         "id": 576562150925330274
+         "id": 451983304780967875
       },
       {
          "name": "Bulgaria",
@@ -694,7 +694,7 @@
          "currency": "BGN",
          "time zone": "UTC+2",
          "calling code": "+359",
-         "id": 103695939073167693
+         "id": 225821486891492525
       },
       {
          "name": "Burkina Faso",
@@ -719,7 +719,7 @@
          "currency": "XOF",
          "time zone": "UTC",
          "calling code": "+226",
-         "id": 169870897604140117
+         "id": 201686170685122676
       },
       {
          "name": "Burundi",
@@ -749,7 +749,7 @@
          "currency": "FB",
          "time zone": "UTC+2",
          "calling code": "+257",
-         "id": 651354864945257276
+         "id": 811054948946103774
       },
       {
          "name": "Cambodia",
@@ -774,7 +774,7 @@
          "currency": "KHR",
          "time zone": "UTC+7",
          "calling code": "+855",
-         "id": 169878827134763163
+         "id": 279341832788588737
       },
       {
          "name": "Cameroon",
@@ -799,7 +799,7 @@
          "currency": "XAF",
          "time zone": "UTC+1",
          "calling code": "+237",
-         "id": 167182245889555349
+         "id": 308706920002172173
       },
       {
          "name": "Canada",
@@ -819,7 +819,7 @@
          "currency": "CAD",
          "time zone": "UTC-3",
          "calling code": "+1",
-         "id": 116182536718472010
+         "id": 188706213581682132
       },
       {
          "name": "Cape Verde",
@@ -843,7 +843,7 @@
          "currency": "CVE",
          "time zone": "UTC-1",
          "calling code": "+238",
-         "id": 183693355326552044
+         "id": 417766367463248133
       },
       {
          "name": "Central African Republic",
@@ -871,7 +871,7 @@
          "currency": "XAF",
          "time zone": "UTC+1",
          "calling code": "+236",
-         "id": 144515927660837150
+         "id": 278007958967377451
       },
       {
          "name": "Chad",
@@ -896,7 +896,7 @@
          "currency": "XAF",
          "time zone": "UTC+1",
          "calling code": "+235",
-         "id": 150679892252714129
+         "id": 325119919017227883
       },
       {
          "name": "Chile",
@@ -920,7 +920,7 @@
          "currency": "CLP",
          "time zone": "UTC-4",
          "calling code": "+56",
-         "id": 204122447048251100
+         "id": 988750875562296387
       },
       {
          "name": "China",
@@ -947,7 +947,7 @@
          "currency": "CNY",
          "time zone": "UTC+8",
          "calling code": "+86",
-         "id": 102873299450244525
+         "id": 337369210684656109
       },
       {
          "name": "Colombia",
@@ -971,7 +971,7 @@
          "currency": "COP",
          "time zone": "UTC-5",
          "calling code": "+57",
-         "id": 312251307717666069
+         "id": 218386218165706558
       },
       {
          "name": "Comoros",
@@ -994,7 +994,7 @@
          "currency": "KMF",
          "time zone": "UTC+3",
          "calling code": "+269",
-         "id": 214851638039224745
+         "id": 321944154856824982
       },
       {
          "name": "Democratic Republic of the Congo",
@@ -1021,7 +1021,7 @@
          "currency": "CDF",
          "time zone": "UTC+1",
          "calling code": "+243",
-         "id": 283275876786159315
+         "id": 108523900598222170
       },
       {
          "name": "Republic of the Congo",
@@ -1045,7 +1045,7 @@
          "currency": "XAF",
          "time zone": "UTC+1",
          "calling code": "+242",
-         "id": 244792660589644221
+         "id": 224340136079345116
       },
       {
          "name": "Costa Rica",
@@ -1070,7 +1070,7 @@
          "currency": "CRC",
          "time zone": "UTC-6",
          "calling code": "+506",
-         "id": 183536571296155392
+         "id": 164970550788492107
       },
       {
          "name": "Croatia",
@@ -1096,7 +1096,7 @@
          "currency": "HRK",
          "time zone": "UTC+1",
          "calling code": "+385",
-         "id": 183203492045384986
+         "id": 178061666612297525
       },
       {
          "name": "Cuba",
@@ -1119,7 +1119,7 @@
          "currency": "CUP",
          "time zone": "UTC-5",
          "calling code": "+53",
-         "id": 287451126105199182
+         "id": 178242807722600551
       },
       {
          "name": "Cyprus",
@@ -1143,7 +1143,7 @@
          "currency": "EUR",
          "time zone": "UTC+2",
          "calling code": "+357",
-         "id": 303829177079413160
+         "id": 253679760868159331
       },
       {
          "name": "Czech Republic",
@@ -1180,7 +1180,7 @@
          "currency": "CZK",
          "time zone": "UTC+1",
          "calling code": "+420",
-         "id": 335375361743394456
+         "id": 488153003453688810
       },
       {
          "name": "Denmark",
@@ -1206,7 +1206,7 @@
          "currency": "DKK",
          "time zone": "UTC+1",
          "calling code": "+45",
-         "id": 250145203708347544
+         "id": 207270215624029993
       },
       {
          "name": "Djibouti",
@@ -1231,7 +1231,7 @@
          "currency": "DJF",
          "time zone": "UTC+3",
          "calling code": "+253",
-         "id": 988259885712514206
+         "id": 103719606878012106
       },
       {
          "name": "Dominica",
@@ -1255,7 +1255,7 @@
          "currency": "XCD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 273037508194504697
+         "id": 116460554204908518
       },
       {
          "name": "Dominican Republic",
@@ -1281,7 +1281,7 @@
          "currency": "DOP",
          "time zone": "UTC",
          "calling code": "+1",
-         "id": 196457301092100469
+         "id": 301140118934814288
       },
       {
          "name": "East Timor",
@@ -1323,7 +1323,7 @@
          "currency": "USD",
          "time zone": "UTC+9",
          "calling code": "+670",
-         "id": 145695321028249282
+         "id": 184447325687493017
       },
       {
          "name": "Ecuador",
@@ -1348,7 +1348,7 @@
          "currency": "USD",
          "time zone": "UTC-5",
          "calling code": "+593",
-         "id": 183925775977637709
+         "id": 150488425712199849
       },
       {
          "name": "Egypt",
@@ -1370,7 +1370,7 @@
          "currency": "LE",
          "time zone": "UTC+2",
          "calling code": "+20",
-         "id": 258440800524785948
+         "id": 316047571244728636
       },
       {
          "name": "El Salvador",
@@ -1396,7 +1396,7 @@
          "currency": "USD",
          "time zone": "UTC-6",
          "calling code": "+503",
-         "id": 290211928515240691
+         "id": 320077186194830357
       },
       {
          "name": "Equatorial Guinea",
@@ -1422,7 +1422,7 @@
          "currency": "XAF",
          "time zone": "UTC+1",
          "calling code": "+240",
-         "id": 172201996324937792
+         "id": 134113816080982606
       },
       {
          "name": "Eritrea",
@@ -1448,7 +1448,7 @@
          "currency": "ERN",
          "time zone": "UTC+3",
          "calling code": "+291",
-         "id": 975509283313744437
+         "id": 329760077233810703
       },
       {
          "name": "Estonia",
@@ -1474,7 +1474,7 @@
          "currency": "EUR",
          "time zone": "UTC+2",
          "calling code": "+372",
-         "id": 619482537782608854
+         "id": 484703446050931189
       },
       {
          "name": "Eswatini",
@@ -1500,7 +1500,7 @@
          "currency": "SZL",
          "time zone": "UTC+2",
          "calling code": "+268",
-         "id": 157785783748542909
+         "id": 143946855340935693
       },
       {
          "name": "Ethiopia",
@@ -1532,7 +1532,7 @@
          "currency": "ETB",
          "time zone": "UTC+3",
          "calling code": "+251",
-         "id": 336873262196729321
+         "id": 287275718113593617
       },
       {
          "name": "Fiji",
@@ -1561,7 +1561,7 @@
          "currency": "FJD",
          "time zone": "UTC+12",
          "calling code": "+679",
-         "id": 707713649240990747
+         "id": 110321654692388203
       },
       {
          "name": "Finland",
@@ -1588,7 +1588,7 @@
          "currency": "EUR",
          "time zone": "UTC+2",
          "calling code": "+358",
-         "id": 217180368002844975
+         "id": 651319846146641396
       },
       {
          "name": "France",
@@ -1612,7 +1612,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+33",
-         "id": 320612755735622291
+         "id": 264189001334003052
       },
       {
          "name": "Gabon",
@@ -1636,10 +1636,10 @@
          "currency": "XAF",
          "time zone": "UTC+1",
          "calling code": "+241",
-         "id": 145456121145826917
+         "id": 543966054952330833
       },
       {
-         "name": "Gambia",
+         "name": "The Gambia",
          "link": "https://en.wikipedia.org/wiki/The_Gambia",
          "capital": "Banjul",
          "largest city": "",
@@ -1679,7 +1679,7 @@
          "currency": "GMD",
          "time zone": "UTC",
          "calling code": "+220",
-         "id": 726831243067547624
+         "id": 303582722076638332
       },
       {
          "name": "Georgia",
@@ -1705,7 +1705,7 @@
          "currency": "GEL",
          "time zone": "UTC+4",
          "calling code": "+995",
-         "id": 103106200189406428
+         "id": 143831869390209183
       },
       {
          "name": "Germany",
@@ -1724,7 +1724,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+49",
-         "id": 160523667100756772
+         "id": 110950203182700774
       },
       {
          "name": "Ghana",
@@ -1751,7 +1751,7 @@
          "currency": "GHS",
          "time zone": "UTC",
          "calling code": "+233",
-         "id": 224195619250345635
+         "id": 178381681063336212
       },
       {
          "name": "Greece",
@@ -1776,7 +1776,7 @@
          "currency": "EUR",
          "time zone": "UTC+2",
          "calling code": "+30",
-         "id": 190271626790477556
+         "id": 140849226514955777
       },
       {
          "name": "Grenada",
@@ -1803,7 +1803,7 @@
          "currency": "XCD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 246056271057080019
+         "id": 285895219571888759
       },
       {
          "name": "Guatemala",
@@ -1828,7 +1828,7 @@
          "currency": "GTQ",
          "time zone": "UTC-6",
          "calling code": "+502",
-         "id": 207629962058873955
+         "id": 102810081894422387
       },
       {
          "name": "Guinea",
@@ -1851,7 +1851,7 @@
          "currency": "GNF",
          "time zone": "UTC",
          "calling code": "+224",
-         "id": 622129915764681457
+         "id": 226812286829642002
       },
       {
          "name": "Guinea-Bissau",
@@ -1876,7 +1876,7 @@
          "currency": "XOF",
          "time zone": "UTC",
          "calling code": "+245",
-         "id": 192334947723449231
+         "id": 338335194995510305
       },
       {
          "name": "Guyana",
@@ -1901,7 +1901,7 @@
          "currency": "GYD",
          "time zone": "UTC-4",
          "calling code": "+592",
-         "id": 176372305638295698
+         "id": 208674490669266932
       },
       {
          "name": "Haiti",
@@ -1925,7 +1925,7 @@
          "currency": "HTG",
          "time zone": "UTC-5",
          "calling code": "+509",
-         "id": 794921332835853082
+         "id": 174081444270046406
       },
       {
          "name": "Honduras",
@@ -1949,7 +1949,7 @@
          "currency": "HNL",
          "time zone": "UTC-6",
          "calling code": "+504",
-         "id": 125232745057063918
+         "id": 286585675899539202
       },
       {
          "name": "Hungary",
@@ -1975,7 +1975,7 @@
          "currency": "HUF",
          "time zone": "UTC+1",
          "calling code": "+36",
-         "id": 983853383807567976
+         "id": 512061896743656156
       },
       {
          "name": "Iceland",
@@ -2000,7 +2000,7 @@
          "currency": "ISK",
          "time zone": "UTC",
          "calling code": "+354",
-         "id": 880658723426007895
+         "id": 792748376491966486
       },
       {
          "name": "India",
@@ -2029,7 +2029,7 @@
          "currency": "INR",
          "time zone": "UTC+5",
          "calling code": "+91",
-         "id": 166125745983079801
+         "id": 267448572477574983
       },
       {
          "name": "Indonesia",
@@ -2056,7 +2056,7 @@
          "currency": "IDR",
          "time zone": "UTC+7",
          "calling code": "+62",
-         "id": 145970241511809850
+         "id": 181390091397197239
       },
       {
          "name": "Iran",
@@ -2077,7 +2077,7 @@
          "currency": "IRR",
          "time zone": "UTC+3",
          "calling code": "+98",
-         "id": 147963681082061251
+         "id": 329150080747365468
       },
       {
          "name": "Iraq",
@@ -2107,10 +2107,10 @@
          "currency": "IQD",
          "time zone": "UTC+3",
          "calling code": "+964",
-         "id": 279023581664216424
+         "id": 173866043914186339
       },
       {
-         "name": "Ireland",
+         "name": "Republic of Ireland",
          "link": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
          "capital": "Dublin",
          "largest city": "Dublin",
@@ -2134,7 +2134,7 @@
          "currency": "EUR",
          "time zone": "UTC",
          "calling code": "+353",
-         "id": 107474271715258734
+         "id": 102398417485925194
       },
       {
          "name": "Israel",
@@ -2159,7 +2159,7 @@
          "currency": "ILS",
          "time zone": "UTC+2",
          "calling code": "+972",
-         "id": 573923810742190157
+         "id": 195517272604396865
       },
       {
          "name": "Italy",
@@ -2177,13 +2177,13 @@
          ],
          "government": "Unitary parliamentary republic",
          "area": 301230.0,
-         "population": 61095551,
-         "density": 202.8,
+         "population": 58853482,
+         "density": 195.4,
          "driving side": "right",
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+39",
-         "id": 280790272761793758
+         "id": 738542178204750805
       },
       {
          "name": "Ivory Coast",
@@ -2207,7 +2207,7 @@
          "currency": "XOF",
          "time zone": "UTC",
          "calling code": "+225",
-         "id": 131782557184648905
+         "id": 269972100561855573
       },
       {
          "name": "Jamaica",
@@ -2233,7 +2233,7 @@
          "currency": "JMD",
          "time zone": "UTC-5",
          "calling code": "+1",
-         "id": 190319394740944878
+         "id": 128128419041534174
       },
       {
          "name": "Japan",
@@ -2252,7 +2252,7 @@
          "currency": "¥",
          "time zone": "UTC+9",
          "calling code": "+81",
-         "id": 257381884423478246
+         "id": 296363729515014268
       },
       {
          "name": "Jordan",
@@ -2276,7 +2276,7 @@
          "currency": "JOD",
          "time zone": "UTC+3",
          "calling code": "+962",
-         "id": 194435174675266950
+         "id": 132452212069063267
       },
       {
          "name": "Kazakhstan",
@@ -2301,7 +2301,7 @@
          "currency": "KZT",
          "time zone": "UTC+5",
          "calling code": "+7",
-         "id": 294594361903956805
+         "id": 338132263736279157
       },
       {
          "name": "Kenya",
@@ -2330,7 +2330,7 @@
          "currency": "KES",
          "time zone": "UTC+3",
          "calling code": "+254",
-         "id": 270894911209717634
+         "id": 164790287429065953
       },
       {
          "name": "Kiribati",
@@ -2356,10 +2356,10 @@
          "currency": "AUD",
          "time zone": "UTC+12",
          "calling code": "+686",
-         "id": 246450565610520283
+         "id": 236881420027152776
       },
       {
-         "name": "Korea North",
+         "name": "North Korea",
          "link": "https://en.wikipedia.org/wiki/North_Korea",
          "capital": "Pyongyang",
          "largest city": "Pyongyang",
@@ -2383,10 +2383,10 @@
          "currency": "KPW",
          "time zone": "UTC+9",
          "calling code": "+850",
-         "id": 132610612612158229
+         "id": 288236203963613575
       },
       {
-         "name": "Korea South",
+         "name": "South Korea",
          "link": "https://en.wikipedia.org/wiki/South_Korea",
          "capital": "Seoul",
          "largest city": "Seoul",
@@ -2401,7 +2401,7 @@
             "Christianity",
             "Korean Buddhism"
          ],
-         "government": " April ",
+         "government": "Unitary presidential constitutional republic",
          "area": 100363.0,
          "population": 51844834,
          "density": 516.6,
@@ -2409,7 +2409,7 @@
          "currency": "KRW",
          "time zone": "UTC+9",
          "calling code": "+82",
-         "id": 986424474972469751
+         "id": 982346818701352369
       },
       {
          "name": "Kuwait",
@@ -2432,7 +2432,7 @@
          "currency": "Kuwaiti dinar",
          "time zone": "UTC+3",
          "calling code": "+965",
-         "id": 280343872187964599
+         "id": 213804137968311867
       },
       {
          "name": "Kyrgyzstan",
@@ -2456,7 +2456,7 @@
          "currency": "KGS",
          "time zone": "UTC+6",
          "calling code": "+996",
-         "id": 183409755924972793
+         "id": 163931773444274673
       },
       {
          "name": "Laos",
@@ -2481,7 +2481,7 @@
          "currency": "LAK",
          "time zone": "UTC+7",
          "calling code": "+856",
-         "id": 446690338476140199
+         "id": 159383774770535437
       },
       {
          "name": "Latvia",
@@ -2508,7 +2508,7 @@
          "currency": "EUR",
          "time zone": "UTC+2",
          "calling code": "+371",
-         "id": 323024414700153614
+         "id": 219496285853121258
       },
       {
          "name": "Lebanon",
@@ -2544,7 +2544,7 @@
          "currency": "LBP",
          "time zone": "UTC+2",
          "calling code": "+961",
-         "id": 303608480741165385
+         "id": 238653268159659663
       },
       {
          "name": "Lesotho",
@@ -2569,7 +2569,7 @@
          "currency": "LSL",
          "time zone": "UTC+2",
          "calling code": "+266",
-         "id": 330026707295363194
+         "id": 834454695208663887
       },
       {
          "name": "Liberia",
@@ -2592,7 +2592,7 @@
          "currency": "LRD",
          "time zone": "UTC",
          "calling code": "+231",
-         "id": 332638964345560285
+         "id": 291422845912719908
       },
       {
          "name": "Libya",
@@ -2613,7 +2613,7 @@
          "currency": "LYD",
          "time zone": "UTC+2",
          "calling code": "+218",
-         "id": 156080158112671849
+         "id": 189094310987668419
       },
       {
          "name": "Liechtenstein",
@@ -2639,7 +2639,7 @@
          "currency": "CHF",
          "time zone": "UTC+1",
          "calling code": "+423",
-         "id": 658082984740477430
+         "id": 294773406572789037
       },
       {
          "name": "Lithuania",
@@ -2664,7 +2664,7 @@
          "currency": "EUR",
          "time zone": "UTC+2",
          "calling code": "+370",
-         "id": 123528788606268070
+         "id": 105349108000244488
       },
       {
          "name": "Luxembourg",
@@ -2691,7 +2691,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+352",
-         "id": 175641221269193431
+         "id": 876387986114834134
       },
       {
          "name": "Madagascar",
@@ -2720,7 +2720,7 @@
          "currency": "MGA",
          "time zone": "UTC+3",
          "calling code": "+261",
-         "id": 284009549322182542
+         "id": 114343011643807026
       },
       {
          "name": "Malawi",
@@ -2748,7 +2748,7 @@
          "currency": "MWK",
          "time zone": "UTC+2",
          "calling code": "+265",
-         "id": 116614917565100075
+         "id": 187175614047929348
       },
       {
          "name": "Malaysia",
@@ -2767,7 +2767,7 @@
          "currency": "RM",
          "time zone": "UTC+8",
          "calling code": "+60",
-         "id": 113751675844927136
+         "id": 162992092345473327
       },
       {
          "name": "Maldives",
@@ -2788,7 +2788,7 @@
          "currency": "MVR",
          "time zone": "UTC+5",
          "calling code": "+960",
-         "id": 153170489844270860
+         "id": 884302024479932481
       },
       {
          "name": "Mali",
@@ -2810,7 +2810,7 @@
          "currency": "XOF",
          "time zone": "UTC",
          "calling code": "+223",
-         "id": 260388600767135950
+         "id": 378241518034545901
       },
       {
          "name": "Malta",
@@ -2836,7 +2836,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+356",
-         "id": 471125589375621665
+         "id": 118389736367709330
       },
       {
          "name": "Marshall Islands",
@@ -2862,7 +2862,7 @@
          "currency": "USD",
          "time zone": "UTC+12",
          "calling code": "+692",
-         "id": 146624169879256165
+         "id": 288257735367213564
       },
       {
          "name": "Mauritania",
@@ -2883,7 +2883,7 @@
          "currency": "MRU",
          "time zone": "UTC",
          "calling code": "+222",
-         "id": 889966371101208772
+         "id": 297203267063311779
       },
       {
          "name": "Mauritius",
@@ -2909,7 +2909,7 @@
          "currency": "MUR",
          "time zone": "UTC+4",
          "calling code": "+230",
-         "id": 363860395007792962
+         "id": 524604834451514081
       },
       {
          "name": "Mexico",
@@ -2933,10 +2933,10 @@
          "currency": "MXN",
          "time zone": "UTC-8",
          "calling code": "+52",
-         "id": 538908237310065849
+         "id": 459826871942123207
       },
       {
-         "name": "Micronesia",
+         "name": "Federated States of Micronesia",
          "link": "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia",
          "capital": "Palikir",
          "largest city": "",
@@ -2959,7 +2959,7 @@
          "currency": "USD",
          "time zone": "UTC+10",
          "calling code": "+691",
-         "id": 156558910707400444
+         "id": 195843476914133032
       },
       {
          "name": "Moldova",
@@ -2984,7 +2984,7 @@
          "currency": "MDL",
          "time zone": "UTC+2",
          "calling code": "+373",
-         "id": 628275188634847919
+         "id": 110804699910283410
       },
       {
          "name": "Monaco",
@@ -3009,7 +3009,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+377",
-         "id": 545869999135632284
+         "id": 314153699066211410
       },
       {
          "name": "Mongolia",
@@ -3037,7 +3037,7 @@
          "currency": "MNT",
          "time zone": "UTC+7",
          "calling code": "+976",
-         "id": 132585640918972333
+         "id": 293676222478674556
       },
       {
          "name": "Montenegro",
@@ -3063,7 +3063,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+382",
-         "id": 104731954803184623
+         "id": 162641351245770118
       },
       {
          "name": "Morocco",
@@ -3092,7 +3092,7 @@
          "currency": "MAD",
          "time zone": "UTC+1",
          "calling code": "+212",
-         "id": 268561224390907876
+         "id": 320946099956777722
       },
       {
          "name": "Mozambique",
@@ -3116,7 +3116,7 @@
          "currency": "MZN",
          "time zone": "UTC+2",
          "calling code": "+258",
-         "id": 163781216147753152
+         "id": 283672441125367601
       },
       {
          "name": "Myanmar",
@@ -3140,7 +3140,7 @@
          "currency": "MMK",
          "time zone": "UTC+6",
          "calling code": "+95",
-         "id": 322689366397035611
+         "id": 378620689286435296
       },
       {
          "name": "Namibia",
@@ -3167,7 +3167,7 @@
          "currency": "NAD",
          "time zone": "UTC+2",
          "calling code": "+264",
-         "id": 834670495601977257
+         "id": 331554634631763301
       },
       {
          "name": "Nauru",
@@ -3187,7 +3187,7 @@
          "currency": "AUD",
          "time zone": "UTC+12",
          "calling code": "+674",
-         "id": 267771853125559011
+         "id": 269617863789802068
       },
       {
          "name": "Nepal",
@@ -3213,10 +3213,10 @@
          "currency": "NPR",
          "time zone": "UTC+5",
          "calling code": "+977",
-         "id": 134393577297944350
+         "id": 301416628350765210
       },
       {
-         "name": "Netherlands",
+         "name": "Kingdom of the Netherlands",
          "link": "https://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands",
          "capital": "Amsterdam",
          "largest city": "Amsterdam",
@@ -3235,7 +3235,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+31",
-         "id": 858343404778013038
+         "id": 147707602989218636
       },
       {
          "name": "New Zealand",
@@ -3263,7 +3263,7 @@
          "currency": "NZD",
          "time zone": "UTC+12",
          "calling code": "+64",
-         "id": 136548892120323242
+         "id": 780473643196522611
       },
       {
          "name": "Nicaragua",
@@ -3288,7 +3288,7 @@
          "currency": "NIO",
          "time zone": "UTC-6",
          "calling code": "+505",
-         "id": 269830190936638788
+         "id": 193491179448275904
       },
       {
          "name": "Niger",
@@ -3323,7 +3323,7 @@
          "currency": "XOF",
          "time zone": "UTC+1",
          "calling code": "+227",
-         "id": 236995351145771631
+         "id": 279495395036391615
       },
       {
          "name": "Nigeria",
@@ -3345,7 +3345,7 @@
          "currency": "NGN",
          "time zone": "UTC+1",
          "calling code": "+234",
-         "id": 205248628762534516
+         "id": 174136516245005943
       },
       {
          "name": "North Macedonia",
@@ -3377,7 +3377,7 @@
          "currency": "MKD",
          "time zone": "UTC+1",
          "calling code": "+389",
-         "id": 519932170087890015
+         "id": 242472484889508359
       },
       {
          "name": "Norway",
@@ -3405,13 +3405,13 @@
          "currency": "NOK",
          "time zone": "UTC+1",
          "calling code": "+47",
-         "id": 150684256602805509
+         "id": 310198939052558072
       },
       {
          "name": "Oman",
          "link": "https://en.wikipedia.org/wiki/Oman",
-         "capital": "Abdali, ",
-         "largest city": "Abdali, ",
+         "capital": "Muscat",
+         "largest city": "Muscat",
          "languages": [
             "Arabic"
          ],
@@ -3432,7 +3432,7 @@
          "currency": "OMR",
          "time zone": "UTC+4",
          "calling code": "+968",
-         "id": 387405317221829731
+         "id": 715892262372462227
       },
       {
          "name": "Pakistan",
@@ -3457,7 +3457,7 @@
          "currency": "PKR",
          "time zone": "UTC+5",
          "calling code": "+92",
-         "id": 323282185280370510
+         "id": 837090829599810060
       },
       {
          "name": "Palau",
@@ -3482,10 +3482,10 @@
          "currency": "USD",
          "time zone": "UTC+9",
          "calling code": "+680",
-         "id": 317745551736054446
+         "id": 275493600622799291
       },
       {
-         "name": "Palestine",
+         "name": "State of Palestine",
          "link": "https://en.wikipedia.org/wiki/State_of_Palestine",
          "capital": "Jerusalem",
          "largest city": "Gaza City",
@@ -3501,7 +3501,7 @@
          "currency": "EGP",
          "time zone": "UTC+2",
          "calling code": "+970",
-         "id": 532662967512837796
+         "id": 500354374061021917
       },
       {
          "name": "Panama",
@@ -3526,7 +3526,7 @@
          "currency": "PAB",
          "time zone": "UTC-5",
          "calling code": "+507",
-         "id": 337020325361653564
+         "id": 948645754657297963
       },
       {
          "name": "Papua New Guinea",
@@ -3555,7 +3555,7 @@
          "currency": "PGK",
          "time zone": "UTC+10",
          "calling code": "+675",
-         "id": 240184650460832489
+         "id": 217749268653880056
       },
       {
          "name": "Paraguay",
@@ -3581,7 +3581,7 @@
          "currency": "PYG",
          "time zone": "UTC-4",
          "calling code": "+595",
-         "id": 195620057987779554
+         "id": 149456036377453164
       },
       {
          "name": "Peru",
@@ -3608,7 +3608,7 @@
          "currency": "PEN",
          "time zone": "UTC-5",
          "calling code": "+51",
-         "id": 245017381581246372
+         "id": 201176429710840648
       },
       {
          "name": "Philippines",
@@ -3635,7 +3635,7 @@
          "currency": "PHP",
          "time zone": "UTC+8",
          "calling code": "+63",
-         "id": 137276403117854521
+         "id": 284129894331712855
       },
       {
          "name": "Poland",
@@ -3660,7 +3660,7 @@
          "currency": "PLN",
          "time zone": "UTC+1",
          "calling code": "+48",
-         "id": 317181787342161501
+         "id": 100476767002729076
       },
       {
          "name": "Portugal",
@@ -3685,7 +3685,7 @@
          "currency": "EUR",
          "time zone": "UTC",
          "calling code": "+351",
-         "id": 144664983038150033
+         "id": 137844042284420338
       },
       {
          "name": "Qatar",
@@ -3710,7 +3710,7 @@
          "currency": "QAR",
          "time zone": "UTC+3",
          "calling code": "+974",
-         "id": 802566524454590613
+         "id": 337254706793185894
       },
       {
          "name": "Romania",
@@ -3736,7 +3736,7 @@
          "currency": "RON",
          "time zone": "UTC+2",
          "calling code": "+40",
-         "id": 230916342900042651
+         "id": 101969226493137961
       },
       {
          "name": "Russia",
@@ -3762,7 +3762,7 @@
          "currency": "RUB",
          "time zone": "UTC+2",
          "calling code": "+7",
-         "id": 225773814746405228
+         "id": 696645790796240798
       },
       {
          "name": "Rwanda",
@@ -3788,7 +3788,7 @@
          "currency": "RWF",
          "time zone": "UTC+2",
          "calling code": "+250",
-         "id": 176307743877476409
+         "id": 144121156055719166
       },
       {
          "name": "Saint Kitts and Nevis",
@@ -3813,7 +3813,7 @@
          "currency": "EC",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 159371959396561856
+         "id": 134471853555959101
       },
       {
          "name": "Saint Lucia",
@@ -3836,7 +3836,7 @@
          "currency": "XCD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 162562195529332493
+         "id": 164016179373894441
       },
       {
          "name": "Saint Vincent and the Grenadines",
@@ -3864,7 +3864,7 @@
          "currency": "XCD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 112787724508914830
+         "id": 243307547772793362
       },
       {
          "name": "Samoa",
@@ -3886,7 +3886,7 @@
          "currency": "WS",
          "time zone": "UTC+13",
          "calling code": "+685",
-         "id": 251441173274512552
+         "id": 234861035021054870
       },
       {
          "name": "San Marino",
@@ -3908,7 +3908,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+378",
-         "id": 247517299303689845
+         "id": 184469243279460124
       },
       {
          "name": "São Tomé and Príncipe",
@@ -3932,7 +3932,7 @@
          "currency": "STN",
          "time zone": "UTC",
          "calling code": "+239",
-         "id": 249982492558161974
+         "id": 312040340726380947
       },
       {
          "name": "Saudi Arabia",
@@ -3959,7 +3959,7 @@
          "currency": "SR",
          "time zone": "UTC+3",
          "calling code": "+966",
-         "id": 495033158747433935
+         "id": 144059357843456627
       },
       {
          "name": "Senegal",
@@ -3982,7 +3982,7 @@
          "currency": "XOF",
          "time zone": "UTC",
          "calling code": "+221",
-         "id": 196483039563370152
+         "id": 244290457299175584
       },
       {
          "name": "Serbia",
@@ -4009,7 +4009,7 @@
          "currency": "RSD",
          "time zone": "UTC+1",
          "calling code": "+381",
-         "id": 175064803215185992
+         "id": 280891144971248106
       },
       {
          "name": "Seychelles",
@@ -4038,7 +4038,7 @@
          "currency": "SCR",
          "time zone": "UTC+4",
          "calling code": "+248",
-         "id": 261896795053718088
+         "id": 302754987061913166
       },
       {
          "name": "Sierra Leone",
@@ -4060,7 +4060,7 @@
          "currency": "SLL",
          "time zone": "UTC",
          "calling code": "+232",
-         "id": 149609228265780743
+         "id": 204498292082614812
       },
       {
          "name": "Singapore",
@@ -4091,7 +4091,7 @@
          "currency": "SGD",
          "time zone": "UTC+8",
          "calling code": "+65",
-         "id": 299347814362980543
+         "id": 265239037697310948
       },
       {
          "name": "Slovakia",
@@ -4116,7 +4116,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+421",
-         "id": 927466913005605859
+         "id": 257246711927355661
       },
       {
          "name": "Slovenia",
@@ -4142,7 +4142,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+386",
-         "id": 191793192869776252
+         "id": 177000431324587378
       },
       {
          "name": "Solomon Islands",
@@ -4169,7 +4169,7 @@
          "currency": "SBD",
          "time zone": "UTC+11",
          "calling code": "+677",
-         "id": 178383554056700054
+         "id": 215887890960074000
       },
       {
          "name": "Somalia",
@@ -4191,7 +4191,7 @@
          "currency": "SOS",
          "time zone": "UTC+3",
          "calling code": "+252",
-         "id": 230848758170563280
+         "id": 310454825050141698
       },
       {
          "name": "South Africa",
@@ -4243,7 +4243,7 @@
          "currency": "ZAR",
          "time zone": "UTC+2",
          "calling code": "+27",
-         "id": 145534406982072384
+         "id": 453419255709379684
       },
       {
          "name": "South Sudan",
@@ -4268,7 +4268,7 @@
          "currency": "SSP",
          "time zone": "UTC+2",
          "calling code": "+211",
-         "id": 712273999942735750
+         "id": 939811755455906357
       },
       {
          "name": "Spain",
@@ -4290,7 +4290,7 @@
          "currency": "EUR",
          "time zone": "UTC",
          "calling code": "+34",
-         "id": 721662903906532938
+         "id": 130574542089863351
       },
       {
          "name": "Sri Lanka",
@@ -4315,7 +4315,7 @@
          "currency": "LKR",
          "time zone": "UTC+5",
          "calling code": "+94",
-         "id": 410198688609896755
+         "id": 230652032020166966
       },
       {
          "name": "Sudan",
@@ -4340,7 +4340,7 @@
          "currency": "SDG",
          "time zone": "UTC+2",
          "calling code": "+249",
-         "id": 166728193296569887
+         "id": 221621723590019692
       },
       {
          "name": "Suriname",
@@ -4366,7 +4366,7 @@
          "currency": "SRD",
          "time zone": "UTC-3",
          "calling code": "+597",
-         "id": 273709861768826281
+         "id": 276615219728960942
       },
       {
          "name": "Sweden",
@@ -4392,7 +4392,7 @@
          "currency": "SEK",
          "time zone": "UTC+1",
          "calling code": "+46",
-         "id": 165255199171297272
+         "id": 156389194722831227
       },
       {
          "name": "Switzerland",
@@ -4423,7 +4423,7 @@
          "currency": "CHF",
          "time zone": "UTC+1",
          "calling code": "+41",
-         "id": 217591918166837643
+         "id": 563273601684613624
       },
       {
          "name": "Syria",
@@ -4446,7 +4446,7 @@
          "currency": "SYP",
          "time zone": "UTC+3",
          "calling code": "+963",
-         "id": 289307648928511320
+         "id": 205716689856811136
       },
       {
          "name": "Tajikistan",
@@ -4471,7 +4471,7 @@
          "currency": "TJS",
          "time zone": "UTC+5",
          "calling code": "+992",
-         "id": 248573051232989354
+         "id": 155256661442230972
       },
       {
          "name": "Tanzania",
@@ -4498,7 +4498,7 @@
          "currency": "TZS",
          "time zone": "UTC+3",
          "calling code": "+255",
-         "id": 295369623722442486
+         "id": 633723123882268283
       },
       {
          "name": "Thailand",
@@ -4523,7 +4523,7 @@
          "currency": "THB",
          "time zone": "UTC+7",
          "calling code": "+66",
-         "id": 162828825793510544
+         "id": 217963114004997582
       },
       {
          "name": "Togo",
@@ -4549,7 +4549,7 @@
          "currency": "XOF",
          "time zone": "UTC",
          "calling code": "+228",
-         "id": 299145125208940159
+         "id": 238185352389151744
       },
       {
          "name": "Tonga",
@@ -4577,7 +4577,7 @@
          "currency": "TOP",
          "time zone": "UTC+13",
          "calling code": "+676",
-         "id": 168977199920874347
+         "id": 286796050440493318
       },
       {
          "name": "Trinidad and Tobago",
@@ -4602,7 +4602,7 @@
          "currency": "TTD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 126593176203232585
+         "id": 242963730179605061
       },
       {
          "name": "Tunisia",
@@ -4628,7 +4628,7 @@
          "currency": "TND",
          "time zone": "UTC+1",
          "calling code": "+216",
-         "id": 179922878522346170
+         "id": 287962857328478882
       },
       {
          "name": "Turkey",
@@ -4649,7 +4649,7 @@
          "currency": "TRY",
          "time zone": "UTC+3",
          "calling code": "+90",
-         "id": 219226033711127667
+         "id": 126588429097946962
       },
       {
          "name": "Turkmenistan",
@@ -4672,7 +4672,7 @@
          "currency": "TMT",
          "time zone": "UTC+5",
          "calling code": "+993",
-         "id": 357221128867040678
+         "id": 141966544936563187
       },
       {
          "name": "Tuvalu",
@@ -4695,7 +4695,7 @@
          "currency": "AUD",
          "time zone": "UTC+12",
          "calling code": "+688",
-         "id": 249071341191708136
+         "id": 313882996095779283
       },
       {
          "name": "Uganda",
@@ -4723,7 +4723,7 @@
          "currency": "UGX",
          "time zone": "UTC+3",
          "calling code": "+256",
-         "id": 310622095321636529
+         "id": 293720192467820875
       },
       {
          "name": "Ukraine",
@@ -4746,7 +4746,7 @@
          "currency": "UAH",
          "time zone": "UTC+2",
          "calling code": "+380",
-         "id": 319086940115355787
+         "id": 183713689294292295
       },
       {
          "name": "United Arab Emirates",
@@ -4771,7 +4771,7 @@
          "currency": "AED",
          "time zone": "UTC+4",
          "calling code": "+971",
-         "id": 124570828652732196
+         "id": 328777149157492700
       },
       {
          "name": "United Kingdom",
@@ -4796,7 +4796,7 @@
          "currency": "GBP",
          "time zone": "UTC",
          "calling code": "+44",
-         "id": 286161012059031833
+         "id": 232058124003558888
       },
       {
          "name": "United States",
@@ -4823,7 +4823,7 @@
          "currency": "USD",
          "time zone": "UTC-4",
          "calling code": "+1",
-         "id": 165350546239682465
+         "id": 100260556673009192
       },
       {
          "name": "Uruguay",
@@ -4848,7 +4848,7 @@
          "currency": "UYU",
          "time zone": "UTC-3",
          "calling code": "+598",
-         "id": 312277048469936121
+         "id": 228462952612690020
       },
       {
          "name": "Uzbekistan",
@@ -4871,7 +4871,7 @@
          "currency": "UZS",
          "time zone": "UTC+5",
          "calling code": "+998",
-         "id": 169646993127313268
+         "id": 973859459217851605
       },
       {
          "name": "Vanuatu",
@@ -4899,7 +4899,7 @@
          "currency": "VUV",
          "time zone": "UTC+11",
          "calling code": "+678",
-         "id": 195295783624733091
+         "id": 156329269654802905
       },
       {
          "name": "Vatican City",
@@ -4921,7 +4921,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+379",
-         "id": 778853035427727651
+         "id": 225975237522945838
       },
       {
          "name": "Venezuela",
@@ -4947,7 +4947,7 @@
          "currency": "VED",
          "time zone": "UTC-4",
          "calling code": "+58",
-         "id": 173592666605679224
+         "id": 241848500078770416
       },
       {
          "name": "Vietnam",
@@ -4974,7 +4974,7 @@
          "currency": "VND",
          "time zone": "UTC+7",
          "calling code": "+84",
-         "id": 154896327031354974
+         "id": 156456543576567183
       },
       {
          "name": "Yemen",
@@ -4998,7 +4998,7 @@
          "currency": "YER",
          "time zone": "UTC+3",
          "calling code": "+967",
-         "id": 244494429706101598
+         "id": 339984389861227201
       },
       {
          "name": "Zambia",
@@ -5019,7 +5019,7 @@
          "currency": "ZMW",
          "time zone": "UTC+2",
          "calling code": "+260",
-         "id": 336573490335262886
+         "id": 281667561066584017
       },
       {
          "name": "Zimbabwe",
@@ -5059,7 +5059,7 @@
          "currency": "USD",
          "time zone": "UTC+2",
          "calling code": "+263",
-         "id": 826803264989699517
+         "id": 178226503705916295
       },
       {
          "name": "Abkhazia",
@@ -5079,10 +5079,10 @@
          "currency": "RUB",
          "time zone": "UTC+3",
          "calling code": "+7",
-         "id": 184846056750652258
+         "id": 170561074463869638
       },
       {
-         "name": "Artsakh",
+         "name": "Republic of Artsakh",
          "link": "https://en.wikipedia.org/wiki/Republic_of_Artsakh",
          "capital": "Stepanakert",
          "largest city": "Stepanakert",
@@ -5099,7 +5099,7 @@
          "currency": "AMD",
          "time zone": "UTC+4",
          "calling code": "+374",
-         "id": 183063153019144114
+         "id": 532506664559047513
       },
       {
          "name": "Cook Islands",
@@ -5120,7 +5120,7 @@
          "currency": "NZD",
          "time zone": "UTC-10",
          "calling code": "+682",
-         "id": 238204056838754606
+         "id": 193865080585653900
       },
       {
          "name": "Kosovo",
@@ -5145,7 +5145,7 @@
          "currency": "EUR",
          "time zone": "UTC+1",
          "calling code": "+383",
-         "id": 240120443233459198
+         "id": 271890825860901713
       },
       {
          "name": "Niue",
@@ -5168,7 +5168,7 @@
          "currency": "NZD",
          "time zone": "UTC-11",
          "calling code": "+683",
-         "id": 301240954318880624
+         "id": 237861499549285016
       },
       {
          "name": "Northern Cyprus",
@@ -5187,10 +5187,10 @@
          "currency": "TRY",
          "time zone": "UTC+2",
          "calling code": "+90",
-         "id": 199908841033472112
+         "id": 124621339916849046
       },
       {
-         "name": "SADR",
+         "name": "Sahrawi Arab Democratic Republic",
          "link": "https://en.wikipedia.org/wiki/Sahrawi_Arab_Democratic_Republic",
          "capital": "Rabuni",
          "largest city": "",
@@ -5210,7 +5210,7 @@
          "currency": "Algerian dinar",
          "time zone": "UTC",
          "calling code": "",
-         "id": 124324123213100165
+         "id": 154998370578612995
       },
       {
          "name": "Somaliland",
@@ -5231,7 +5231,7 @@
          "currency": "Somaliland shilling",
          "time zone": "UTC+3",
          "calling code": "+252",
-         "id": 247013148678094441
+         "id": 271053552952231385
       },
       {
          "name": "South Ossetia",
@@ -5251,7 +5251,7 @@
          "currency": "RUB",
          "time zone": "UTC+3",
          "calling code": "+995",
-         "id": 299031440497285989
+         "id": 167291259453068009
       },
       {
          "name": "Taiwan",
@@ -5284,7 +5284,7 @@
          "currency": "NT",
          "time zone": "UTC+8",
          "calling code": "+886",
-         "id": 168700531936639769
+         "id": 305486846142765476
       },
       {
          "name": "Transnistria",
@@ -5305,7 +5305,7 @@
          "currency": "PRB",
          "time zone": "UTC+2",
          "calling code": "+373",
-         "id": 219538472196075179
+         "id": 228262204378113455
       }
    ]
 }
