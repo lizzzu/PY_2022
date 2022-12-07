@@ -68,7 +68,7 @@ def countries_by_key_value(key, value):
     key = key.replace('+', ' ').replace('-', ' ')
     if key == 'name':
         return [{key: j[key]} for j in db.reSearch(key, f'(?i).*{value.replace("+", " ")}')]
-    elif key in ['capital', 'largest city', 'languages', 'religions', 'government']:
+    elif key in ['capital', 'largest city', 'languages', 'religions', 'government', 'driving side']:
         return [{'name': j['name'], key: j[key]} for j in db.reSearch(key, f'(?i).*{value.replace("+", " ")}')]
     elif key != 'link':
         return [{'name': j['name'], key: j[key]} for j in db.getBy({key: value.upper()})]
